@@ -1,0 +1,14 @@
+DATA
+data2022_01.xlsx - prvý súbor, z ktorého vychádzam
+
+stĺpce:
+if alive 1st:if alive 2nd <- dva stĺpce, podmienka, zistenie či nie je chyba a mŕtve sadenice z predošlého roku napr. 2018 nebudú vedené ako živé v roku 2019
+
+dmgVzorec - vzorec ako som dostal damage compound (dmgComp)
+dmgComp - príklad ak v roku 2018:damage=10mm; 2019: damage=30mm; tak dmgComp=damage2018+damage2019=40mm
+
+
+obsahPlasta_mm - obsah plášťa kúžela (bez podstavy) - plocha kôry sadenice 
+aby sme vedeli spraviť premennú koľko % zožralo
+OP_pred	- ak neboli data z toho roku, pravdepodobne zomrela sadenica	
+Prepona - vypočítané pytag vetou z height a diameter ako pravouhly trojuholník pre účely výpočtu obsahu plášťa kúžela za účelom získania plochy kôry sadenice

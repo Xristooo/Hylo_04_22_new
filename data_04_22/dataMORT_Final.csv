@@ -1,0 +1,1358 @@
+uniqueID,site,year,block,row,treat,seedl_nr,height,diam_mm,damage,percentDebark,mort_date,mort_binar,notes,waxHeight_cm,rootCol,waxQual,origNotes,mort2,uniqueIDYear,unIDyearSite,transDamage.x.t,transDamage.x
+B10R1chemicalS1,clearcut,2018,10,1,chemical,1,0,0,0,0,2018,1,other,0,,0,other,1,B10R1chemicalS1_2018,B10R1chemicalS1_2018_clearcut,-0.593674658,0
+B10R1chemicalS10,clearcut,2018,10,1,chemical,10,31,5.1,10,10,0,0,alive,0,,0,alive,0,B10R1chemicalS10_2018,B10R1chemicalS10_2018_clearcut,-0.274589984,10
+B10R1chemicalS10,clearcut,2019,10,1,chemical,10,37,6.7,0,0,0,0,alive,0,,0,alive,0,B10R1chemicalS10_2019,B10R1chemicalS10_2019_clearcut,-0.593674658,0
+B10R1chemicalS10,clearcut,2020,10,1,chemical,10,59,12.6,0,0,0,0,alive,0,,0,alive,0,B10R1chemicalS10_2020,B10R1chemicalS10_2020_clearcut,-0.593674658,0
+B10R1chemicalS2,clearcut,2018,10,1,chemical,2,0,0,20,10,2018,1,other,0,,0,other,1,B10R1chemicalS2_2018,B10R1chemicalS2_2018_clearcut,-0.142420785,20
+B10R1chemicalS3,clearcut,2018,10,1,chemical,3,27,4.5,0,0,0,0,alive,0,,0,alive,0,B10R1chemicalS3_2018,B10R1chemicalS3_2018_clearcut,-0.593674658,0
+B10R1chemicalS3,clearcut,2019,10,1,chemical,3,33,5.2,0,0,0,0,alive,0,,0,alive,0,B10R1chemicalS3_2019,B10R1chemicalS3_2019_clearcut,-0.593674658,0
+B10R1chemicalS3,clearcut,2020,10,1,chemical,3,50,7.4,0,0,0,0,alive,0,,0,alive,0,B10R1chemicalS3_2020,B10R1chemicalS3_2020_clearcut,-0.593674658,0
+B10R1chemicalS4,clearcut,2018,10,1,chemical,4,0,0,30,20,2018,1,other,0,,0,other,1,B10R1chemicalS4_2018,B10R1chemicalS4_2018_clearcut,-0.041003791,30
+B10R1chemicalS5,clearcut,2018,10,1,chemical,5,65,9.2,10,10,0,0,alive,0,,0,alive,0,B10R1chemicalS5_2018,B10R1chemicalS5_2018_clearcut,-0.274589984,10
+B10R1chemicalS5,clearcut,2019,10,1,chemical,5,0,0,0,0,2019,1,other,0,,0,other,1,B10R1chemicalS5_2019,B10R1chemicalS5_2019_clearcut,-0.593674658,0
+B10R1chemicalS6,clearcut,2018,10,1,chemical,6,0,0,0,0,2018,1,other,0,,0,other,1,B10R1chemicalS6_2018,B10R1chemicalS6_2018_clearcut,-0.593674658,0
+B10R1chemicalS7,clearcut,2018,10,1,chemical,7,35,5.3,0,0,0,0,alive,0,,0,alive,0,B10R1chemicalS7_2018,B10R1chemicalS7_2018_clearcut,-0.593674658,0
+B10R1chemicalS7,clearcut,2019,10,1,chemical,7,41,7.4,0,0,0,0,alive,0,,0,alive,0,B10R1chemicalS7_2019,B10R1chemicalS7_2019_clearcut,-0.593674658,0
+B10R1chemicalS7,clearcut,2020,10,1,chemical,7,60,10.9,0,0,0,0,alive,0,,0,alive,0,B10R1chemicalS7_2020,B10R1chemicalS7_2020_clearcut,-0.593674658,0
+B10R1chemicalS8,clearcut,2018,10,1,chemical,8,0,0,20,0,2018,1,other,0,,0,other,1,B10R1chemicalS8_2018,B10R1chemicalS8_2018_clearcut,-0.142420785,20
+B10R1chemicalS9,clearcut,2018,10,1,chemical,9,0,0,0,10,2018,1,other,0,,0,other,1,B10R1chemicalS9_2018,B10R1chemicalS9_2018_clearcut,-0.593674658,0
+B10R2collarS1,clearcut,2018,10,2,collar,1,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B10R2collarS1_2018,B10R2collarS1_2018_clearcut,-0.593674658,0
+B10R2collarS10,clearcut,2018,10,2,collar,10,29,4.8,0,0,0,0,alive,0,,0,alive,0,B10R2collarS10_2018,B10R2collarS10_2018_clearcut,-0.593674658,0
+B10R2collarS10,clearcut,2019,10,2,collar,10,34,5.7,120,0,0,0,alive,0,,0,alive,0,B10R2collarS10_2019,B10R2collarS10_2019_clearcut,0.511667075,120
+B10R2collarS10,clearcut,2020,10,2,collar,10,48,9.1,0,0,0,0,alive,0,O,0,terminal,0,B10R2collarS10_2020,B10R2collarS10_2020_clearcut,-0.593674658,0
+B10R2collarS2,clearcut,2018,10,2,collar,2,30,4.6,0,0,0,0,alive,0,,0,terminal,0,B10R2collarS2_2018,B10R2collarS2_2018_clearcut,-0.593674658,0
+B10R2collarS2,clearcut,2019,10,2,collar,2,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B10R2collarS2_2019,B10R2collarS2_2019_clearcut,-0.593674658,0
+B10R2collarS3,clearcut,2018,10,2,collar,3,0,0,0,0,2018,1,other,0,,0,other,1,B10R2collarS3_2018,B10R2collarS3_2018_clearcut,-0.593674658,0
+B10R2collarS4,clearcut,2018,10,2,collar,4,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B10R2collarS4_2018,B10R2collarS4_2018_clearcut,-0.593674658,0
+B10R2collarS5,clearcut,2018,10,2,collar,5,39,6.6,0,0,0,0,alive,0,SH,0,alive,0,B10R2collarS5_2018,B10R2collarS5_2018_clearcut,-0.593674658,0
+B10R2collarS5,clearcut,2019,10,2,collar,5,47,9,150,50,0,0,alive,0,,0,alive,0,B10R2collarS5_2019,B10R2collarS5_2019_clearcut,0.642134969,150
+B10R2collarS5,clearcut,2020,10,2,collar,5,67,12.7,0,0,0,0,alive,0,O,0,alive,0,B10R2collarS5_2020,B10R2collarS5_2020_clearcut,-0.593674658,0
+B10R2collarS6,clearcut,2018,10,2,collar,6,35,4.5,0,0,0,0,alive,0,,0,alive,0,B10R2collarS6_2018,B10R2collarS6_2018_clearcut,-0.593674658,0
+B10R2collarS6,clearcut,2019,10,2,collar,6,40,5.5,180,70,0,0,alive,0,,0,alive,0,B10R2collarS6_2019,B10R2collarS6_2019_clearcut,0.760086961,180
+B10R2collarS6,clearcut,2020,10,2,collar,6,44,6.3,0,0,0,0,alive,0,Z,0,alive,0,B10R2collarS6_2020,B10R2collarS6_2020_clearcut,-0.593674658,0
+B10R2collarS7,clearcut,2018,10,2,collar,7,42,8.5,40,20,0,0,alive,0,,0,bad condition,0,B10R2collarS7_2018,B10R2collarS7_2018_clearcut,0.044494689,40
+B10R2collarS7,clearcut,2019,10,2,collar,7,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B10R2collarS7_2019,B10R2collarS7_2019_clearcut,-0.593674658,0
+B10R2collarS8,clearcut,2018,10,2,collar,8,32,6,0,0,0,0,alive,0,,0,alive,0,B10R2collarS8_2018,B10R2collarS8_2018_clearcut,-0.593674658,0
+B10R2collarS8,clearcut,2019,10,2,collar,8,40,9.3,20,10,0,0,alive,0,,0,alive,0,B10R2collarS8_2019,B10R2collarS8_2019_clearcut,-0.142420785,20
+B10R2collarS8,clearcut,2020,10,2,collar,8,68,13.7,0,0,0,0,alive,0,Z,0,alive,0,B10R2collarS8_2020,B10R2collarS8_2020_clearcut,-0.593674658,0
+B10R2collarS9,clearcut,2018,10,2,collar,9,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B10R2collarS9_2018,B10R2collarS9_2018_clearcut,-0.593674658,0
+B10R3wax FS1,clearcut,2018,10,3,wax F,1,0,0,0,0,2018,1,other,0,,1,other,1,B10R3wax FS1_2018,B10R3wax FS1_2018_clearcut,-0.593674658,0
+B10R3wax FS10,clearcut,2018,10,3,wax F,10,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B10R3wax FS10_2018,B10R3wax FS10_2018_clearcut,-0.593674658,0
+B10R3wax FS2,clearcut,2018,10,3,wax F,2,35,7,0,0,0,0,alive,0,,0,alive,0,B10R3wax FS2_2018,B10R3wax FS2_2018_clearcut,-0.593674658,0
+B10R3wax FS2,clearcut,2019,10,3,wax F,2,49,12,120,40,0,0,alive,0,,2,alive,0,B10R3wax FS2_2019,B10R3wax FS2_2019_clearcut,0.511667075,120
+B10R3wax FS2,clearcut,2020,10,3,wax F,2,62,15.4,250,0,0,0,alive,0,,3,alive,0,B10R3wax FS2_2020,B10R3wax FS2_2020_clearcut,1.00174871,250
+B10R3wax FS3,clearcut,2018,10,3,wax F,3,35,6.6,0,0,0,0,alive,0,,1,alive,0,B10R3wax FS3_2018,B10R3wax FS3_2018_clearcut,-0.593674658,0
+B10R3wax FS3,clearcut,2019,10,3,wax F,3,49,11.2,350,80,0,0,alive,0,,3,alive,0,B10R3wax FS3_2019,B10R3wax FS3_2019_clearcut,1.294055728,350
+B10R3wax FS3,clearcut,2020,10,3,wax F,3,57,13.3,200,0,0,0,alive,0,,4,alive,0,B10R3wax FS3_2020,B10R3wax FS3_2020_clearcut,0.833315383,200
+B10R3wax FS4,clearcut,2018,10,3,wax F,4,50,9.5,0,0,0,0,alive,0,,1,alive,0,B10R3wax FS4_2018,B10R3wax FS4_2018_clearcut,-0.593674658,0
+B10R3wax FS4,clearcut,2019,10,3,wax F,4,58,12,60,20,0,0,alive,0,,4,alive,0,B10R3wax FS4_2019,B10R3wax FS4_2019_clearcut,0.187919977,60
+B10R3wax FS4,clearcut,2020,10,3,wax F,4,73,7.5,0,0,0,0,alive,0,,4,alive,0,B10R3wax FS4_2020,B10R3wax FS4_2020_clearcut,-0.593674658,0
+B10R3wax FS5,clearcut,2018,10,3,wax F,5,40,7.5,0,0,0,0,alive,0,,0,alive,0,B10R3wax FS5_2018,B10R3wax FS5_2018_clearcut,-0.593674658,0
+B10R3wax FS5,clearcut,2019,10,3,wax F,5,51,8.5,0,0,0,0,alive,0,,3,alive,0,B10R3wax FS5_2019,B10R3wax FS5_2019_clearcut,-0.593674658,0
+B10R3wax FS5,clearcut,2020,10,3,wax F,5,74,11.7,0,0,0,0,alive,0,,4,alive,0,B10R3wax FS5_2020,B10R3wax FS5_2020_clearcut,-0.593674658,0
+B10R3wax FS6,clearcut,2018,10,3,wax F,6,47,10.2,0,0,0,0,alive,0,,0,alive,0,B10R3wax FS6_2018,B10R3wax FS6_2018_clearcut,-0.593674658,0
+B10R3wax FS6,clearcut,2019,10,3,wax F,6,54,10.8,110,30,0,0,alive,0,,2,alive,0,B10R3wax FS6_2019,B10R3wax FS6_2019_clearcut,0.464609481,110
+B10R3wax FS6,clearcut,2020,10,3,wax F,6,68,13.9,0,0,0,0,alive,0,,3,alive,0,B10R3wax FS6_2020,B10R3wax FS6_2020_clearcut,-0.593674658,0
+B10R3wax FS7,clearcut,2018,10,3,wax F,7,44,8.3,0,0,0,0,alive,0,,0,alive,0,B10R3wax FS7_2018,B10R3wax FS7_2018_clearcut,-0.593674658,0
+B10R3wax FS7,clearcut,2019,10,3,wax F,7,47,8.2,30,10,0,0,alive,0,,2,alive,0,B10R3wax FS7_2019,B10R3wax FS7_2019_clearcut,-0.041003791,30
+B10R3wax FS7,clearcut,2020,10,3,wax F,7,59,9.2,0,0,0,0,alive,0,,2,alive,0,B10R3wax FS7_2020,B10R3wax FS7_2020_clearcut,-0.593674658,0
+B10R3wax FS8,clearcut,2018,10,3,wax F,8,60,11,0,0,0,0,alive,0,,1,alive,0,B10R3wax FS8_2018,B10R3wax FS8_2018_clearcut,-0.593674658,0
+B10R3wax FS8,clearcut,2019,10,3,wax F,8,70,14.1,10,10,0,0,alive,0,,4,alive,0,B10R3wax FS8_2019,B10R3wax FS8_2019_clearcut,-0.274589984,10
+B10R3wax FS8,clearcut,2020,10,3,wax F,8,96,19.6,0,0,0,0,alive,0,,3,alive,0,B10R3wax FS8_2020,B10R3wax FS8_2020_clearcut,-0.593674658,0
+B10R3wax FS9,clearcut,2018,10,3,wax F,9,57,9.5,0,0,0,0,alive,0,,0,alive,0,B10R3wax FS9_2018,B10R3wax FS9_2018_clearcut,-0.593674658,0
+B10R3wax FS9,clearcut,2019,10,3,wax F,9,67,15.7,0,0,0,0,alive,0,,3,alive,0,B10R3wax FS9_2019,B10R3wax FS9_2019_clearcut,-0.593674658,0
+B10R3wax FS9,clearcut,2020,10,3,wax F,9,89,19.4,0,0,0,0,alive,0,,3,alive,0,B10R3wax FS9_2020,B10R3wax FS9_2020_clearcut,-0.593674658,0
+B10R4wax CS1,clearcut,2018,10,4,wax C,1,53,9.3,0,0,0,0,alive,0,,1,terminal,0,B10R4wax CS1_2018,B10R4wax CS1_2018_clearcut,-0.593674658,0
+B10R4wax CS1,clearcut,2019,10,4,wax C,1,54,8.2,500,40,0,0,alive,0,,2,alive,0,B10R4wax CS1_2019,B10R4wax CS1_2019_clearcut,1.662594706,500
+B10R4wax CS1,clearcut,2020,10,4,wax C,1,0,0,600,0,2020,1,Hylobius,0,,4,Hylobius,1,B10R4wax CS1_2020,B10R4wax CS1_2020_clearcut,1.877944595,600
+B10R4wax CS10,clearcut,2018,10,4,wax C,10,0,0,0,0,2018,1,other,0,,0,other,1,B10R4wax CS10_2018,B10R4wax CS10_2018_clearcut,-0.593674658,0
+B10R4wax CS2,clearcut,2018,10,4,wax C,2,71,14.5,0,0,0,0,alive,0,,0,terminal,0,B10R4wax CS2_2018,B10R4wax CS2_2018_clearcut,-0.593674658,0
+B10R4wax CS2,clearcut,2019,10,4,wax C,2,73,14,300,20,0,0,alive,0,,1,alive,0,B10R4wax CS2_2019,B10R4wax CS2_2019_clearcut,1.154024077,300
+B10R4wax CS2,clearcut,2020,10,4,wax C,2,96,23.9,0,0,0,0,alive,0,,2,alive,0,B10R4wax CS2_2020,B10R4wax CS2_2020_clearcut,-0.593674658,0
+B10R4wax CS3,clearcut,2018,10,4,wax C,3,42,7.1,0,0,0,0,alive,0,,1,alive,0,B10R4wax CS3_2018,B10R4wax CS3_2018_clearcut,-0.593674658,0
+B10R4wax CS3,clearcut,2019,10,4,wax C,3,53,9.8,250,30,0,0,alive,0,,3,alive,0,B10R4wax CS3_2019,B10R4wax CS3_2019_clearcut,1.00174871,250
+B10R4wax CS3,clearcut,2020,10,4,wax C,3,68,16.2,150,0,0,0,alive,0,,4,alive,0,B10R4wax CS3_2020,B10R4wax CS3_2020_clearcut,0.642134969,150
+B10R4wax CS4,clearcut,2018,10,4,wax C,4,0,0,0,0,2018,1,other,0,,0,human,1,B10R4wax CS4_2018,B10R4wax CS4_2018_clearcut,-0.593674658,0
+B10R4wax CS5,clearcut,2018,10,4,wax C,5,25,4.2,30,10,0,0,alive,0,,2,alive,0,B10R4wax CS5_2018,B10R4wax CS5_2018_clearcut,-0.041003791,30
+B10R4wax CS5,clearcut,2019,10,4,wax C,5,0,0,0,0,2019,1,other,0,,0,other,1,B10R4wax CS5_2019,B10R4wax CS5_2019_clearcut,-0.593674658,0
+B10R4wax CS6,clearcut,2018,10,4,wax C,6,56,10.1,0,0,0,0,alive,0,,1,terminal,0,B10R4wax CS6_2018,B10R4wax CS6_2018_clearcut,-0.593674658,0
+B10R4wax CS6,clearcut,2019,10,4,wax C,6,0,0,0,0,2019,1,other,0,,0,other,1,B10R4wax CS6_2019,B10R4wax CS6_2019_clearcut,-0.593674658,0
+B10R4wax CS7,clearcut,2018,10,4,wax C,7,0,0,0,0,2018,1,other,0,,1,human,1,B10R4wax CS7_2018,B10R4wax CS7_2018_clearcut,-0.593674658,0
+B10R4wax CS8,clearcut,2018,10,4,wax C,8,35,6.4,30,10,0,0,alive,0,,1,alive,0,B10R4wax CS8_2018,B10R4wax CS8_2018_clearcut,-0.041003791,30
+B10R4wax CS8,clearcut,2019,10,4,wax C,8,31,9.2,40,10,0,0,alive,0,,2,alive,0,B10R4wax CS8_2019,B10R4wax CS8_2019_clearcut,0.044494689,40
+B10R4wax CS8,clearcut,2020,10,4,wax C,8,50,9.3,90,0,0,0,alive,0,,4,alive,0,B10R4wax CS8_2020,B10R4wax CS8_2020_clearcut,0.363579363,90
+B10R4wax CS9,clearcut,2018,10,4,wax C,9,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B10R4wax CS9_2018,B10R4wax CS9_2018_clearcut,-0.593674658,0
+B10R5glueS1,clearcut,2018,10,5,glue,1,34,7.6,0,0,0,0,alive,0,,0,alive,0,B10R5glueS1_2018,B10R5glueS1_2018_clearcut,-0.593674658,0
+B10R5glueS1,clearcut,2019,10,5,glue,1,39,12.4,0,0,0,0,alive,0,,0,alive,0,B10R5glueS1_2019,B10R5glueS1_2019_clearcut,-0.593674658,0
+B10R5glueS1,clearcut,2020,10,5,glue,1,51,18,0,0,0,0,alive,0,,0,alive,0,B10R5glueS1_2020,B10R5glueS1_2020_clearcut,-0.593674658,0
+B10R5glueS10,clearcut,2018,10,5,glue,10,0,0,0,0,2018,1,other,0,,0,other,1,B10R5glueS10_2018,B10R5glueS10_2018_clearcut,-0.593674658,0
+B10R5glueS2,clearcut,2018,10,5,glue,2,50,8.5,0,0,0,0,alive,0,,0,terminal,0,B10R5glueS2_2018,B10R5glueS2_2018_clearcut,-0.593674658,0
+B10R5glueS2,clearcut,2019,10,5,glue,2,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B10R5glueS2_2019,B10R5glueS2_2019_clearcut,-0.593674658,0
+B10R5glueS3,clearcut,2018,10,5,glue,3,0,0,0,0,2018,1,other,0,,0,other,1,B10R5glueS3_2018,B10R5glueS3_2018_clearcut,-0.593674658,0
+B10R5glueS4,clearcut,2018,10,5,glue,4,19,3.3,0,0,0,0,alive,0,,0,alive,0,B10R5glueS4_2018,B10R5glueS4_2018_clearcut,-0.593674658,0
+B10R5glueS4,clearcut,2019,10,5,glue,4,0,0,0,0,2019,1,other,0,,0,other,1,B10R5glueS4_2019,B10R5glueS4_2019_clearcut,-0.593674658,0
+B10R5glueS5,clearcut,2018,10,5,glue,5,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B10R5glueS5_2018,B10R5glueS5_2018_clearcut,-0.593674658,0
+B10R5glueS6,clearcut,2018,10,5,glue,6,38,5.6,0,0,0,0,alive,0,,0,alive,0,B10R5glueS6_2018,B10R5glueS6_2018_clearcut,-0.593674658,0
+B10R5glueS6,clearcut,2019,10,5,glue,6,41,5.6,0,0,0,0,alive,0,,0,alive,0,B10R5glueS6_2019,B10R5glueS6_2019_clearcut,-0.593674658,0
+B10R5glueS6,clearcut,2020,10,5,glue,6,50,7.5,0,0,0,0,alive,0,,0,alive,0,B10R5glueS6_2020,B10R5glueS6_2020_clearcut,-0.593674658,0
+B10R5glueS7,clearcut,2018,10,5,glue,7,33,4,0,0,0,0,alive,0,,0,alive,0,B10R5glueS7_2018,B10R5glueS7_2018_clearcut,-0.593674658,0
+B10R5glueS7,clearcut,2019,10,5,glue,7,38,5.7,0,0,0,0,alive,0,,0,alive,0,B10R5glueS7_2019,B10R5glueS7_2019_clearcut,-0.593674658,0
+B10R5glueS7,clearcut,2020,10,5,glue,7,48,9.8,0,0,0,0,alive,0,,0,alive,0,B10R5glueS7_2020,B10R5glueS7_2020_clearcut,-0.593674658,0
+B10R5glueS8,clearcut,2018,10,5,glue,8,37,6.9,0,0,0,0,alive,0,,0,alive,0,B10R5glueS8_2018,B10R5glueS8_2018_clearcut,-0.593674658,0
+B10R5glueS8,clearcut,2019,10,5,glue,8,40,12,0,0,0,0,alive,0,,0,alive,0,B10R5glueS8_2019,B10R5glueS8_2019_clearcut,-0.593674658,0
+B10R5glueS8,clearcut,2020,10,5,glue,8,49,10.4,0,0,0,0,alive,0,,0,terminal,0,B10R5glueS8_2020,B10R5glueS8_2020_clearcut,-0.593674658,0
+B10R5glueS9,clearcut,2018,10,5,glue,9,0,0,0,0,2018,1,other,0,,0,other,1,B10R5glueS9_2018,B10R5glueS9_2018_clearcut,-0.593674658,0
+B10R6controlS1,clearcut,2018,10,6,control,1,0,0,0,0,2018,1,other,0,,0,other,1,B10R6controlS1_2018,B10R6controlS1_2018_clearcut,-0.593674658,0
+B10R6controlS10,clearcut,2018,10,6,control,10,41,6.5,0,0,0,0,alive,0,,0,alive,0,B10R6controlS10_2018,B10R6controlS10_2018_clearcut,-0.593674658,0
+B10R6controlS10,clearcut,2019,10,6,control,10,50,6.6,10,10,0,0,alive,0,,0,alive,0,B10R6controlS10_2019,B10R6controlS10_2019_clearcut,-0.274589984,10
+B10R6controlS10,clearcut,2020,10,6,control,10,57,9.7,160,0,0,0,alive,0,,0,terminal,0,B10R6controlS10_2020,B10R6controlS10_2020_clearcut,0.682664036,160
+B10R6controlS2,clearcut,2018,10,6,control,2,0,0,500,100,2018,1,Hylobius,0,,0,Hylobius,1,B10R6controlS2_2018,B10R6controlS2_2018_clearcut,1.662594706,500
+B10R6controlS3,clearcut,2018,10,6,control,3,0,0,950,100,2018,1,Hylobius,0,,0,Hylobius,1,B10R6controlS3_2018,B10R6controlS3_2018_clearcut,2.516378033,950
+B10R6controlS4,clearcut,2018,10,6,control,4,0,0,250,100,2018,1,Hylobius,0,,0,Hylobius,1,B10R6controlS4_2018,B10R6controlS4_2018_clearcut,1.00174871,250
+B10R6controlS5,clearcut,2018,10,6,control,5,40,5.6,300,50,0,0,alive,0,,0,alive,0,B10R6controlS5_2018,B10R6controlS5_2018_clearcut,1.154024077,300
+B10R6controlS5,clearcut,2019,10,6,control,5,45,8.7,130,40,0,0,alive,0,,0,alive,0,B10R6controlS5_2019,B10R6controlS5_2019_clearcut,0.556801494,130
+B10R6controlS5,clearcut,2020,10,6,control,5,45,8.5,400,0,0,0,alive,0,,0,alive,0,B10R6controlS5_2020,B10R6controlS5_2020_clearcut,1.424394012,400
+B10R6controlS6,clearcut,2018,10,6,control,6,32,4.2,0,0,0,0,alive,0,,0,alive,0,B10R6controlS6_2018,B10R6controlS6_2018_clearcut,-0.593674658,0
+B10R6controlS6,clearcut,2019,10,6,control,6,33,5.2,40,10,0,0,alive,0,,0,alive,0,B10R6controlS6_2019,B10R6controlS6_2019_clearcut,0.044494689,40
+B10R6controlS6,clearcut,2020,10,6,control,6,65,9.2,0,0,0,0,alive,0,,0,alive,0,B10R6controlS6_2020,B10R6controlS6_2020_clearcut,-0.593674658,0
+B10R6controlS7,clearcut,2018,10,6,control,7,52,8.3,0,0,0,0,alive,0,,0,alive,0,B10R6controlS7_2018,B10R6controlS7_2018_clearcut,-0.593674658,0
+B10R6controlS7,clearcut,2019,10,6,control,7,60,9.8,80,40,0,0,alive,0,,0,alive,0,B10R6controlS7_2019,B10R6controlS7_2019_clearcut,0.308833088,80
+B10R6controlS7,clearcut,2020,10,6,control,7,64,16.2,100,0,0,0,alive,0,,0,alive,0,B10R6controlS7_2020,B10R6controlS7_2020_clearcut,0.415359677,100
+B10R6controlS8,clearcut,2018,10,6,control,8,0,0,200,40,2018,1,Hylobius,0,,0,Hylobius,1,B10R6controlS8_2018,B10R6controlS8_2018_clearcut,0.833315383,200
+B10R6controlS9,clearcut,2018,10,6,control,9,25,5.5,0,0,0,0,alive,0,,0,alive,0,B10R6controlS9_2018,B10R6controlS9_2018_clearcut,-0.593674658,0
+B10R6controlS9,clearcut,2019,10,6,control,9,33,6.1,440,90,0,0,alive,0,,0,alive,0,B10R6controlS9_2019,B10R6controlS9_2019_clearcut,1.522893619,440
+B10R6controlS9,clearcut,2020,10,6,control,9,0,0,1200,0,2020,1,Hylobius,0,,0,Hylobius,1,B10R6controlS9_2020,B10R6controlS9_2020_clearcut,2.901722811,1200
+B1R1controlS1,clearcut,2018,1,1,control,1,65,10.9,110,30,0,0,alive,0,,0,alive,0,B1R1controlS1_2018,B1R1controlS1_2018_clearcut,0.464609481,110
+B1R1controlS1,clearcut,2019,1,1,control,1,56,13.9,1200,100,0,0,alive,0,,0,alive,0,B1R1controlS1_2019,B1R1controlS1_2019_clearcut,2.901722811,1200
+B1R1controlS1,clearcut,2020,1,1,control,1,65,17.3,2500,0,0,0,alive,0,,0,terminal,0,B1R1controlS1_2020,B1R1controlS1_2020_clearcut,4.451497016,2500
+B1R1controlS10,clearcut,2018,1,1,control,10,25,5.1,0,0,0,0,alive,0,,0,alive,0,B1R1controlS10_2018,B1R1controlS10_2018_clearcut,-0.593674658,0
+B1R1controlS10,clearcut,2019,1,1,control,10,38,7.9,480,100,0,0,alive,0,,0,alive,0,B1R1controlS10_2019,B1R1controlS10_2019_clearcut,1.617008808,480
+B1R1controlS10,clearcut,2020,1,1,control,10,47,13.8,150,0,0,0,alive,0,,0,terminal,0,B1R1controlS10_2020,B1R1controlS10_2020_clearcut,0.642134969,150
+B1R1controlS2,clearcut,2018,1,1,control,2,27,4.5,20,10,0,0,alive,0,,0,alive,0,B1R1controlS2_2018,B1R1controlS2_2018_clearcut,-0.142420785,20
+B1R1controlS2,clearcut,2019,1,1,control,2,0,0,250,100,2019,1,Hylobius,0,,0,Hylobius,1,B1R1controlS2_2019,B1R1controlS2_2019_clearcut,1.00174871,250
+B1R1controlS3,clearcut,2018,1,1,control,3,0,0,720,100,2018,1,Hylobius,0,,0,Hylobius,1,B1R1controlS3_2018,B1R1controlS3_2018_clearcut,2.113848579,720
+B1R1controlS4,clearcut,2018,1,1,control,4,0,0,10,10,2018,1,other,0,,0,human,1,B1R1controlS4_2018,B1R1controlS4_2018_clearcut,-0.274589984,10
+B1R1controlS5,clearcut,2018,1,1,control,5,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B1R1controlS5_2018,B1R1controlS5_2018_clearcut,-0.593674658,0
+B1R1controlS6,clearcut,2018,1,1,control,6,0,0,240,100,2018,1,Hylobius,0,,0,Hylobius,1,B1R1controlS6_2018,B1R1controlS6_2018_clearcut,0.969514612,240
+B1R1controlS7,clearcut,2018,1,1,control,7,0,0,0,0,2018,1,other,0,,0,other,1,B1R1controlS7_2018,B1R1controlS7_2018_clearcut,-0.593674658,0
+B1R1controlS8,clearcut,2018,1,1,control,8,0,0,180,100,2018,1,Hylobius,0,,0,Hylobius,1,B1R1controlS8_2018,B1R1controlS8_2018_clearcut,0.760086961,180
+B1R1controlS9,clearcut,2018,1,1,control,9,0,0,430,100,2018,1,Hylobius,0,,0,Hylobius,1,B1R1controlS9_2018,B1R1controlS9_2018_clearcut,1.498703473,430
+B1R2chemicalS1,clearcut,2018,1,2,chemical,1,27,5.4,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS1_2018,B1R2chemicalS1_2018_clearcut,-0.593674658,0
+B1R2chemicalS1,clearcut,2019,1,2,chemical,1,27,5.3,130,40,0,0,alive,0,,0,alive,0,B1R2chemicalS1_2019,B1R2chemicalS1_2019_clearcut,0.556801494,130
+B1R2chemicalS1,clearcut,2020,1,2,chemical,1,42,9.8,150,0,0,0,alive,0,,0,alive,0,B1R2chemicalS1_2020,B1R2chemicalS1_2020_clearcut,0.642134969,150
+B1R2chemicalS10,clearcut,2018,1,2,chemical,10,39,5.3,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS10_2018,B1R2chemicalS10_2018_clearcut,-0.593674658,0
+B1R2chemicalS10,clearcut,2019,1,2,chemical,10,0,0,0,0,2019,1,other,0,,0,human,1,B1R2chemicalS10_2019,B1R2chemicalS10_2019_clearcut,-0.593674658,0
+B1R2chemicalS2,clearcut,2018,1,2,chemical,2,54.5,8.5,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS2_2018,B1R2chemicalS2_2018_clearcut,-0.593674658,0
+B1R2chemicalS2,clearcut,2019,1,2,chemical,2,57,10.3,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS2_2019,B1R2chemicalS2_2019_clearcut,-0.593674658,0
+B1R2chemicalS2,clearcut,2020,1,2,chemical,2,79,15.8,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS2_2020,B1R2chemicalS2_2020_clearcut,-0.593674658,0
+B1R2chemicalS3,clearcut,2018,1,2,chemical,3,0,0,0,0,2018,1,other,0,,0,human,1,B1R2chemicalS3_2018,B1R2chemicalS3_2018_clearcut,-0.593674658,0
+B1R2chemicalS4,clearcut,2018,1,2,chemical,4,51,8.9,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS4_2018,B1R2chemicalS4_2018_clearcut,-0.593674658,0
+B1R2chemicalS4,clearcut,2019,1,2,chemical,4,33,5.3,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS4_2019,B1R2chemicalS4_2019_clearcut,-0.593674658,0
+B1R2chemicalS4,clearcut,2020,1,2,chemical,4,50,8.7,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS4_2020,B1R2chemicalS4_2020_clearcut,-0.593674658,0
+B1R2chemicalS5,clearcut,2018,1,2,chemical,5,29,6.5,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS5_2018,B1R2chemicalS5_2018_clearcut,-0.593674658,0
+B1R2chemicalS5,clearcut,2019,1,2,chemical,5,20,4.5,100,30,0,0,alive,0,,0,alive,0,B1R2chemicalS5_2019,B1R2chemicalS5_2019_clearcut,0.415359677,100
+B1R2chemicalS5,clearcut,2020,1,2,chemical,5,33,6.6,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS5_2020,B1R2chemicalS5_2020_clearcut,-0.593674658,0
+B1R2chemicalS6,clearcut,2018,1,2,chemical,6,27.5,4.6,10,0,0,0,alive,0,,0,terminal,0,B1R2chemicalS6_2018,B1R2chemicalS6_2018_clearcut,-0.274589984,10
+B1R2chemicalS6,clearcut,2019,1,2,chemical,6,20,4.2,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS6_2019,B1R2chemicalS6_2019_clearcut,-0.593674658,0
+B1R2chemicalS6,clearcut,2020,1,2,chemical,6,35,7,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS6_2020,B1R2chemicalS6_2020_clearcut,-0.593674658,0
+B1R2chemicalS7,clearcut,2018,1,2,chemical,7,11.5,3.1,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS7_2018,B1R2chemicalS7_2018_clearcut,-0.593674658,0
+B1R2chemicalS7,clearcut,2019,1,2,chemical,7,28,7.1,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS7_2019,B1R2chemicalS7_2019_clearcut,-0.593674658,0
+B1R2chemicalS7,clearcut,2020,1,2,chemical,7,0,0,0,0,2020,1,other,0,,0,other,1,B1R2chemicalS7_2020,B1R2chemicalS7_2020_clearcut,-0.593674658,0
+B1R2chemicalS8,clearcut,2018,1,2,chemical,8,18.5,3.2,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS8_2018,B1R2chemicalS8_2018_clearcut,-0.593674658,0
+B1R2chemicalS8,clearcut,2019,1,2,chemical,8,41,7.8,0,0,0,0,alive,0,,0,alive,0,B1R2chemicalS8_2019,B1R2chemicalS8_2019_clearcut,-0.593674658,0
+B1R2chemicalS8,clearcut,2020,1,2,chemical,8,0,0,0,0,2020,1,other,0,,0,other,1,B1R2chemicalS8_2020,B1R2chemicalS8_2020_clearcut,-0.593674658,0
+B1R2chemicalS9,clearcut,2018,1,2,chemical,9,36,5.5,110,20,0,0,alive,0,,0,alive,0,B1R2chemicalS9_2018,B1R2chemicalS9_2018_clearcut,0.464609481,110
+B1R2chemicalS9,clearcut,2019,1,2,chemical,9,0,0,0,0,2019,1,other,0,,0,human,1,B1R2chemicalS9_2019,B1R2chemicalS9_2019_clearcut,-0.593674658,0
+B1R3collarS1,clearcut,2018,1,3,collar,1,31,5.6,0,0,0,0,alive,0,,0,alive,0,B1R3collarS1_2018,B1R3collarS1_2018_clearcut,-0.593674658,0
+B1R3collarS1,clearcut,2019,1,3,collar,1,43,9.8,900,100,0,0,alive,0,,0,alive,0,B1R3collarS1_2019,B1R3collarS1_2019_clearcut,2.433428346,900
+B1R3collarS1,clearcut,2020,1,3,collar,1,0,0,0,0,2020,1,other,0,Z,0,other,1,B1R3collarS1_2020,B1R3collarS1_2020_clearcut,-0.593674658,0
+B1R3collarS10,clearcut,2018,1,3,collar,10,24,3.4,0,0,0,0,alive,0,,0,alive,0,B1R3collarS10_2018,B1R3collarS10_2018_clearcut,-0.593674658,0
+B1R3collarS10,clearcut,2019,1,3,collar,10,25,4.8,30,10,0,0,alive,0,,0,alive,0,B1R3collarS10_2019,B1R3collarS10_2019_clearcut,-0.041003791,30
+B1R3collarS10,clearcut,2020,1,3,collar,10,0,0,0,0,2020,1,other,0,,0,other,1,B1R3collarS10_2020,B1R3collarS10_2020_clearcut,-0.593674658,0
+B1R3collarS2,clearcut,2018,1,3,collar,2,30,4.2,0,0,0,0,alive,0,,0,alive,0,B1R3collarS2_2018,B1R3collarS2_2018_clearcut,-0.593674658,0
+B1R3collarS2,clearcut,2019,1,3,collar,2,31,7.7,2000,100,0,0,alive,0,,0,alive,0,B1R3collarS2_2019,B1R3collarS2_2019_clearcut,3.91886407,2000
+B1R3collarS2,clearcut,2020,1,3,collar,2,0,0,0,0,2020,1,other,0,Z,0,other,1,B1R3collarS2_2020,B1R3collarS2_2020_clearcut,-0.593674658,0
+B1R3collarS3,clearcut,2018,1,3,collar,3,47,7.9,0,0,0,0,alive,0,,0,alive,0,B1R3collarS3_2018,B1R3collarS3_2018_clearcut,-0.593674658,0
+B1R3collarS3,clearcut,2019,1,3,collar,3,51,13.4,850,100,0,0,alive,0,,0,alive,0,B1R3collarS3_2019,B1R3collarS3_2019_clearcut,2.348140675,850
+B1R3collarS3,clearcut,2020,1,3,collar,3,63,14.7,200,0,0,0,alive,0,Z,0,alive,0,B1R3collarS3_2020,B1R3collarS3_2020_clearcut,0.833315383,200
+B1R3collarS4,clearcut,2018,1,3,collar,4,30,5.2,0,0,0,0,alive,0,,0,alive,0,B1R3collarS4_2018,B1R3collarS4_2018_clearcut,-0.593674658,0
+B1R3collarS4,clearcut,2019,1,3,collar,4,31,7.8,350,80,0,0,alive,0,,0,alive,0,B1R3collarS4_2019,B1R3collarS4_2019_clearcut,1.294055728,350
+B1R3collarS4,clearcut,2020,1,3,collar,4,44,9.8,250,0,0,0,alive,0,Z,0,alive,0,B1R3collarS4_2020,B1R3collarS4_2020_clearcut,1.00174871,250
+B1R3collarS5,clearcut,2018,1,3,collar,5,27,5.1,0,0,0,0,alive,0,,0,alive,0,B1R3collarS5_2018,B1R3collarS5_2018_clearcut,-0.593674658,0
+B1R3collarS5,clearcut,2019,1,3,collar,5,31,7.2,80,40,0,0,alive,0,,0,alive,0,B1R3collarS5_2019,B1R3collarS5_2019_clearcut,0.308833088,80
+B1R3collarS5,clearcut,2020,1,3,collar,5,32,8.3,100,0,0,0,alive,0,O,0,alive,0,B1R3collarS5_2020,B1R3collarS5_2020_clearcut,0.415359677,100
+B1R3collarS6,clearcut,2018,1,3,collar,6,23,3.2,0,0,0,0,alive,0,,0,alive,0,B1R3collarS6_2018,B1R3collarS6_2018_clearcut,-0.593674658,0
+B1R3collarS6,clearcut,2019,1,3,collar,6,24,4.9,50,20,0,0,alive,0,,0,alive,0,B1R3collarS6_2019,B1R3collarS6_2019_clearcut,0.119820363,50
+B1R3collarS6,clearcut,2020,1,3,collar,6,0,0,0,0,2020,1,other,0,,0,other,1,B1R3collarS6_2020,B1R3collarS6_2020_clearcut,-0.593674658,0
+B1R3collarS7,clearcut,2018,1,3,collar,7,39,4.7,0,0,0,0,alive,0,,0,alive,0,B1R3collarS7_2018,B1R3collarS7_2018_clearcut,-0.593674658,0
+B1R3collarS7,clearcut,2019,1,3,collar,7,0,0,1500,100,2019,1,Hylobius,0,G chýba,0,Hylobius,1,B1R3collarS7_2019,B1R3collarS7_2019_clearcut,3.314298516,1500
+B1R3collarS8,clearcut,2018,1,3,collar,8,32,4.8,0,0,0,0,alive,0,,0,alive,0,B1R3collarS8_2018,B1R3collarS8_2018_clearcut,-0.593674658,0
+B1R3collarS8,clearcut,2019,1,3,collar,8,41,9,100,30,0,0,alive,0,,0,alive,0,B1R3collarS8_2019,B1R3collarS8_2019_clearcut,0.415359677,100
+B1R3collarS8,clearcut,2020,1,3,collar,8,45,10.4,50,0,0,0,alive,0,Z,0,alive,0,B1R3collarS8_2020,B1R3collarS8_2020_clearcut,0.119820363,50
+B1R3collarS9,clearcut,2018,1,3,collar,9,45,5,0,0,0,0,alive,0,,0,alive,0,B1R3collarS9_2018,B1R3collarS9_2018_clearcut,-0.593674658,0
+B1R3collarS9,clearcut,2019,1,3,collar,9,47,8.2,10,10,0,0,alive,0,,0,alive,0,B1R3collarS9_2019,B1R3collarS9_2019_clearcut,-0.274589984,10
+B1R3collarS9,clearcut,2020,1,3,collar,9,62,12.5,150,0,0,0,alive,0,Z,0,alive,0,B1R3collarS9_2020,B1R3collarS9_2020_clearcut,0.642134969,150
+B1R4wax CS1,clearcut,2018,1,4,wax C,1,0,0,0,0,2018,1,other,0,,1,other,1,B1R4wax CS1_2018,B1R4wax CS1_2018_clearcut,-0.593674658,0
+B1R4wax CS10,clearcut,2018,1,4,wax C,10,0,0,40,30,2018,1,other,0,,1,other,1,B1R4wax CS10_2018,B1R4wax CS10_2018_clearcut,0.044494689,40
+B1R4wax CS2,clearcut,2018,1,4,wax C,2,26,8.1,0,0,0,0,alive,0,,1,alive,0,B1R4wax CS2_2018,B1R4wax CS2_2018_clearcut,-0.593674658,0
+B1R4wax CS2,clearcut,2019,1,4,wax C,2,40,7.8,190,80,0,0,alive,0,,3,alive,0,B1R4wax CS2_2019,B1R4wax CS2_2019_clearcut,0.797183189,190
+B1R4wax CS2,clearcut,2020,1,4,wax C,2,0,0,1200,0,2020,1,Hylobius,0,,4,Hylobius,1,B1R4wax CS2_2020,B1R4wax CS2_2020_clearcut,2.901722811,1200
+B1R4wax CS3,clearcut,2018,1,4,wax C,3,43,8,0,0,0,0,alive,0,,1,alive,0,B1R4wax CS3_2018,B1R4wax CS3_2018_clearcut,-0.593674658,0
+B1R4wax CS3,clearcut,2019,1,4,wax C,3,46,10,1000,100,0,0,alive,0,,3,alive,0,B1R4wax CS3_2019,B1R4wax CS3_2019_clearcut,2.597172077,1000
+B1R4wax CS3,clearcut,2020,1,4,wax C,3,46,15.5,2000,0,0,0,alive,0,,4,alive,0,B1R4wax CS3_2020,B1R4wax CS3_2020_clearcut,3.91886407,2000
+B1R4wax CS4,clearcut,2018,1,4,wax C,4,37,9.4,0,0,0,0,alive,0,,0,terminal,0,B1R4wax CS4_2018,B1R4wax CS4_2018_clearcut,-0.593674658,0
+B1R4wax CS4,clearcut,2019,1,4,wax C,4,0,0,0,0,2019,1,other,0,,0,other,1,B1R4wax CS4_2019,B1R4wax CS4_2019_clearcut,-0.593674658,0
+B1R4wax CS5,clearcut,2018,1,4,wax C,5,0,0,0,0,2018,1,other,0,,1,other,1,B1R4wax CS5_2018,B1R4wax CS5_2018_clearcut,-0.593674658,0
+B1R4wax CS6,clearcut,2018,1,4,wax C,6,60,14.7,0,0,0,0,alive,0,,1,alive,0,B1R4wax CS6_2018,B1R4wax CS6_2018_clearcut,-0.593674658,0
+B1R4wax CS6,clearcut,2019,1,4,wax C,6,63,17.9,800,70,0,0,alive,0,,2,alive,0,B1R4wax CS6_2019,B1R4wax CS6_2019_clearcut,2.260305424,800
+B1R4wax CS6,clearcut,2020,1,4,wax C,6,63,14.7,1500,0,0,0,alive,0,,4,alive,0,B1R4wax CS6_2020,B1R4wax CS6_2020_clearcut,3.314298516,1500
+B1R4wax CS7,clearcut,2018,1,4,wax C,7,39,7.9,0,0,0,0,alive,0,,3,alive,0,B1R4wax CS7_2018,B1R4wax CS7_2018_clearcut,-0.593674658,0
+B1R4wax CS7,clearcut,2019,1,4,wax C,7,54,9.2,930,100,0,0,alive,0,,4,alive,0,B1R4wax CS7_2019,B1R4wax CS7_2019_clearcut,2.483466497,930
+B1R4wax CS7,clearcut,2020,1,4,wax C,7,54,12.9,1600,0,0,0,alive,0,,3,bad condition,0,B1R4wax CS7_2020,B1R4wax CS7_2020_clearcut,3.442462681,1600
+B1R4wax CS8,clearcut,2018,1,4,wax C,8,48,10.8,0,0,0,0,alive,0,,1,alive,0,B1R4wax CS8_2018,B1R4wax CS8_2018_clearcut,-0.593674658,0
+B1R4wax CS8,clearcut,2019,1,4,wax C,8,56,13.4,950,100,0,0,alive,0,,2,alive,0,B1R4wax CS8_2019,B1R4wax CS8_2019_clearcut,2.516378033,950
+B1R4wax CS8,clearcut,2020,1,4,wax C,8,0,0,0,0,2020,1,other,0,,0,other,1,B1R4wax CS8_2020,B1R4wax CS8_2020_clearcut,-0.593674658,0
+B1R4wax CS9,clearcut,2018,1,4,wax C,9,42,7.4,0,0,0,0,alive,0,,0,alive,0,B1R4wax CS9_2018,B1R4wax CS9_2018_clearcut,-0.593674658,0
+B1R4wax CS9,clearcut,2019,1,4,wax C,9,43,8.9,760,100,0,0,alive,0,,2,alive,0,B1R4wax CS9_2019,B1R4wax CS9_2019_clearcut,2.188041035,760
+B1R4wax CS9,clearcut,2020,1,4,wax C,9,0,0,0,0,2020,1,other,0,,0,other,1,B1R4wax CS9_2020,B1R4wax CS9_2020_clearcut,-0.593674658,0
+B1R5wax FS1,clearcut,2018,1,5,wax F,1,19,4.1,0,0,0,0,alive,0,,0,alive,0,B1R5wax FS1_2018,B1R5wax FS1_2018_clearcut,-0.593674658,0
+B1R5wax FS1,clearcut,2019,1,5,wax F,1,0,0,0,0,2019,1,other,0,,0,other,1,B1R5wax FS1_2019,B1R5wax FS1_2019_clearcut,-0.593674658,0
+B1R5wax FS10,clearcut,2018,1,5,wax F,10,39,8.6,0,0,0,0,alive,0,,1,alive,0,B1R5wax FS10_2018,B1R5wax FS10_2018_clearcut,-0.593674658,0
+B1R5wax FS10,clearcut,2019,1,5,wax F,10,20,7.8,0,0,0,0,alive,0,,1,alive,0,B1R5wax FS10_2019,B1R5wax FS10_2019_clearcut,-0.593674658,0
+B1R5wax FS10,clearcut,2020,1,5,wax F,10,30,7.4,0,0,0,0,alive,0,,2,alive,0,B1R5wax FS10_2020,B1R5wax FS10_2020_clearcut,-0.593674658,0
+B1R5wax FS11,clearcut,2018,1,5,wax F,11,17,6,0,0,0,0,alive,0,,0,alive,0,B1R5wax FS11_2018,B1R5wax FS11_2018_clearcut,-0.593674658,0
+B1R5wax FS11,clearcut,2019,1,5,wax F,11,38,12.9,1800,90,0,0,alive,0,,2,alive,0,B1R5wax FS11_2019,B1R5wax FS11_2019_clearcut,3.687295465,1800
+B1R5wax FS11,clearcut,2020,1,5,wax F,11,0,0,0,0,2020,1,other,0,,0,other,1,B1R5wax FS11_2020,B1R5wax FS11_2020_clearcut,-0.593674658,0
+B1R5wax FS2,clearcut,2018,1,5,wax F,2,30,4.9,0,0,0,0,alive,0,,0,alive,0,B1R5wax FS2_2018,B1R5wax FS2_2018_clearcut,-0.593674658,0
+B1R5wax FS2,clearcut,2019,1,5,wax F,2,31,5.1,0,0,0,0,alive,0,,0,alive,0,B1R5wax FS2_2019,B1R5wax FS2_2019_clearcut,-0.593674658,0
+B1R5wax FS2,clearcut,2020,1,5,wax F,2,40,8,200,0,0,0,alive,0,,2,alive,0,B1R5wax FS2_2020,B1R5wax FS2_2020_clearcut,0.833315383,200
+B1R5wax FS3,clearcut,2018,1,5,wax F,3,27,4.1,0,0,0,0,alive,0,,3,alive,0,B1R5wax FS3_2018,B1R5wax FS3_2018_clearcut,-0.593674658,0
+B1R5wax FS3,clearcut,2019,1,5,wax F,3,27,5,1500,100,0,0,alive,0,,4,alive,0,B1R5wax FS3_2019,B1R5wax FS3_2019_clearcut,3.314298516,1500
+B1R5wax FS3,clearcut,2020,1,5,wax F,3,0,0,2500,0,2020,1,Hylobius,0,,0,Hylobius,1,B1R5wax FS3_2020,B1R5wax FS3_2020_clearcut,4.451497016,2500
+B1R5wax FS4,clearcut,2018,1,5,wax F,4,0,0,0,0,2018,1,Hylastes,0,,2,Hylastes,1,B1R5wax FS4_2018,B1R5wax FS4_2018_clearcut,-0.593674658,0
+B1R5wax FS5,clearcut,2018,1,5,wax F,5,25,7.7,0,0,0,0,alive,0,,2,alive,0,B1R5wax FS5_2018,B1R5wax FS5_2018_clearcut,-0.593674658,0
+B1R5wax FS5,clearcut,2019,1,5,wax F,5,0,0,0,0,2019,1,other,0,,0,other,1,B1R5wax FS5_2019,B1R5wax FS5_2019_clearcut,-0.593674658,0
+B1R5wax FS6,clearcut,2018,1,5,wax F,6,34,6.5,0,0,0,0,alive,0,,0,alive,0,B1R5wax FS6_2018,B1R5wax FS6_2018_clearcut,-0.593674658,0
+B1R5wax FS6,clearcut,2019,1,5,wax F,6,0,0,0,0,2019,1,Hylastes,0,,1,Hylastes,1,B1R5wax FS6_2019,B1R5wax FS6_2019_clearcut,-0.593674658,0
+B1R5wax FS8,clearcut,2018,1,5,wax F,8,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B1R5wax FS8_2018,B1R5wax FS8_2018_clearcut,-0.593674658,0
+B1R5wax FS9,clearcut,2018,1,5,wax F,9,36,7,0,0,0,0,alive,0,,0,alive,0,B1R5wax FS9_2018,B1R5wax FS9_2018_clearcut,-0.593674658,0
+B1R5wax FS9,clearcut,2019,1,5,wax F,9,41,7.7,310,70,0,0,alive,0,,4,alive,0,B1R5wax FS9_2019,B1R5wax FS9_2019_clearcut,1.182913616,310
+B1R5wax FS9,clearcut,2020,1,5,wax F,9,45,10,1700,0,0,0,alive,0,,4,alive,0,B1R5wax FS9_2020,B1R5wax FS9_2020_clearcut,3.566680484,1700
+B1R6glueS1,clearcut,2018,1,6,glue,1,45,6.8,0,0,0,0,alive,0,,0,alive,0,B1R6glueS1_2018,B1R6glueS1_2018_clearcut,-0.593674658,0
+B1R6glueS1,clearcut,2019,1,6,glue,1,46,11.8,0,0,0,0,alive,0,,0,alive,0,B1R6glueS1_2019,B1R6glueS1_2019_clearcut,-0.593674658,0
+B1R6glueS1,clearcut,2020,1,6,glue,1,70,15.2,40,0,0,0,alive,0,,0,alive,0,B1R6glueS1_2020,B1R6glueS1_2020_clearcut,0.044494689,40
+B1R6glueS10,clearcut,2018,1,6,glue,10,58,10.3,0,0,0,0,alive,0,,0,alive,0,B1R6glueS10_2018,B1R6glueS10_2018_clearcut,-0.593674658,0
+B1R6glueS10,clearcut,2019,1,6,glue,10,62,17.8,150,30,0,0,alive,0,,0,alive,0,B1R6glueS10_2019,B1R6glueS10_2019_clearcut,0.642134969,150
+B1R6glueS10,clearcut,2020,1,6,glue,10,83,24.1,0,0,0,0,alive,0,,0,alive,0,B1R6glueS10_2020,B1R6glueS10_2020_clearcut,-0.593674658,0
+B1R6glueS2,clearcut,2018,1,6,glue,2,34,4.5,0,0,0,0,alive,0,,0,alive,0,B1R6glueS2_2018,B1R6glueS2_2018_clearcut,-0.593674658,0
+B1R6glueS2,clearcut,2019,1,6,glue,2,37,7.4,70,50,0,0,alive,0,,0,alive,0,B1R6glueS2_2019,B1R6glueS2_2019_clearcut,0.250544036,70
+B1R6glueS2,clearcut,2020,1,6,glue,2,0,0,0,0,2020,1,Hylastes,0,,0,Hylastes,1,B1R6glueS2_2020,B1R6glueS2_2020_clearcut,-0.593674658,0
+B1R6glueS3,clearcut,2018,1,6,glue,3,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B1R6glueS3_2018,B1R6glueS3_2018_clearcut,-0.593674658,0
+B1R6glueS4,clearcut,2018,1,6,glue,4,44,5.6,0,0,0,0,alive,0,,0,alive,0,B1R6glueS4_2018,B1R6glueS4_2018_clearcut,-0.593674658,0
+B1R6glueS4,clearcut,2019,1,6,glue,4,50,10.5,50,10,0,0,alive,0,,0,alive,0,B1R6glueS4_2019,B1R6glueS4_2019_clearcut,0.119820363,50
+B1R6glueS4,clearcut,2020,1,6,glue,4,61,14.8,50,0,0,0,alive,0,,0,alive,0,B1R6glueS4_2020,B1R6glueS4_2020_clearcut,0.119820363,50
+B1R6glueS5,clearcut,2018,1,6,glue,5,34,5.8,0,0,0,0,alive,0,,0,alive,0,B1R6glueS5_2018,B1R6glueS5_2018_clearcut,-0.593674658,0
+B1R6glueS5,clearcut,2019,1,6,glue,5,38,10.8,20,10,0,0,alive,0,,0,alive,0,B1R6glueS5_2019,B1R6glueS5_2019_clearcut,-0.142420785,20
+B1R6glueS5,clearcut,2020,1,6,glue,5,38,10,120,0,0,0,alive,0,,0,alive,0,B1R6glueS5_2020,B1R6glueS5_2020_clearcut,0.511667075,120
+B1R6glueS6,clearcut,2018,1,6,glue,6,34,5.5,0,0,0,0,alive,0,,0,alive,0,B1R6glueS6_2018,B1R6glueS6_2018_clearcut,-0.593674658,0
+B1R6glueS6,clearcut,2019,1,6,glue,6,37,8.3,80,30,0,0,alive,0,,0,alive,0,B1R6glueS6_2019,B1R6glueS6_2019_clearcut,0.308833088,80
+B1R6glueS6,clearcut,2020,1,6,glue,6,46,13.8,0,0,0,0,alive,0,,0,alive,0,B1R6glueS6_2020,B1R6glueS6_2020_clearcut,-0.593674658,0
+B1R6glueS7,clearcut,2018,1,6,glue,7,31,5.3,0,0,0,0,alive,0,,0,alive,0,B1R6glueS7_2018,B1R6glueS7_2018_clearcut,-0.593674658,0
+B1R6glueS7,clearcut,2019,1,6,glue,7,0,0,0,0,2019,1,other,0,,0,human,1,B1R6glueS7_2019,B1R6glueS7_2019_clearcut,-0.593674658,0
+B1R6glueS8,clearcut,2018,1,6,glue,8,12,3.1,0,0,0,0,alive,0,,0,bad condition,0,B1R6glueS8_2018,B1R6glueS8_2018_clearcut,-0.593674658,0
+B1R6glueS8,clearcut,2019,1,6,glue,8,0,0,0,0,2019,1,other,0,,0,other,1,B1R6glueS8_2019,B1R6glueS8_2019_clearcut,-0.593674658,0
+B1R6glueS9,clearcut,2018,1,6,glue,9,0,0,215,100,2018,1,Hylobius,0,,0,Hylobius,1,B1R6glueS9_2018,B1R6glueS9_2018_clearcut,0.885860107,215
+B2R1wax FS1,clearcut,2018,2,1,wax F,1,21,4.4,0,0,0,0,alive,0,,0,alive,0,B2R1wax FS1_2018,B2R1wax FS1_2018_clearcut,-0.593674658,0
+B2R1wax FS1,clearcut,2019,2,1,wax F,1,22,7,350,90,0,0,alive,0,,1,alive,0,B2R1wax FS1_2019,B2R1wax FS1_2019_clearcut,1.294055728,350
+B2R1wax FS1,clearcut,2020,2,1,wax F,1,0,0,700,0,2020,1,Hylobius,0,,0,Hylobius,1,B2R1wax FS1_2020,B2R1wax FS1_2020_clearcut,2.075979256,700
+B2R1wax FS10,clearcut,2018,2,1,wax F,10,33,6.4,0,0,0,0,alive,0,,0,alive,0,B2R1wax FS10_2018,B2R1wax FS10_2018_clearcut,-0.593674658,0
+B2R1wax FS10,clearcut,2019,2,1,wax F,10,42,16.4,150,30,0,0,alive,0,,2,alive,0,B2R1wax FS10_2019,B2R1wax FS10_2019_clearcut,0.642134969,150
+B2R1wax FS10,clearcut,2020,2,1,wax F,10,56,13.5,150,0,0,0,alive,0,,3,alive,0,B2R1wax FS10_2020,B2R1wax FS10_2020_clearcut,0.642134969,150
+B2R1wax FS2,clearcut,2018,2,1,wax F,2,41,8.2,0,0,0,0,alive,0,,0,alive,0,B2R1wax FS2_2018,B2R1wax FS2_2018_clearcut,-0.593674658,0
+B2R1wax FS2,clearcut,2019,2,1,wax F,2,34,11.7,500,80,0,0,alive,0,,2,alive,0,B2R1wax FS2_2019,B2R1wax FS2_2019_clearcut,1.662594706,500
+B2R1wax FS2,clearcut,2020,2,1,wax F,2,0,0,2000,0,2020,1,Hylobius,0,,0,Hylobius,1,B2R1wax FS2_2020,B2R1wax FS2_2020_clearcut,3.91886407,2000
+B2R1wax FS3,clearcut,2018,2,1,wax F,3,43,10,0,0,0,0,alive,0,,0,alive,0,B2R1wax FS3_2018,B2R1wax FS3_2018_clearcut,-0.593674658,0
+B2R1wax FS3,clearcut,2019,2,1,wax F,3,60,11.9,1000,100,0,0,alive,0,,1,alive,0,B2R1wax FS3_2019,B2R1wax FS3_2019_clearcut,2.597172077,1000
+B2R1wax FS3,clearcut,2020,2,1,wax F,3,0,0,1000,0,2020,1,Hylobius,0,,0,Hylobius,1,B2R1wax FS3_2020,B2R1wax FS3_2020_clearcut,2.597172077,1000
+B2R1wax FS4,clearcut,2018,2,1,wax F,4,0,0,0,0,2018,1,other,0,,1,human,1,B2R1wax FS4_2018,B2R1wax FS4_2018_clearcut,-0.593674658,0
+B2R1wax FS5,clearcut,2018,2,1,wax F,5,0,0,0,0,2018,1,other,0,,0,human,1,B2R1wax FS5_2018,B2R1wax FS5_2018_clearcut,-0.593674658,0
+B2R1wax FS6,clearcut,2018,2,1,wax F,6,0,0,0,0,2018,1,other,0,,0,human,1,B2R1wax FS6_2018,B2R1wax FS6_2018_clearcut,-0.593674658,0
+B2R1wax FS7,clearcut,2018,2,1,wax F,7,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B2R1wax FS7_2018,B2R1wax FS7_2018_clearcut,-0.593674658,0
+B2R1wax FS8,clearcut,2018,2,1,wax F,8,0,0,0,0,2018,1,other,0,,0,human,1,B2R1wax FS8_2018,B2R1wax FS8_2018_clearcut,-0.593674658,0
+B2R1wax FS9,clearcut,2018,2,1,wax F,9,40,5.7,0,0,0,0,alive,0,,1,alive,0,B2R1wax FS9_2018,B2R1wax FS9_2018_clearcut,-0.593674658,0
+B2R1wax FS9,clearcut,2019,2,1,wax F,9,42,11,800,80,0,0,alive,0,,2,alive,0,B2R1wax FS9_2019,B2R1wax FS9_2019_clearcut,2.260305424,800
+B2R1wax FS9,clearcut,2020,2,1,wax F,9,0,0,700,0,2020,1,Hylobius,0,,0,Hylobius,1,B2R1wax FS9_2020,B2R1wax FS9_2020_clearcut,2.075979256,700
+B2R2collarS1,clearcut,2018,2,2,collar,1,0,0,50,50,2018,1,other,0,,0,other,1,B2R2collarS1_2018,B2R2collarS1_2018_clearcut,0.119820363,50
+B2R2collarS10,clearcut,2018,2,2,collar,10,35,4.3,0,0,0,0,alive,0,,0,alive,0,B2R2collarS10_2018,B2R2collarS10_2018_clearcut,-0.593674658,0
+B2R2collarS10,clearcut,2019,2,2,collar,10,39,6.2,0,0,0,0,alive,0,,0,alive,0,B2R2collarS10_2019,B2R2collarS10_2019_clearcut,-0.593674658,0
+B2R2collarS10,clearcut,2020,2,2,collar,10,63,11.5,0,0,0,0,alive,0,Z,0,alive,0,B2R2collarS10_2020,B2R2collarS10_2020_clearcut,-0.593674658,0
+B2R2collarS2,clearcut,2018,2,2,collar,2,34,3.7,0,0,0,0,alive,0,,0,alive,0,B2R2collarS2_2018,B2R2collarS2_2018_clearcut,-0.593674658,0
+B2R2collarS2,clearcut,2019,2,2,collar,2,44,5.9,0,0,0,0,alive,0,,0,alive,0,B2R2collarS2_2019,B2R2collarS2_2019_clearcut,-0.593674658,0
+B2R2collarS2,clearcut,2020,2,2,collar,2,44,7.7,0,0,0,0,alive,0,Z,0,alive,0,B2R2collarS2_2020,B2R2collarS2_2020_clearcut,-0.593674658,0
+B2R2collarS3,clearcut,2018,2,2,collar,3,37,5.3,0,0,0,0,alive,0,,0,alive,0,B2R2collarS3_2018,B2R2collarS3_2018_clearcut,-0.593674658,0
+B2R2collarS3,clearcut,2019,2,2,collar,3,43,6.7,0,0,0,0,alive,0,,0,alive,0,B2R2collarS3_2019,B2R2collarS3_2019_clearcut,-0.593674658,0
+B2R2collarS3,clearcut,2020,2,2,collar,3,47,9,0,0,0,0,alive,0,Z,0,alive,0,B2R2collarS3_2020,B2R2collarS3_2020_clearcut,-0.593674658,0
+B2R2collarS4,clearcut,2018,2,2,collar,4,37,3.8,80,50,0,0,alive,0,,0,alive,0,B2R2collarS4_2018,B2R2collarS4_2018_clearcut,0.308833088,80
+B2R2collarS4,clearcut,2019,2,2,collar,4,44,4.7,60,30,0,0,alive,0,,0,alive,0,B2R2collarS4_2019,B2R2collarS4_2019_clearcut,0.187919977,60
+B2R2collarS4,clearcut,2020,2,2,collar,4,47,8.2,500,0,0,0,alive,0,Z,0,alive,0,B2R2collarS4_2020,B2R2collarS4_2020_clearcut,1.662594706,500
+B2R2collarS5,clearcut,2018,2,2,collar,5,0,0,30,20,2018,1,Hylastes,0,,0,Hylastes,1,B2R2collarS5_2018,B2R2collarS5_2018_clearcut,-0.041003791,30
+B2R2collarS6,clearcut,2018,2,2,collar,6,0,0,70,40,2018,1,Hylobius,0,,0,Hylobius,1,B2R2collarS6_2018,B2R2collarS6_2018_clearcut,0.250544036,70
+B2R2collarS7,clearcut,2018,2,2,collar,7,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B2R2collarS7_2018,B2R2collarS7_2018_clearcut,-0.593674658,0
+B2R2collarS8,clearcut,2018,2,2,collar,8,38,5.4,30,20,0,0,alive,0,,0,alive,0,B2R2collarS8_2018,B2R2collarS8_2018_clearcut,-0.041003791,30
+B2R2collarS8,clearcut,2019,2,2,collar,8,46.5,8.7,120,20,0,0,alive,0,,0,alive,0,B2R2collarS8_2019,B2R2collarS8_2019_clearcut,0.511667075,120
+B2R2collarS8,clearcut,2020,2,2,collar,8,52,12,0,0,0,0,alive,0,Z,0,alive,0,B2R2collarS8_2020,B2R2collarS8_2020_clearcut,-0.593674658,0
+B2R2collarS9,clearcut,2018,2,2,collar,9,0,0,20,50,2018,1,Hylastes,0,,0,Hylastes,1,B2R2collarS9_2018,B2R2collarS9_2018_clearcut,-0.142420785,20
+B2R3glueS1,clearcut,2018,2,3,glue,1,36,5.5,0,0,0,0,alive,0,,0,alive,0,B2R3glueS1_2018,B2R3glueS1_2018_clearcut,-0.593674658,0
+B2R3glueS1,clearcut,2019,2,3,glue,1,43,7.6,50,20,0,0,alive,0,,0,alive,0,B2R3glueS1_2019,B2R3glueS1_2019_clearcut,0.119820363,50
+B2R3glueS1,clearcut,2020,2,3,glue,1,0,0,50,0,2020,1,Hylastes,0,,0,Hylastes,1,B2R3glueS1_2020,B2R3glueS1_2020_clearcut,0.119820363,50
+B2R3glueS10,clearcut,2018,2,3,glue,10,0,0,0,0,2018,1,other,0,,0,other,1,B2R3glueS10_2018,B2R3glueS10_2018_clearcut,-0.593674658,0
+B2R3glueS2,clearcut,2018,2,3,glue,2,55,8.3,0,0,0,0,alive,0,,0,alive,0,B2R3glueS2_2018,B2R3glueS2_2018_clearcut,-0.593674658,0
+B2R3glueS2,clearcut,2019,2,3,glue,2,59,11.6,90,20,0,0,alive,0,,0,alive,0,B2R3glueS2_2019,B2R3glueS2_2019_clearcut,0.363579363,90
+B2R3glueS2,clearcut,2020,2,3,glue,2,61,15.9,0,0,0,0,alive,0,,0,alive,0,B2R3glueS2_2020,B2R3glueS2_2020_clearcut,-0.593674658,0
+B2R3glueS3,clearcut,2018,2,3,glue,3,40,6.6,0,0,0,0,alive,0,,0,alive,0,B2R3glueS3_2018,B2R3glueS3_2018_clearcut,-0.593674658,0
+B2R3glueS3,clearcut,2019,2,3,glue,3,56,13.1,740,80,0,0,alive,0,,0,alive,0,B2R3glueS3_2019,B2R3glueS3_2019_clearcut,2.151195491,740
+B2R3glueS3,clearcut,2020,2,3,glue,3,63,17.3,0,0,0,0,alive,0,,0,alive,0,B2R3glueS3_2020,B2R3glueS3_2020_clearcut,-0.593674658,0
+B2R3glueS4,clearcut,2018,2,3,glue,4,31,5.3,0,0,0,0,alive,0,,0,alive,0,B2R3glueS4_2018,B2R3glueS4_2018_clearcut,-0.593674658,0
+B2R3glueS4,clearcut,2019,2,3,glue,4,37,5.9,40,10,0,0,alive,0,,0,alive,0,B2R3glueS4_2019,B2R3glueS4_2019_clearcut,0.044494689,40
+B2R3glueS4,clearcut,2020,2,3,glue,4,0,0,0,0,2020,1,other,0,,0,other,1,B2R3glueS4_2020,B2R3glueS4_2020_clearcut,-0.593674658,0
+B2R3glueS5,clearcut,2018,2,3,glue,5,31,5,0,0,0,0,alive,0,,0,alive,0,B2R3glueS5_2018,B2R3glueS5_2018_clearcut,-0.593674658,0
+B2R3glueS5,clearcut,2019,2,3,glue,5,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B2R3glueS5_2019,B2R3glueS5_2019_clearcut,-0.593674658,0
+B2R3glueS6,clearcut,2018,2,3,glue,6,38,5.7,0,0,0,0,alive,0,,0,bad condition,0,B2R3glueS6_2018,B2R3glueS6_2018_clearcut,-0.593674658,0
+B2R3glueS6,clearcut,2019,2,3,glue,6,0,0,0,0,2019,1,other,0,,0,other,1,B2R3glueS6_2019,B2R3glueS6_2019_clearcut,-0.593674658,0
+B2R3glueS7,clearcut,2018,2,3,glue,7,0,0,0,0,2018,1,other,0,,0,other,1,B2R3glueS7_2018,B2R3glueS7_2018_clearcut,-0.593674658,0
+B2R3glueS8,clearcut,2018,2,3,glue,8,42,5.6,0,0,0,0,alive,0,,0,alive,0,B2R3glueS8_2018,B2R3glueS8_2018_clearcut,-0.593674658,0
+B2R3glueS8,clearcut,2019,2,3,glue,8,0,0,250,50,2019,1,Hylobius,0,,0,Hylobius,1,B2R3glueS8_2019,B2R3glueS8_2019_clearcut,1.00174871,250
+B2R3glueS9,clearcut,2018,2,3,glue,9,0,0,0,0,2018,1,other,0,,0,other,1,B2R3glueS9_2018,B2R3glueS9_2018_clearcut,-0.593674658,0
+B2R4wax CS1,clearcut,2018,2,4,wax C,1,0,0,430,0,2018,1,Hylobius,0,,1,Hylobius,1,B2R4wax CS1_2018,B2R4wax CS1_2018_clearcut,1.498703473,430
+B2R4wax CS10,clearcut,2018,2,4,wax C,10,37,5.5,0,0,0,0,alive,0,,1,alive,0,B2R4wax CS10_2018,B2R4wax CS10_2018_clearcut,-0.593674658,0
+B2R4wax CS10,clearcut,2019,2,4,wax C,10,0,0,0,0,2019,1,other,0,,0,other,1,B2R4wax CS10_2019,B2R4wax CS10_2019_clearcut,-0.593674658,0
+B2R4wax CS2,clearcut,2018,2,4,wax C,2,25,6.1,0,0,0,0,alive,0,,0,alive,0,B2R4wax CS2_2018,B2R4wax CS2_2018_clearcut,-0.593674658,0
+B2R4wax CS2,clearcut,2019,2,4,wax C,2,29,7.4,190,100,0,0,alive,0,,4,alive,0,B2R4wax CS2_2019,B2R4wax CS2_2019_clearcut,0.797183189,190
+B2R4wax CS2,clearcut,2020,2,4,wax C,2,0,0,300,0,2020,1,Hylobius,0,,4,Hylobius,1,B2R4wax CS2_2020,B2R4wax CS2_2020_clearcut,1.154024077,300
+B2R4wax CS3,clearcut,2018,2,4,wax C,3,60,15.2,0,0,0,0,alive,0,,0,alive,0,B2R4wax CS3_2018,B2R4wax CS3_2018_clearcut,-0.593674658,0
+B2R4wax CS3,clearcut,2019,2,4,wax C,3,61,15,570,80,0,0,alive,0,,1,alive,0,B2R4wax CS3_2019,B2R4wax CS3_2019_clearcut,1.815361798,570
+B2R4wax CS3,clearcut,2020,2,4,wax C,3,67,17.2,1000,0,0,0,alive,0,,2,alive,0,B2R4wax CS3_2020,B2R4wax CS3_2020_clearcut,2.597172077,1000
+B2R4wax CS4,clearcut,2018,2,4,wax C,4,40,14.7,0,0,0,0,alive,0,,0,alive,0,B2R4wax CS4_2018,B2R4wax CS4_2018_clearcut,-0.593674658,0
+B2R4wax CS4,clearcut,2019,2,4,wax C,4,56,14.3,800,100,0,0,alive,0,,4,alive,0,B2R4wax CS4_2019,B2R4wax CS4_2019_clearcut,2.260305424,800
+B2R4wax CS4,clearcut,2020,2,4,wax C,4,74,18.4,1000,0,0,0,alive,0,,4,alive,0,B2R4wax CS4_2020,B2R4wax CS4_2020_clearcut,2.597172077,1000
+B2R4wax CS5,clearcut,2018,2,4,wax C,5,0,0,0,0,2018,1,Hylastes,0,,1,Hylastes,1,B2R4wax CS5_2018,B2R4wax CS5_2018_clearcut,-0.593674658,0
+B2R4wax CS6,clearcut,2018,2,4,wax C,6,0,0,0,0,2018,1,other,0,,0,human,1,B2R4wax CS6_2018,B2R4wax CS6_2018_clearcut,-0.593674658,0
+B2R4wax CS7,clearcut,2018,2,4,wax C,7,65,10.7,0,0,0,0,alive,0,,1,alive,0,B2R4wax CS7_2018,B2R4wax CS7_2018_clearcut,-0.593674658,0
+B2R4wax CS7,clearcut,2019,2,4,wax C,7,74,13.5,780,90,0,0,alive,0,,2,alive,0,B2R4wax CS7_2019,B2R4wax CS7_2019_clearcut,2.224404875,780
+B2R4wax CS7,clearcut,2020,2,4,wax C,7,102,21.7,200,0,0,0,alive,0,,3,alive,0,B2R4wax CS7_2020,B2R4wax CS7_2020_clearcut,0.833315383,200
+B2R4wax CS8,clearcut,2018,2,4,wax C,8,61,10.5,0,0,0,0,alive,0,,1,alive,0,B2R4wax CS8_2018,B2R4wax CS8_2018_clearcut,-0.593674658,0
+B2R4wax CS8,clearcut,2019,2,4,wax C,8,63,12.1,540,100,0,0,alive,0,,3,alive,0,B2R4wax CS8_2019,B2R4wax CS8_2019_clearcut,1.751109247,540
+B2R4wax CS8,clearcut,2020,2,4,wax C,8,0,0,0,0,2020,1,other,0,,0,human,1,B2R4wax CS8_2020,B2R4wax CS8_2020_clearcut,-0.593674658,0
+B2R4wax CS9,clearcut,2018,2,4,wax C,9,37,6.2,0,0,0,0,alive,0,,4,alive,0,B2R4wax CS9_2018,B2R4wax CS9_2018_clearcut,-0.593674658,0
+B2R4wax CS9,clearcut,2019,2,4,wax C,9,46,7.6,500,100,0,0,alive,0,,4,alive,0,B2R4wax CS9_2019,B2R4wax CS9_2019_clearcut,1.662594706,500
+B2R4wax CS9,clearcut,2020,2,4,wax C,9,0,0,2000,0,2020,1,Hylobius,0,,0,Hylobius,1,B2R4wax CS9_2020,B2R4wax CS9_2020_clearcut,3.91886407,2000
+B2R5chemicalS1,clearcut,2018,2,5,chemical,1,20,2.8,0,0,0,0,alive,0,,0,alive,0,B2R5chemicalS1_2018,B2R5chemicalS1_2018_clearcut,-0.593674658,0
+B2R5chemicalS1,clearcut,2019,2,5,chemical,1,20,2.9,0,0,0,0,alive,0,,0,alive,0,B2R5chemicalS1_2019,B2R5chemicalS1_2019_clearcut,-0.593674658,0
+B2R5chemicalS1,clearcut,2020,2,5,chemical,1,22,3.6,0,0,0,0,alive,0,,0,alive,0,B2R5chemicalS1_2020,B2R5chemicalS1_2020_clearcut,-0.593674658,0
+B2R5chemicalS10,clearcut,2018,2,5,chemical,10,0,0,0,0,2018,1,other,0,,0,other,1,B2R5chemicalS10_2018,B2R5chemicalS10_2018_clearcut,-0.593674658,0
+B2R5chemicalS2,clearcut,2018,2,5,chemical,2,0,0,30,20,2018,1,other,0,,0,other,1,B2R5chemicalS2_2018,B2R5chemicalS2_2018_clearcut,-0.041003791,30
+B2R5chemicalS3,clearcut,2018,2,5,chemical,3,0,0,10,10,2018,1,other,0,,0,other,1,B2R5chemicalS3_2018,B2R5chemicalS3_2018_clearcut,-0.274589984,10
+B2R5chemicalS4,clearcut,2018,2,5,chemical,4,0,0,150,35,2018,1,Hylobius,0,,0,Hylobius,1,B2R5chemicalS4_2018,B2R5chemicalS4_2018_clearcut,0.642134969,150
+B2R5chemicalS5,clearcut,2018,2,5,chemical,5,45,6.9,35,25,0,0,alive,0,,0,alive,0,B2R5chemicalS5_2018,B2R5chemicalS5_2018_clearcut,0.003278105,35
+B2R5chemicalS5,clearcut,2019,2,5,chemical,5,50,10.1,50,10,0,0,alive,0,,0,terminal,0,B2R5chemicalS5_2019,B2R5chemicalS5_2019_clearcut,0.119820363,50
+B2R5chemicalS5,clearcut,2020,2,5,chemical,5,67,17,0,0,0,0,alive,0,,0,alive,0,B2R5chemicalS5_2020,B2R5chemicalS5_2020_clearcut,-0.593674658,0
+B2R5chemicalS6,clearcut,2018,2,5,chemical,6,41,6.1,0,0,0,0,alive,0,,0,alive,0,B2R5chemicalS6_2018,B2R5chemicalS6_2018_clearcut,-0.593674658,0
+B2R5chemicalS6,clearcut,2019,2,5,chemical,6,44,7.5,0,0,0,0,alive,0,,0,alive,0,B2R5chemicalS6_2019,B2R5chemicalS6_2019_clearcut,-0.593674658,0
+B2R5chemicalS6,clearcut,2020,2,5,chemical,6,57,10.9,0,0,0,0,alive,0,,0,alive,0,B2R5chemicalS6_2020,B2R5chemicalS6_2020_clearcut,-0.593674658,0
+B2R5chemicalS7,clearcut,2018,2,5,chemical,7,0,0,90,60,2018,1,Hylobius,0,,0,Hylobius,1,B2R5chemicalS7_2018,B2R5chemicalS7_2018_clearcut,0.363579363,90
+B2R5chemicalS8,clearcut,2018,2,5,chemical,8,46,6.4,40,0,0,0,alive,0,,0,alive,0,B2R5chemicalS8_2018,B2R5chemicalS8_2018_clearcut,0.044494689,40
+B2R5chemicalS8,clearcut,2019,2,5,chemical,8,0,0,0,0,2019,1,other,0,,0,other,1,B2R5chemicalS8_2019,B2R5chemicalS8_2019_clearcut,-0.593674658,0
+B2R5chemicalS9,clearcut,2018,2,5,chemical,9,38,5.5,0,0,0,0,alive,0,,0,alive,0,B2R5chemicalS9_2018,B2R5chemicalS9_2018_clearcut,-0.593674658,0
+B2R5chemicalS9,clearcut,2019,2,5,chemical,9,54,10.7,0,0,0,0,alive,0,,0,alive,0,B2R5chemicalS9_2019,B2R5chemicalS9_2019_clearcut,-0.593674658,0
+B2R5chemicalS9,clearcut,2020,2,5,chemical,9,75,17.5,0,0,0,0,alive,0,,0,terminal,0,B2R5chemicalS9_2020,B2R5chemicalS9_2020_clearcut,-0.593674658,0
+B2R6controlS1,clearcut,2018,2,6,control,1,51,6.3,0,0,0,0,alive,0,,0,alive,0,B2R6controlS1_2018,B2R6controlS1_2018_clearcut,-0.593674658,0
+B2R6controlS1,clearcut,2019,2,6,control,1,57,10.7,1100,100,0,0,alive,0,,0,alive,0,B2R6controlS1_2019,B2R6controlS1_2019_clearcut,2.752913631,1100
+B2R6controlS1,clearcut,2020,2,6,control,1,63,13.5,1000,0,0,0,alive,0,,0,alive,0,B2R6controlS1_2020,B2R6controlS1_2020_clearcut,2.597172077,1000
+B2R6controlS10,clearcut,2018,2,6,control,10,48,5.6,510,50,0,0,alive,0,,0,alive,0,B2R6controlS10_2018,B2R6controlS10_2018_clearcut,1.685045701,510
+B2R6controlS10,clearcut,2019,2,6,control,10,53,6.3,1800,100,0,0,alive,0,,0,alive,0,B2R6controlS10_2019,B2R6controlS10_2019_clearcut,3.687295465,1800
+B2R6controlS10,clearcut,2020,2,6,control,10,0,0,0,0,2020,1,other,0,,0,other,1,B2R6controlS10_2020,B2R6controlS10_2020_clearcut,-0.593674658,0
+B2R6controlS2,clearcut,2018,2,6,control,2,30,5.6,0,0,0,0,alive,0,,0,alive,0,B2R6controlS2_2018,B2R6controlS2_2018_clearcut,-0.593674658,0
+B2R6controlS2,clearcut,2019,2,6,control,2,34,5.9,50,20,0,0,alive,0,,0,alive,0,B2R6controlS2_2019,B2R6controlS2_2019_clearcut,0.119820363,50
+B2R6controlS2,clearcut,2020,2,6,control,2,0,0,2000,0,2020,1,Hylobius,0,,0,Hylobius,1,B2R6controlS2_2020,B2R6controlS2_2020_clearcut,3.91886407,2000
+B2R6controlS3,clearcut,2018,2,6,control,3,32,5.1,20,10,0,0,alive,0,,0,alive,0,B2R6controlS3_2018,B2R6controlS3_2018_clearcut,-0.142420785,20
+B2R6controlS3,clearcut,2019,2,6,control,3,39,5,430,80,0,0,alive,0,,0,alive,0,B2R6controlS3_2019,B2R6controlS3_2019_clearcut,1.498703473,430
+B2R6controlS3,clearcut,2020,2,6,control,3,0,0,1500,0,2020,1,Hylobius,0,,0,Hylobius,1,B2R6controlS3_2020,B2R6controlS3_2020_clearcut,3.314298516,1500
+B2R6controlS4,clearcut,2018,2,6,control,4,0,0,140,90,2018,1,Hylobius,0,,0,Hylobius,1,B2R6controlS4_2018,B2R6controlS4_2018_clearcut,0.600230868,140
+B2R6controlS5,clearcut,2018,2,6,control,5,0,0,190,80,2018,1,Hylobius,0,,0,Hylobius,1,B2R6controlS5_2018,B2R6controlS5_2018_clearcut,0.797183189,190
+B2R6controlS6,clearcut,2018,2,6,control,6,33,5.8,1200,90,0,0,alive,0,,0,alive,0,B2R6controlS6_2018,B2R6controlS6_2018_clearcut,2.901722811,1200
+B2R6controlS6,clearcut,2019,2,6,control,6,0,0,450,90,2019,1,Hylobius,0,,0,Hylobius,1,B2R6controlS6_2019,B2R6controlS6_2019_clearcut,1.546810404,450
+B2R6controlS7,clearcut,2018,2,6,control,7,45,5.8,200,30,0,0,alive,0,,0,alive,0,B2R6controlS7_2018,B2R6controlS7_2018_clearcut,0.833315383,200
+B2R6controlS7,clearcut,2019,2,6,control,7,31,10.1,650,100,0,0,alive,0,,0,terminal,0,B2R6controlS7_2019,B2R6controlS7_2019_clearcut,1.978868223,650
+B2R6controlS7,clearcut,2020,2,6,control,7,42,10.4,500,0,0,0,alive,0,,0,alive,0,B2R6controlS7_2020,B2R6controlS7_2020_clearcut,1.662594706,500
+B2R6controlS8,clearcut,2018,2,6,control,8,0,0,200,100,2018,1,Hylobius,0,,0,Hylobius,1,B2R6controlS8_2018,B2R6controlS8_2018_clearcut,0.833315383,200
+B2R6controlS9,clearcut,2018,2,6,control,9,55,8.3,70,10,0,0,alive,0,,0,alive,0,B2R6controlS9_2018,B2R6controlS9_2018_clearcut,0.250544036,70
+B2R6controlS9,clearcut,2019,2,6,control,9,61,14.5,80,80,0,0,alive,0,,0,alive,0,B2R6controlS9_2019,B2R6controlS9_2019_clearcut,0.308833088,80
+B2R6controlS9,clearcut,2020,2,6,control,9,73,14.2,0,0,0,0,alive,0,,0,alive,0,B2R6controlS9_2020,B2R6controlS9_2020_clearcut,-0.593674658,0
+B3R1glueS10,clearcut,2018,3,1,glue,10,31,7,130,30,0,0,alive,0,,0,alive,0,B3R1glueS10_2018,B3R1glueS10_2018_clearcut,0.556801494,130
+B3R1glueS10,clearcut,2019,3,1,glue,10,45,11.4,150,40,0,0,alive,0,,0,alive,0,B3R1glueS10_2019,B3R1glueS10_2019_clearcut,0.642134969,150
+B3R1glueS10,clearcut,2020,3,1,glue,10,54,19.7,130,0,0,0,alive,0,,0,alive,0,B3R1glueS10_2020,B3R1glueS10_2020_clearcut,0.556801494,130
+B3R1glueS11,clearcut,2018,3,1,glue,11,43,10,0,0,0,0,alive,0,,0,alive,0,B3R1glueS11_2018,B3R1glueS11_2018_clearcut,-0.593674658,0
+B3R1glueS11,clearcut,2019,3,1,glue,11,0,0,0,0,2019,1,other,0,,0,human,1,B3R1glueS11_2019,B3R1glueS11_2019_clearcut,-0.593674658,0
+B3R1glueS2,clearcut,2018,3,1,glue,2,0,0,0,0,2018,1,other,0,,0,other,1,B3R1glueS2_2018,B3R1glueS2_2018_clearcut,-0.593674658,0
+B3R1glueS3,clearcut,2018,3,1,glue,3,24,3.6,0,0,0,0,alive,0,,0,alive,0,B3R1glueS3_2018,B3R1glueS3_2018_clearcut,-0.593674658,0
+B3R1glueS3,clearcut,2019,3,1,glue,3,37,7.6,100,30,0,0,alive,0,,0,alive,0,B3R1glueS3_2019,B3R1glueS3_2019_clearcut,0.415359677,100
+B3R1glueS3,clearcut,2020,3,1,glue,3,0,0,300,0,2020,1,Hylobius,0,,0,Hylobius,1,B3R1glueS3_2020,B3R1glueS3_2020_clearcut,1.154024077,300
+B3R1glueS4,clearcut,2018,3,1,glue,4,0,0,110,50,2018,1,Hylobius,0,,0,Hylobius,1,B3R1glueS4_2018,B3R1glueS4_2018_clearcut,0.464609481,110
+B3R1glueS5,clearcut,2018,3,1,glue,5,36,5.3,160,50,0,0,alive,0,,0,alive,0,B3R1glueS5_2018,B3R1glueS5_2018_clearcut,0.682664036,160
+B3R1glueS5,clearcut,2019,3,1,glue,5,0,0,0,0,2019,1,other,0,,0,other,1,B3R1glueS5_2019,B3R1glueS5_2019_clearcut,-0.593674658,0
+B3R1glueS6,clearcut,2018,3,1,glue,6,0,0,0,0,2018,1,other,0,,0,other,1,B3R1glueS6_2018,B3R1glueS6_2018_clearcut,-0.593674658,0
+B3R1glueS7,clearcut,2018,3,1,glue,7,26,4.7,30,20,0,0,alive,0,,0,alive,0,B3R1glueS7_2018,B3R1glueS7_2018_clearcut,-0.041003791,30
+B3R1glueS7,clearcut,2019,3,1,glue,7,46,11.9,0,0,0,0,alive,0,,0,alive,0,B3R1glueS7_2019,B3R1glueS7_2019_clearcut,-0.593674658,0
+B3R1glueS7,clearcut,2020,3,1,glue,7,62,15.9,150,0,0,0,alive,0,,0,alive,0,B3R1glueS7_2020,B3R1glueS7_2020_clearcut,0.642134969,150
+B3R1glueS8,clearcut,2018,3,1,glue,8,45,7.2,0,0,0,0,alive,0,,0,alive,0,B3R1glueS8_2018,B3R1glueS8_2018_clearcut,-0.593674658,0
+B3R1glueS8,clearcut,2019,3,1,glue,8,37,8.7,100,20,0,0,alive,0,,0,alive,0,B3R1glueS8_2019,B3R1glueS8_2019_clearcut,0.415359677,100
+B3R1glueS8,clearcut,2020,3,1,glue,8,41,12,100,0,0,0,alive,0,,0,alive,0,B3R1glueS8_2020,B3R1glueS8_2020_clearcut,0.415359677,100
+B3R1glueS9,clearcut,2018,3,1,glue,9,35,6.8,50,20,0,0,alive,0,,0,alive,0,B3R1glueS9_2018,B3R1glueS9_2018_clearcut,0.119820363,50
+B3R1glueS9,clearcut,2019,3,1,glue,9,33,10.2,50,10,0,0,alive,0,,0,alive,0,B3R1glueS9_2019,B3R1glueS9_2019_clearcut,0.119820363,50
+B3R1glueS9,clearcut,2020,3,1,glue,9,37,11.1,70,0,0,0,alive,0,,0,alive,0,B3R1glueS9_2020,B3R1glueS9_2020_clearcut,0.250544036,70
+B3R2wax CS1,clearcut,2018,3,2,wax C,1,46,8.5,0,0,0,0,alive,0,,1,alive,0,B3R2wax CS1_2018,B3R2wax CS1_2018_clearcut,-0.593674658,0
+B3R2wax CS1,clearcut,2019,3,2,wax C,1,50,10.6,220,70,0,0,alive,0,,3,alive,0,B3R2wax CS1_2019,B3R2wax CS1_2019_clearcut,0.902965124,220
+B3R2wax CS1,clearcut,2020,3,2,wax C,1,64,16.3,0,0,0,0,alive,0,,4,alive,0,B3R2wax CS1_2020,B3R2wax CS1_2020_clearcut,-0.593674658,0
+B3R2wax CS10,clearcut,2018,3,2,wax C,10,32,6.7,0,0,0,0,alive,0,,1,alive,0,B3R2wax CS10_2018,B3R2wax CS10_2018_clearcut,-0.593674658,0
+B3R2wax CS10,clearcut,2019,3,2,wax C,10,36,10.1,140,50,0,0,alive,0,,2,alive,0,B3R2wax CS10_2019,B3R2wax CS10_2019_clearcut,0.600230868,140
+B3R2wax CS10,clearcut,2020,3,2,wax C,10,46,10.2,1500,0,0,0,alive,0,,4,alive,0,B3R2wax CS10_2020,B3R2wax CS10_2020_clearcut,3.314298516,1500
+B3R2wax CS2,clearcut,2018,3,2,wax C,2,30,7.4,0,0,0,0,alive,0,,0,alive,0,B3R2wax CS2_2018,B3R2wax CS2_2018_clearcut,-0.593674658,0
+B3R2wax CS2,clearcut,2019,3,2,wax C,2,35,8.8,260,70,0,0,alive,0,,2,alive,0,B3R2wax CS2_2019,B3R2wax CS2_2019_clearcut,1.033344319,260
+B3R2wax CS2,clearcut,2020,3,2,wax C,2,46,12.2,0,0,0,0,alive,0,,3,alive,0,B3R2wax CS2_2020,B3R2wax CS2_2020_clearcut,-0.593674658,0
+B3R2wax CS3,clearcut,2018,3,2,wax C,3,0,0,0,0,2018,1,other,0,,1,other,1,B3R2wax CS3_2018,B3R2wax CS3_2018_clearcut,-0.593674658,0
+B3R2wax CS4,clearcut,2018,3,2,wax C,4,37,6.4,0,0,0,0,alive,0,,1,alive,0,B3R2wax CS4_2018,B3R2wax CS4_2018_clearcut,-0.593674658,0
+B3R2wax CS4,clearcut,2019,3,2,wax C,4,47,8.8,1800,100,0,0,alive,0,,3,alive,0,B3R2wax CS4_2019,B3R2wax CS4_2019_clearcut,3.687295465,1800
+B3R2wax CS4,clearcut,2020,3,2,wax C,4,0,0,1000,0,2020,1,Hylobius,0,,4,Hylobius,1,B3R2wax CS4_2020,B3R2wax CS4_2020_clearcut,2.597172077,1000
+B3R2wax CS5,clearcut,2018,3,2,wax C,5,45,7.9,0,0,0,0,alive,0,,1,alive,0,B3R2wax CS5_2018,B3R2wax CS5_2018_clearcut,-0.593674658,0
+B3R2wax CS5,clearcut,2019,3,2,wax C,5,49,10.2,640,100,0,0,alive,0,,3,alive,0,B3R2wax CS5_2019,B3R2wax CS5_2019_clearcut,1.95900273,640
+B3R2wax CS5,clearcut,2020,3,2,wax C,5,0,0,1200,0,2020,1,Hylobius,0,,4,Hylobius,1,B3R2wax CS5_2020,B3R2wax CS5_2020_clearcut,2.901722811,1200
+B3R2wax CS6,clearcut,2018,3,2,wax C,6,18,3.1,0,0,0,0,alive,0,,1,alive,0,B3R2wax CS6_2018,B3R2wax CS6_2018_clearcut,-0.593674658,0
+B3R2wax CS6,clearcut,2019,3,2,wax C,6,22,5.9,0,0,0,0,alive,0,,4,alive,0,B3R2wax CS6_2019,B3R2wax CS6_2019_clearcut,-0.593674658,0
+B3R2wax CS6,clearcut,2020,3,2,wax C,6,0,0,0,0,2020,1,other,0,,0,other,1,B3R2wax CS6_2020,B3R2wax CS6_2020_clearcut,-0.593674658,0
+B3R2wax CS7,clearcut,2018,3,2,wax C,7,39,8.7,0,0,0,0,alive,0,,1,alive,0,B3R2wax CS7_2018,B3R2wax CS7_2018_clearcut,-0.593674658,0
+B3R2wax CS7,clearcut,2019,3,2,wax C,7,47,10.6,1800,100,0,0,alive,0,,2,alive,0,B3R2wax CS7_2019,B3R2wax CS7_2019_clearcut,3.687295465,1800
+B3R2wax CS7,clearcut,2020,3,2,wax C,7,0,0,1500,0,2020,1,Hylobius,0,,3,Hylobius,1,B3R2wax CS7_2020,B3R2wax CS7_2020_clearcut,3.314298516,1500
+B3R2wax CS8,clearcut,2018,3,2,wax C,8,43,8.7,0,0,0,0,alive,0,,3,alive,0,B3R2wax CS8_2018,B3R2wax CS8_2018_clearcut,-0.593674658,0
+B3R2wax CS8,clearcut,2019,3,2,wax C,8,45,9.3,0,0,0,0,alive,0,,3,alive,0,B3R2wax CS8_2019,B3R2wax CS8_2019_clearcut,-0.593674658,0
+B3R2wax CS8,clearcut,2020,3,2,wax C,8,45,9.7,0,0,0,0,alive,0,,4,alive,0,B3R2wax CS8_2020,B3R2wax CS8_2020_clearcut,-0.593674658,0
+B3R2wax CS9,clearcut,2018,3,2,wax C,9,0,0,0,0,2018,1,other,0,,0,other,1,B3R2wax CS9_2018,B3R2wax CS9_2018_clearcut,-0.593674658,0
+B3R3chemicalS1,clearcut,2018,3,3,chemical,1,0,0,60,80,2018,1,other,0,,0,other,1,B3R3chemicalS1_2018,B3R3chemicalS1_2018_clearcut,0.187919977,60
+B3R3chemicalS10,clearcut,2018,3,3,chemical,10,42,5.6,10,5,0,0,alive,0,,0,alive,0,B3R3chemicalS10_2018,B3R3chemicalS10_2018_clearcut,-0.274589984,10
+B3R3chemicalS10,clearcut,2019,3,3,chemical,10,42,7.8,0,0,0,0,alive,0,,0,alive,0,B3R3chemicalS10_2019,B3R3chemicalS10_2019_clearcut,-0.593674658,0
+B3R3chemicalS10,clearcut,2020,3,3,chemical,10,53,11,0,0,0,0,alive,0,,0,alive,0,B3R3chemicalS10_2020,B3R3chemicalS10_2020_clearcut,-0.593674658,0
+B3R3chemicalS2,clearcut,2018,3,3,chemical,2,0,0,0,0,2018,1,other,0,,0,other,1,B3R3chemicalS2_2018,B3R3chemicalS2_2018_clearcut,-0.593674658,0
+B3R3chemicalS3,clearcut,2018,3,3,chemical,3,0,0,50,20,2018,1,other,0,,0,other,1,B3R3chemicalS3_2018,B3R3chemicalS3_2018_clearcut,0.119820363,50
+B3R3chemicalS4,clearcut,2018,3,3,chemical,4,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B3R3chemicalS4_2018,B3R3chemicalS4_2018_clearcut,-0.593674658,0
+B3R3chemicalS5,clearcut,2018,3,3,chemical,5,0,0,100,90,2018,1,Hylobius,0,,0,Hylobius,1,B3R3chemicalS5_2018,B3R3chemicalS5_2018_clearcut,0.415359677,100
+B3R3chemicalS6,clearcut,2018,3,3,chemical,6,40,8.5,0,0,0,0,alive,0,,0,alive,0,B3R3chemicalS6_2018,B3R3chemicalS6_2018_clearcut,-0.593674658,0
+B3R3chemicalS6,clearcut,2019,3,3,chemical,6,41,10.1,10,10,0,0,alive,0,,0,alive,0,B3R3chemicalS6_2019,B3R3chemicalS6_2019_clearcut,-0.274589984,10
+B3R3chemicalS6,clearcut,2020,3,3,chemical,6,56,17.9,20,0,0,0,alive,0,,0,alive,0,B3R3chemicalS6_2020,B3R3chemicalS6_2020_clearcut,-0.142420785,20
+B3R3chemicalS7,clearcut,2018,3,3,chemical,7,46,8.3,0,0,0,0,alive,0,,0,alive,0,B3R3chemicalS7_2018,B3R3chemicalS7_2018_clearcut,-0.593674658,0
+B3R3chemicalS7,clearcut,2019,3,3,chemical,7,51,11.3,20,10,0,0,alive,0,,0,alive,0,B3R3chemicalS7_2019,B3R3chemicalS7_2019_clearcut,-0.142420785,20
+B3R3chemicalS7,clearcut,2020,3,3,chemical,7,43,17.5,0,0,0,0,alive,0,,0,terminal,0,B3R3chemicalS7_2020,B3R3chemicalS7_2020_clearcut,-0.593674658,0
+B3R3chemicalS8,clearcut,2018,3,3,chemical,8,50,6.9,0,0,0,0,alive,0,,0,alive,0,B3R3chemicalS8_2018,B3R3chemicalS8_2018_clearcut,-0.593674658,0
+B3R3chemicalS8,clearcut,2019,3,3,chemical,8,51,9.3,40,10,0,0,alive,0,,0,alive,0,B3R3chemicalS8_2019,B3R3chemicalS8_2019_clearcut,0.044494689,40
+B3R3chemicalS8,clearcut,2020,3,3,chemical,8,75,15.6,0,0,0,0,alive,0,,0,alive,0,B3R3chemicalS8_2020,B3R3chemicalS8_2020_clearcut,-0.593674658,0
+B3R3chemicalS9,clearcut,2018,3,3,chemical,9,39,5.9,0,0,0,0,alive,0,,0,alive,0,B3R3chemicalS9_2018,B3R3chemicalS9_2018_clearcut,-0.593674658,0
+B3R3chemicalS9,clearcut,2019,3,3,chemical,9,42,8.9,20,10,0,0,alive,0,,0,alive,0,B3R3chemicalS9_2019,B3R3chemicalS9_2019_clearcut,-0.142420785,20
+B3R3chemicalS9,clearcut,2020,3,3,chemical,9,67,12.5,0,0,0,0,alive,0,,0,alive,0,B3R3chemicalS9_2020,B3R3chemicalS9_2020_clearcut,-0.593674658,0
+B3R4collarS1,clearcut,2018,3,4,collar,1,0,0,350,0,2018,1,Hylobius,0,,0,Hylobius,1,B3R4collarS1_2018,B3R4collarS1_2018_clearcut,1.294055728,350
+B3R4collarS11,clearcut,2018,3,4,collar,11,0,0,80,50,2018,1,Hylobius,0,,0,Hylobius,1,B3R4collarS11_2018,B3R4collarS11_2018_clearcut,0.308833088,80
+B3R4collarS2,clearcut,2018,3,4,collar,2,19,27,10,10,0,0,alive,0,VG,0,alive,0,B3R4collarS2_2018,B3R4collarS2_2018_clearcut,-0.274589984,10
+B3R4collarS2,clearcut,2019,3,4,collar,2,20,2.7,0,0,0,0,alive,0,,0,alive,0,B3R4collarS2_2019,B3R4collarS2_2019_clearcut,-0.593674658,0
+B3R4collarS2,clearcut,2020,3,4,collar,2,24,3.2,0,0,0,0,alive,0,Z,0,alive,0,B3R4collarS2_2020,B3R4collarS2_2020_clearcut,-0.593674658,0
+B3R4collarS3,clearcut,2018,3,4,collar,3,17,3.9,0,0,0,0,alive,0,VG,0,alive,0,B3R4collarS3_2018,B3R4collarS3_2018_clearcut,-0.593674658,0
+B3R4collarS3,clearcut,2019,3,4,collar,3,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B3R4collarS3_2019,B3R4collarS3_2019_clearcut,-0.593674658,0
+B3R4collarS4,clearcut,2018,3,4,collar,4,17,3.9,0,0,0,0,alive,0,VG,0,alive,0,B3R4collarS4_2018,B3R4collarS4_2018_clearcut,-0.593674658,0
+B3R4collarS4,clearcut,2019,3,4,collar,4,33,7.6,0,0,0,0,alive,0,,0,alive,0,B3R4collarS4_2019,B3R4collarS4_2019_clearcut,-0.593674658,0
+B3R4collarS4,clearcut,2020,3,4,collar,4,50,11.3,250,0,0,0,alive,0,Z,0,alive,0,B3R4collarS4_2020,B3R4collarS4_2020_clearcut,1.00174871,250
+B3R4collarS5,clearcut,2018,3,4,collar,5,25,4.4,0,0,0,0,alive,0,,0,alive,0,B3R4collarS5_2018,B3R4collarS5_2018_clearcut,-0.593674658,0
+B3R4collarS5,clearcut,2019,3,4,collar,5,0,0,0,0,2019,1,other,0,,0,other,1,B3R4collarS5_2019,B3R4collarS5_2019_clearcut,-0.593674658,0
+B3R4collarS6,clearcut,2018,3,4,collar,6,12,4.4,0,0,0,0,alive,0,VG,0,terminal,0,B3R4collarS6_2018,B3R4collarS6_2018_clearcut,-0.593674658,0
+B3R4collarS6,clearcut,2019,3,4,collar,6,32,4.7,0,0,0,0,alive,0,,0,alive,0,B3R4collarS6_2019,B3R4collarS6_2019_clearcut,-0.593674658,0
+B3R4collarS6,clearcut,2020,3,4,collar,6,23,7.2,0,0,0,0,alive,0,Z,0,terminal,0,B3R4collarS6_2020,B3R4collarS6_2020_clearcut,-0.593674658,0
+B3R4collarS7,clearcut,2018,3,4,collar,7,16,3,0,0,0,0,alive,0,,0,alive,0,B3R4collarS7_2018,B3R4collarS7_2018_clearcut,-0.593674658,0
+B3R4collarS7,clearcut,2019,3,4,collar,7,27,4.3,0,0,0,0,alive,0,,0,alive,0,B3R4collarS7_2019,B3R4collarS7_2019_clearcut,-0.593674658,0
+B3R4collarS7,clearcut,2020,3,4,collar,7,42,6.2,0,0,0,0,alive,0,Z,0,alive,0,B3R4collarS7_2020,B3R4collarS7_2020_clearcut,-0.593674658,0
+B3R4collarS8,clearcut,2018,3,4,collar,8,24,3.9,0,0,0,0,alive,0,,0,alive,0,B3R4collarS8_2018,B3R4collarS8_2018_clearcut,-0.593674658,0
+B3R4collarS8,clearcut,2019,3,4,collar,8,33,8,0,0,0,0,alive,0,,0,alive,0,B3R4collarS8_2019,B3R4collarS8_2019_clearcut,-0.593674658,0
+B3R4collarS8,clearcut,2020,3,4,collar,8,60,14.5,260,0,0,0,alive,0,Z,0,alive,0,B3R4collarS8_2020,B3R4collarS8_2020_clearcut,1.033344319,260
+B3R4collarS9,clearcut,2018,3,4,collar,9,29,4.9,0,0,0,0,alive,0,,0,alive,0,B3R4collarS9_2018,B3R4collarS9_2018_clearcut,-0.593674658,0
+B3R4collarS9,clearcut,2019,3,4,collar,9,37,8.5,600,50,0,0,alive,0,,0,alive,0,B3R4collarS9_2019,B3R4collarS9_2019_clearcut,1.877944595,600
+B3R4collarS9,clearcut,2020,3,4,collar,9,0,0,0,0,2020,1,other,0,,0,other,1,B3R4collarS9_2020,B3R4collarS9_2020_clearcut,-0.593674658,0
+B3R5wax FS1,clearcut,2018,3,5,wax F,1,62,10.5,0,0,0,0,alive,0,,0,alive,0,B3R5wax FS1_2018,B3R5wax FS1_2018_clearcut,-0.593674658,0
+B3R5wax FS1,clearcut,2019,3,5,wax F,1,64,11.9,120,10,0,0,alive,0,,2,alive,0,B3R5wax FS1_2019,B3R5wax FS1_2019_clearcut,0.511667075,120
+B3R5wax FS1,clearcut,2020,3,5,wax F,1,73,15.7,0,0,0,0,alive,0,,3,alive,0,B3R5wax FS1_2020,B3R5wax FS1_2020_clearcut,-0.593674658,0
+B3R5wax FS10,clearcut,2018,3,5,wax F,10,26,4.4,0,0,0,0,alive,0,,0,alive,0,B3R5wax FS10_2018,B3R5wax FS10_2018_clearcut,-0.593674658,0
+B3R5wax FS10,clearcut,2019,3,5,wax F,10,0,0,0,0,2019,1,other,0,,0,other,1,B3R5wax FS10_2019,B3R5wax FS10_2019_clearcut,-0.593674658,0
+B3R5wax FS2,clearcut,2018,3,5,wax F,2,32,5.5,0,0,0,0,alive,0,,3,alive,0,B3R5wax FS2_2018,B3R5wax FS2_2018_clearcut,-0.593674658,0
+B3R5wax FS2,clearcut,2019,3,5,wax F,2,34,4.9,250,100,0,0,alive,0,,4,alive,0,B3R5wax FS2_2019,B3R5wax FS2_2019_clearcut,1.00174871,250
+B3R5wax FS2,clearcut,2020,3,5,wax F,2,0,0,0,0,2020,1,Hylastes,0,,3,Hylastes,1,B3R5wax FS2_2020,B3R5wax FS2_2020_clearcut,-0.593674658,0
+B3R5wax FS3,clearcut,2018,3,5,wax F,3,35,5.8,0,0,0,0,alive,0,,0,alive,0,B3R5wax FS3_2018,B3R5wax FS3_2018_clearcut,-0.593674658,0
+B3R5wax FS3,clearcut,2019,3,5,wax F,3,37,6.8,0,0,0,0,alive,0,,1,alive,0,B3R5wax FS3_2019,B3R5wax FS3_2019_clearcut,-0.593674658,0
+B3R5wax FS3,clearcut,2020,3,5,wax F,3,49,8.1,0,0,0,0,alive,0,,4,alive,0,B3R5wax FS3_2020,B3R5wax FS3_2020_clearcut,-0.593674658,0
+B3R5wax FS4,clearcut,2018,3,5,wax F,4,39,9.8,0,0,0,0,alive,0,,0,alive,0,B3R5wax FS4_2018,B3R5wax FS4_2018_clearcut,-0.593674658,0
+B3R5wax FS4,clearcut,2019,3,5,wax F,4,42,11.3,0,0,0,0,alive,0,,2,alive,0,B3R5wax FS4_2019,B3R5wax FS4_2019_clearcut,-0.593674658,0
+B3R5wax FS4,clearcut,2020,3,5,wax F,4,47,13.6,0,0,0,0,alive,0,,4,alive,0,B3R5wax FS4_2020,B3R5wax FS4_2020_clearcut,-0.593674658,0
+B3R5wax FS5,clearcut,2018,3,5,wax F,5,33,5.9,0,0,0,0,alive,0,,1,alive,0,B3R5wax FS5_2018,B3R5wax FS5_2018_clearcut,-0.593674658,0
+B3R5wax FS5,clearcut,2019,3,5,wax F,5,46,7.9,0,0,0,0,alive,0,,3,alive,0,B3R5wax FS5_2019,B3R5wax FS5_2019_clearcut,-0.593674658,0
+B3R5wax FS5,clearcut,2020,3,5,wax F,5,56,8.5,0,0,0,0,alive,0,,4,alive,0,B3R5wax FS5_2020,B3R5wax FS5_2020_clearcut,-0.593674658,0
+B3R5wax FS6,clearcut,2018,3,5,wax F,6,34,5.5,0,0,0,0,alive,0,,0,alive,0,B3R5wax FS6_2018,B3R5wax FS6_2018_clearcut,-0.593674658,0
+B3R5wax FS6,clearcut,2019,3,5,wax F,6,46,9.4,240,60,0,0,alive,0,,2,alive,0,B3R5wax FS6_2019,B3R5wax FS6_2019_clearcut,0.969514612,240
+B3R5wax FS6,clearcut,2020,3,5,wax F,6,40,12.2,100,0,0,0,alive,0,,4,alive,0,B3R5wax FS6_2020,B3R5wax FS6_2020_clearcut,0.415359677,100
+B3R5wax FS7,clearcut,2018,3,5,wax F,7,29,6,0,0,0,0,alive,0,,0,alive,0,B3R5wax FS7_2018,B3R5wax FS7_2018_clearcut,-0.593674658,0
+B3R5wax FS7,clearcut,2019,3,5,wax F,7,61,14,130,20,0,0,alive,0,,2,alive,0,B3R5wax FS7_2019,B3R5wax FS7_2019_clearcut,0.556801494,130
+B3R5wax FS7,clearcut,2020,3,5,wax F,7,85,16.9,0,0,0,0,alive,0,,3,alive,0,B3R5wax FS7_2020,B3R5wax FS7_2020_clearcut,-0.593674658,0
+B3R5wax FS8,clearcut,2018,3,5,wax F,8,55,11.4,0,0,0,0,alive,0,,2,alive,0,B3R5wax FS8_2018,B3R5wax FS8_2018_clearcut,-0.593674658,0
+B3R5wax FS8,clearcut,2019,3,5,wax F,8,36,7.6,0,0,0,0,alive,0,,4,alive,0,B3R5wax FS8_2019,B3R5wax FS8_2019_clearcut,-0.593674658,0
+B3R5wax FS8,clearcut,2020,3,5,wax F,8,54,9.5,0,0,0,0,alive,0,,4,alive,0,B3R5wax FS8_2020,B3R5wax FS8_2020_clearcut,-0.593674658,0
+B3R5wax FS9,clearcut,2018,3,5,wax F,9,34,5.5,0,0,0,0,alive,0,,0,alive,0,B3R5wax FS9_2018,B3R5wax FS9_2018_clearcut,-0.593674658,0
+B3R5wax FS9,clearcut,2019,3,5,wax F,9,0,0,0,0,2019,1,other,0,,0,other,1,B3R5wax FS9_2019,B3R5wax FS9_2019_clearcut,-0.593674658,0
+B3R6controlS1,clearcut,2018,3,6,control,1,11,2.2,0,0,0,0,alive,0,,0,alive,0,B3R6controlS1_2018,B3R6controlS1_2018_clearcut,-0.593674658,0
+B3R6controlS1,clearcut,2019,3,6,control,1,0,0,0,0,2019,1,other,0,,0,other,1,B3R6controlS1_2019,B3R6controlS1_2019_clearcut,-0.593674658,0
+B3R6controlS10,clearcut,2018,3,6,control,10,0,0,0,0,2018,1,other,0,,0,other,1,B3R6controlS10_2018,B3R6controlS10_2018_clearcut,-0.593674658,0
+B3R6controlS2,clearcut,2018,3,6,control,2,0,0,0,0,2018,1,other,0,,0,other,1,B3R6controlS2_2018,B3R6controlS2_2018_clearcut,-0.593674658,0
+B3R6controlS3,clearcut,2018,3,6,control,3,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B3R6controlS3_2018,B3R6controlS3_2018_clearcut,-0.593674658,0
+B3R6controlS4,clearcut,2018,3,6,control,4,39,6,0,0,0,0,alive,0,,0,alive,0,B3R6controlS4_2018,B3R6controlS4_2018_clearcut,-0.593674658,0
+B3R6controlS4,clearcut,2019,3,6,control,4,48,9,80,40,0,0,alive,0,,0,alive,0,B3R6controlS4_2019,B3R6controlS4_2019_clearcut,0.308833088,80
+B3R6controlS4,clearcut,2020,3,6,control,4,57,14.1,50,0,0,0,alive,0,,0,alive,0,B3R6controlS4_2020,B3R6controlS4_2020_clearcut,0.119820363,50
+B3R6controlS5,clearcut,2018,3,6,control,5,0,0,300,100,2018,1,Hylobius,0,,0,Hylobius,1,B3R6controlS5_2018,B3R6controlS5_2018_clearcut,1.154024077,300
+B3R6controlS6,clearcut,2018,3,6,control,6,18,4.5,50,10,0,0,alive,0,,0,alive,0,B3R6controlS6_2018,B3R6controlS6_2018_clearcut,0.119820363,50
+B3R6controlS6,clearcut,2019,3,6,control,6,14,4.8,0,0,0,0,alive,0,,0,alive,0,B3R6controlS6_2019,B3R6controlS6_2019_clearcut,-0.593674658,0
+B3R6controlS6,clearcut,2020,3,6,control,6,19,4.9,0,0,0,0,alive,0,,0,alive,0,B3R6controlS6_2020,B3R6controlS6_2020_clearcut,-0.593674658,0
+B3R6controlS7,clearcut,2018,3,6,control,7,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B3R6controlS7_2018,B3R6controlS7_2018_clearcut,-0.593674658,0
+B3R6controlS8,clearcut,2018,3,6,control,8,36,4.3,0,0,0,0,alive,0,,0,alive,0,B3R6controlS8_2018,B3R6controlS8_2018_clearcut,-0.593674658,0
+B3R6controlS8,clearcut,2019,3,6,control,8,41,4.6,90,30,0,0,alive,0,,0,alive,0,B3R6controlS8_2019,B3R6controlS8_2019_clearcut,0.363579363,90
+B3R6controlS8,clearcut,2020,3,6,control,8,0,0,140,0,2020,1,Hylobius,0,,0,Hylobius,1,B3R6controlS8_2020,B3R6controlS8_2020_clearcut,0.600230868,140
+B3R6controlS9,clearcut,2018,3,6,control,9,0,0,650,100,2018,1,Hylobius,0,,0,Hylobius,1,B3R6controlS9_2018,B3R6controlS9_2018_clearcut,1.978868223,650
+B4R1wax CS1,clearcut,2018,4,1,wax C,1,35,5.8,0,0,0,0,alive,0,,0,alive,0,B4R1wax CS1_2018,B4R1wax CS1_2018_clearcut,-0.593674658,0
+B4R1wax CS1,clearcut,2019,4,1,wax C,1,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B4R1wax CS1_2019,B4R1wax CS1_2019_clearcut,-0.593674658,0
+B4R1wax CS10,clearcut,2018,4,1,wax C,10,0,0,0,0,2018,1,other,0,,0,human,1,B4R1wax CS10_2018,B4R1wax CS10_2018_clearcut,-0.593674658,0
+B4R1wax CS2,clearcut,2018,4,1,wax C,2,0,0,0,0,2018,1,Hylastes,0,,1,Hylastes,1,B4R1wax CS2_2018,B4R1wax CS2_2018_clearcut,-0.593674658,0
+B4R1wax CS3,clearcut,2018,4,1,wax C,3,0,0,0,0,2018,1,Hylastes,0,,3,Hylastes,1,B4R1wax CS3_2018,B4R1wax CS3_2018_clearcut,-0.593674658,0
+B4R1wax CS4,clearcut,2018,4,1,wax C,4,48,8.7,0,0,0,0,alive,0,,1,alive,0,B4R1wax CS4_2018,B4R1wax CS4_2018_clearcut,-0.593674658,0
+B4R1wax CS4,clearcut,2019,4,1,wax C,4,53,9.6,100,20,0,0,alive,0,,2,alive,0,B4R1wax CS4_2019,B4R1wax CS4_2019_clearcut,0.415359677,100
+B4R1wax CS4,clearcut,2020,4,1,wax C,4,74,15.7,500,0,0,0,alive,0,,3,alive,0,B4R1wax CS4_2020,B4R1wax CS4_2020_clearcut,1.662594706,500
+B4R1wax CS5,clearcut,2018,4,1,wax C,5,0,0,0,0,2018,1,Hylastes,0,,1,Hylastes,1,B4R1wax CS5_2018,B4R1wax CS5_2018_clearcut,-0.593674658,0
+B4R1wax CS6,clearcut,2018,4,1,wax C,6,80,8.6,0,0,0,0,alive,0,,1,alive,0,B4R1wax CS6_2018,B4R1wax CS6_2018_clearcut,-0.593674658,0
+B4R1wax CS6,clearcut,2019,4,1,wax C,6,76,11.4,0,0,0,0,alive,0,,1,alive,0,B4R1wax CS6_2019,B4R1wax CS6_2019_clearcut,-0.593674658,0
+B4R1wax CS6,clearcut,2020,4,1,wax C,6,85,14.4,20,0,0,0,alive,0,,0,alive,0,B4R1wax CS6_2020,B4R1wax CS6_2020_clearcut,-0.142420785,20
+B4R1wax CS7,clearcut,2018,4,1,wax C,7,58,8.8,0,0,0,0,alive,0,,2,alive,0,B4R1wax CS7_2018,B4R1wax CS7_2018_clearcut,-0.593674658,0
+B4R1wax CS7,clearcut,2019,4,1,wax C,7,0,0,0,0,2019,1,other,0,,1,other,1,B4R1wax CS7_2019,B4R1wax CS7_2019_clearcut,-0.593674658,0
+B4R1wax CS8,clearcut,2018,4,1,wax C,8,44,7,0,0,0,0,alive,0,,1,alive,0,B4R1wax CS8_2018,B4R1wax CS8_2018_clearcut,-0.593674658,0
+B4R1wax CS8,clearcut,2019,4,1,wax C,8,60,10,150,30,0,0,alive,0,,2,alive,0,B4R1wax CS8_2019,B4R1wax CS8_2019_clearcut,0.642134969,150
+B4R1wax CS8,clearcut,2020,4,1,wax C,8,75,14.6,0,0,0,0,alive,0,,3,alive,0,B4R1wax CS8_2020,B4R1wax CS8_2020_clearcut,-0.593674658,0
+B4R1wax CS9,clearcut,2018,4,1,wax C,9,50,9.7,0,0,0,0,alive,0,,1,bad condition,0,B4R1wax CS9_2018,B4R1wax CS9_2018_clearcut,-0.593674658,0
+B4R1wax CS9,clearcut,2019,4,1,wax C,9,0,0,0,0,2019,1,other,0,,1,other,1,B4R1wax CS9_2019,B4R1wax CS9_2019_clearcut,-0.593674658,0
+B4R2wax FS1,clearcut,2018,4,2,wax F,1,50,9.5,0,0,0,0,alive,0,,2,alive,0,B4R2wax FS1_2018,B4R2wax FS1_2018_clearcut,-0.593674658,0
+B4R2wax FS1,clearcut,2019,4,2,wax F,1,35,12.3,250,60,0,0,alive,0,,3,alive,0,B4R2wax FS1_2019,B4R2wax FS1_2019_clearcut,1.00174871,250
+B4R2wax FS1,clearcut,2020,4,2,wax F,1,53,20,0,0,0,0,alive,0,,3,alive,0,B4R2wax FS1_2020,B4R2wax FS1_2020_clearcut,-0.593674658,0
+B4R2wax FS10,clearcut,2018,4,2,wax F,10,30,4.8,0,0,0,0,alive,0,,1,alive,0,B4R2wax FS10_2018,B4R2wax FS10_2018_clearcut,-0.593674658,0
+B4R2wax FS10,clearcut,2019,4,2,wax F,10,30,5.4,450,100,0,0,alive,0,,0,alive,0,B4R2wax FS10_2019,B4R2wax FS10_2019_clearcut,1.546810404,450
+B4R2wax FS10,clearcut,2020,4,2,wax F,10,0,0,500,0,2020,1,Hylobius,0,,0,Hylobius,1,B4R2wax FS10_2020,B4R2wax FS10_2020_clearcut,1.662594706,500
+B4R2wax FS2,clearcut,2018,4,2,wax F,2,0,0,0,0,2018,1,other,0,,1,other,1,B4R2wax FS2_2018,B4R2wax FS2_2018_clearcut,-0.593674658,0
+B4R2wax FS3,clearcut,2018,4,2,wax F,3,36,8.7,0,0,0,0,alive,0,,2,alive,0,B4R2wax FS3_2018,B4R2wax FS3_2018_clearcut,-0.593674658,0
+B4R2wax FS3,clearcut,2019,4,2,wax F,3,46,9.4,290,70,0,0,alive,0,,1,alive,0,B4R2wax FS3_2019,B4R2wax FS3_2019_clearcut,1.124648897,290
+B4R2wax FS3,clearcut,2020,4,2,wax F,3,46,11.7,250,0,0,0,alive,0,,4,alive,0,B4R2wax FS3_2020,B4R2wax FS3_2020_clearcut,1.00174871,250
+B4R2wax FS4,clearcut,2018,4,2,wax F,4,33,6.9,60,30,0,0,alive,0,,1,alive,0,B4R2wax FS4_2018,B4R2wax FS4_2018_clearcut,0.187919977,60
+B4R2wax FS4,clearcut,2019,4,2,wax F,4,42,9.4,450,80,0,0,alive,0,,4,alive,0,B4R2wax FS4_2019,B4R2wax FS4_2019_clearcut,1.546810404,450
+B4R2wax FS4,clearcut,2020,4,2,wax F,4,42,10.7,400,0,0,0,alive,0,,4,alive,0,B4R2wax FS4_2020,B4R2wax FS4_2020_clearcut,1.424394012,400
+B4R2wax FS5,clearcut,2018,4,2,wax F,5,0,0,0,0,2018,1,Hylastes,0,,2,Hylastes,1,B4R2wax FS5_2018,B4R2wax FS5_2018_clearcut,-0.593674658,0
+B4R2wax FS6,clearcut,2018,4,2,wax F,6,0,0,0,0,2018,1,other,0,,1,other,1,B4R2wax FS6_2018,B4R2wax FS6_2018_clearcut,-0.593674658,0
+B4R2wax FS7,clearcut,2018,4,2,wax F,7,31,7,0,0,0,0,alive,0,,1,alive,0,B4R2wax FS7_2018,B4R2wax FS7_2018_clearcut,-0.593674658,0
+B4R2wax FS7,clearcut,2019,4,2,wax F,7,32,8.7,70,30,0,0,alive,0,,2,alive,0,B4R2wax FS7_2019,B4R2wax FS7_2019_clearcut,0.250544036,70
+B4R2wax FS7,clearcut,2020,4,2,wax F,7,48,13,0,0,0,0,alive,0,,4,alive,0,B4R2wax FS7_2020,B4R2wax FS7_2020_clearcut,-0.593674658,0
+B4R2wax FS8,clearcut,2018,4,2,wax F,8,35,6.9,0,0,0,0,alive,0,,2,alive,0,B4R2wax FS8_2018,B4R2wax FS8_2018_clearcut,-0.593674658,0
+B4R2wax FS8,clearcut,2019,4,2,wax F,8,37,7.8,140,30,0,0,alive,0,,4,alive,0,B4R2wax FS8_2019,B4R2wax FS8_2019_clearcut,0.600230868,140
+B4R2wax FS8,clearcut,2020,4,2,wax F,8,37,12.7,200,0,0,0,alive,0,,4,alive,0,B4R2wax FS8_2020,B4R2wax FS8_2020_clearcut,0.833315383,200
+B4R2wax FS9,clearcut,2018,4,2,wax F,9,26,5.9,0,0,0,0,alive,0,,0,alive,0,B4R2wax FS9_2018,B4R2wax FS9_2018_clearcut,-0.593674658,0
+B4R2wax FS9,clearcut,2019,4,2,wax F,9,31,9,320,80,0,0,alive,0,,4,alive,0,B4R2wax FS9_2019,B4R2wax FS9_2019_clearcut,1.211340834,320
+B4R2wax FS9,clearcut,2020,4,2,wax F,9,0,0,500,0,2020,1,Hylobius,0,,3,Hylobius,1,B4R2wax FS9_2020,B4R2wax FS9_2020_clearcut,1.662594706,500
+B4R3glueS1,clearcut,2018,4,3,glue,1,32,5.7,0,0,0,0,alive,0,,0,alive,0,B4R3glueS1_2018,B4R3glueS1_2018_clearcut,-0.593674658,0
+B4R3glueS1,clearcut,2019,4,3,glue,1,33,8.3,350,100,0,0,alive,0,,0,alive,0,B4R3glueS1_2019,B4R3glueS1_2019_clearcut,1.294055728,350
+B4R3glueS1,clearcut,2020,4,3,glue,1,0,0,340,0,2020,1,Hylobius,0,,0,Hylobius,1,B4R3glueS1_2020,B4R3glueS1_2020_clearcut,1.266892724,340
+B4R3glueS10,clearcut,2018,4,3,glue,10,30,4.4,0,0,0,0,alive,0,,0,alive,0,B4R3glueS10_2018,B4R3glueS10_2018_clearcut,-0.593674658,0
+B4R3glueS10,clearcut,2019,4,3,glue,10,33,6.5,0,0,0,0,alive,0,,3,alive,0,B4R3glueS10_2019,B4R3glueS10_2019_clearcut,-0.593674658,0
+B4R3glueS10,clearcut,2020,4,3,glue,10,38,9.1,30,0,0,0,alive,0,,0,alive,0,B4R3glueS10_2020,B4R3glueS10_2020_clearcut,-0.041003791,30
+B4R3glueS2,clearcut,2018,4,3,glue,2,58,9.7,0,0,0,0,alive,0,,0,alive,0,B4R3glueS2_2018,B4R3glueS2_2018_clearcut,-0.593674658,0
+B4R3glueS2,clearcut,2019,4,3,glue,2,64,13,150,50,0,0,alive,0,,0,alive,0,B4R3glueS2_2019,B4R3glueS2_2019_clearcut,0.642134969,150
+B4R3glueS2,clearcut,2020,4,3,glue,2,80,20.6,370,0,0,0,alive,0,,0,alive,0,B4R3glueS2_2020,B4R3glueS2_2020_clearcut,1.347241638,370
+B4R3glueS3,clearcut,2018,4,3,glue,3,38,5.8,0,0,0,0,alive,0,,0,alive,0,B4R3glueS3_2018,B4R3glueS3_2018_clearcut,-0.593674658,0
+B4R3glueS3,clearcut,2019,4,3,glue,3,45,9.1,130,40,0,0,alive,0,,0,alive,0,B4R3glueS3_2019,B4R3glueS3_2019_clearcut,0.556801494,130
+B4R3glueS3,clearcut,2020,4,3,glue,3,50,14,140,0,0,0,alive,0,,0,alive,0,B4R3glueS3_2020,B4R3glueS3_2020_clearcut,0.600230868,140
+B4R3glueS4,clearcut,2018,4,3,glue,4,39,7.5,0,0,0,0,alive,0,,0,alive,0,B4R3glueS4_2018,B4R3glueS4_2018_clearcut,-0.593674658,0
+B4R3glueS4,clearcut,2019,4,3,glue,4,47,10.4,20,10,0,0,alive,0,,0,alive,0,B4R3glueS4_2019,B4R3glueS4_2019_clearcut,-0.142420785,20
+B4R3glueS4,clearcut,2020,4,3,glue,4,59,15.8,110,0,0,0,alive,0,,0,alive,0,B4R3glueS4_2020,B4R3glueS4_2020_clearcut,0.464609481,110
+B4R3glueS5,clearcut,2018,4,3,glue,5,38,5.6,0,0,0,0,alive,0,,0,alive,0,B4R3glueS5_2018,B4R3glueS5_2018_clearcut,-0.593674658,0
+B4R3glueS5,clearcut,2019,4,3,glue,5,39,8,10,10,0,0,alive,0,,0,alive,0,B4R3glueS5_2019,B4R3glueS5_2019_clearcut,-0.274589984,10
+B4R3glueS5,clearcut,2020,4,3,glue,5,47,8.8,0,0,0,0,alive,0,,0,alive,0,B4R3glueS5_2020,B4R3glueS5_2020_clearcut,-0.593674658,0
+B4R3glueS6,clearcut,2018,4,3,glue,6,41,8.1,0,0,0,0,alive,0,,0,alive,0,B4R3glueS6_2018,B4R3glueS6_2018_clearcut,-0.593674658,0
+B4R3glueS6,clearcut,2019,4,3,glue,6,45,10.8,20,10,0,0,alive,0,,0,alive,0,B4R3glueS6_2019,B4R3glueS6_2019_clearcut,-0.142420785,20
+B4R3glueS6,clearcut,2020,4,3,glue,6,68,15.3,0,0,0,0,alive,0,,0,alive,0,B4R3glueS6_2020,B4R3glueS6_2020_clearcut,-0.593674658,0
+B4R3glueS7,clearcut,2018,4,3,glue,7,40,7,0,0,0,0,alive,0,,0,alive,0,B4R3glueS7_2018,B4R3glueS7_2018_clearcut,-0.593674658,0
+B4R3glueS7,clearcut,2019,4,3,glue,7,43,13,20,10,0,0,alive,0,,0,alive,0,B4R3glueS7_2019,B4R3glueS7_2019_clearcut,-0.142420785,20
+B4R3glueS7,clearcut,2020,4,3,glue,7,52,15.2,150,0,0,0,alive,0,,0,alive,0,B4R3glueS7_2020,B4R3glueS7_2020_clearcut,0.642134969,150
+B4R3glueS8,clearcut,2018,4,3,glue,8,37,4.7,0,0,0,0,alive,0,,0,alive,0,B4R3glueS8_2018,B4R3glueS8_2018_clearcut,-0.593674658,0
+B4R3glueS8,clearcut,2019,4,3,glue,8,36,7.3,0,0,0,0,alive,0,,0,alive,0,B4R3glueS8_2019,B4R3glueS8_2019_clearcut,-0.593674658,0
+B4R3glueS8,clearcut,2020,4,3,glue,8,51,10.6,50,0,0,0,alive,0,,0,alive,0,B4R3glueS8_2020,B4R3glueS8_2020_clearcut,0.119820363,50
+B4R3glueS9,clearcut,2018,4,3,glue,9,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B4R3glueS9_2018,B4R3glueS9_2018_clearcut,-0.593674658,0
+B4R4chemicalS1,clearcut,2018,4,4,chemical,1,38,5.3,20,10,0,0,alive,0,,0,alive,0,B4R4chemicalS1_2018,B4R4chemicalS1_2018_clearcut,-0.142420785,20
+B4R4chemicalS1,clearcut,2019,4,4,chemical,1,0,0,0,0,2019,1,other,0,,0,human,1,B4R4chemicalS1_2019,B4R4chemicalS1_2019_clearcut,-0.593674658,0
+B4R4chemicalS10,clearcut,2018,4,4,chemical,10,32,4.2,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS10_2018,B4R4chemicalS10_2018_clearcut,-0.593674658,0
+B4R4chemicalS10,clearcut,2019,4,4,chemical,10,32,8.6,80,20,0,0,alive,0,,0,alive,0,B4R4chemicalS10_2019,B4R4chemicalS10_2019_clearcut,0.308833088,80
+B4R4chemicalS10,clearcut,2020,4,4,chemical,10,56,12.3,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS10_2020,B4R4chemicalS10_2020_clearcut,-0.593674658,0
+B4R4chemicalS2,clearcut,2018,4,4,chemical,2,26,4.1,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS2_2018,B4R4chemicalS2_2018_clearcut,-0.593674658,0
+B4R4chemicalS2,clearcut,2019,4,4,chemical,2,31,6.7,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS2_2019,B4R4chemicalS2_2019_clearcut,-0.593674658,0
+B4R4chemicalS2,clearcut,2020,4,4,chemical,2,55,10.2,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS2_2020,B4R4chemicalS2_2020_clearcut,-0.593674658,0
+B4R4chemicalS3,clearcut,2018,4,4,chemical,3,36,5.8,10,10,0,0,alive,0,,0,alive,0,B4R4chemicalS3_2018,B4R4chemicalS3_2018_clearcut,-0.274589984,10
+B4R4chemicalS3,clearcut,2019,4,4,chemical,3,45,8.4,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS3_2019,B4R4chemicalS3_2019_clearcut,-0.593674658,0
+B4R4chemicalS3,clearcut,2020,4,4,chemical,3,68,12.3,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS3_2020,B4R4chemicalS3_2020_clearcut,-0.593674658,0
+B4R4chemicalS4,clearcut,2018,4,4,chemical,4,42,6.9,25,20,0,0,alive,0,,0,alive,0,B4R4chemicalS4_2018,B4R4chemicalS4_2018_clearcut,-0.08915749,25
+B4R4chemicalS4,clearcut,2019,4,4,chemical,4,33,5.9,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS4_2019,B4R4chemicalS4_2019_clearcut,-0.593674658,0
+B4R4chemicalS4,clearcut,2020,4,4,chemical,4,48,9.5,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS4_2020,B4R4chemicalS4_2020_clearcut,-0.593674658,0
+B4R4chemicalS5,clearcut,2018,4,4,chemical,5,32,5.6,10,10,0,0,alive,0,,0,alive,0,B4R4chemicalS5_2018,B4R4chemicalS5_2018_clearcut,-0.274589984,10
+B4R4chemicalS5,clearcut,2019,4,4,chemical,5,40,8.8,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS5_2019,B4R4chemicalS5_2019_clearcut,-0.593674658,0
+B4R4chemicalS5,clearcut,2020,4,4,chemical,5,78,17,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS5_2020,B4R4chemicalS5_2020_clearcut,-0.593674658,0
+B4R4chemicalS6,clearcut,2018,4,4,chemical,6,37,7.5,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS6_2018,B4R4chemicalS6_2018_clearcut,-0.593674658,0
+B4R4chemicalS6,clearcut,2019,4,4,chemical,6,42,10.5,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS6_2019,B4R4chemicalS6_2019_clearcut,-0.593674658,0
+B4R4chemicalS6,clearcut,2020,4,4,chemical,6,70,17.3,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS6_2020,B4R4chemicalS6_2020_clearcut,-0.593674658,0
+B4R4chemicalS7,clearcut,2018,4,4,chemical,7,41,7,10,10,0,0,alive,0,,0,alive,0,B4R4chemicalS7_2018,B4R4chemicalS7_2018_clearcut,-0.274589984,10
+B4R4chemicalS7,clearcut,2019,4,4,chemical,7,43,7.7,20,10,0,0,alive,0,,0,alive,0,B4R4chemicalS7_2019,B4R4chemicalS7_2019_clearcut,-0.142420785,20
+B4R4chemicalS7,clearcut,2020,4,4,chemical,7,68,14.7,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS7_2020,B4R4chemicalS7_2020_clearcut,-0.593674658,0
+B4R4chemicalS8,clearcut,2018,4,4,chemical,8,30,4.2,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS8_2018,B4R4chemicalS8_2018_clearcut,-0.593674658,0
+B4R4chemicalS8,clearcut,2019,4,4,chemical,8,35,7.3,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS8_2019,B4R4chemicalS8_2019_clearcut,-0.593674658,0
+B4R4chemicalS8,clearcut,2020,4,4,chemical,8,58,10.9,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS8_2020,B4R4chemicalS8_2020_clearcut,-0.593674658,0
+B4R4chemicalS9,clearcut,2018,4,4,chemical,9,60,8.4,10,10,0,0,alive,0,,0,alive,0,B4R4chemicalS9_2018,B4R4chemicalS9_2018_clearcut,-0.274589984,10
+B4R4chemicalS9,clearcut,2019,4,4,chemical,9,67,11.8,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS9_2019,B4R4chemicalS9_2019_clearcut,-0.593674658,0
+B4R4chemicalS9,clearcut,2020,4,4,chemical,9,90,19.5,0,0,0,0,alive,0,,0,alive,0,B4R4chemicalS9_2020,B4R4chemicalS9_2020_clearcut,-0.593674658,0
+B4R5controlS1,clearcut,2018,4,5,control,1,45,6.7,360,80,0,0,alive,0,,0,alive,0,B4R5controlS1_2018,B4R5controlS1_2018_clearcut,1.320833383,360
+B4R5controlS1,clearcut,2019,4,5,control,1,50,7.8,540,100,0,0,alive,0,,0,alive,0,B4R5controlS1_2019,B4R5controlS1_2019_clearcut,1.751109247,540
+B4R5controlS1,clearcut,2020,4,5,control,1,0,0,1000,0,2020,1,Hylobius,0,,0,Hylobius,1,B4R5controlS1_2020,B4R5controlS1_2020_clearcut,2.597172077,1000
+B4R5controlS10,clearcut,2018,4,5,control,10,42,7.9,210,60,0,0,alive,0,,0,alive,0,B4R5controlS10_2018,B4R5controlS10_2018_clearcut,0.868555012,210
+B4R5controlS10,clearcut,2019,4,5,control,10,45,10.2,80,20,0,0,alive,0,,0,alive,0,B4R5controlS10_2019,B4R5controlS10_2019_clearcut,0.308833088,80
+B4R5controlS10,clearcut,2020,4,5,control,10,53,12.4,0,0,0,0,alive,0,,0,alive,0,B4R5controlS10_2020,B4R5controlS10_2020_clearcut,-0.593674658,0
+B4R5controlS2,clearcut,2018,4,5,control,2,50,9.4,0,0,0,0,alive,0,,0,alive,0,B4R5controlS2_2018,B4R5controlS2_2018_clearcut,-0.593674658,0
+B4R5controlS2,clearcut,2019,4,5,control,2,49,10.5,680,100,0,0,alive,0,,0,alive,0,B4R5controlS2_2019,B4R5controlS2_2019_clearcut,2.037564967,680
+B4R5controlS2,clearcut,2020,4,5,control,2,0,0,0,0,2020,1,other,0,,0,other,1,B4R5controlS2_2020,B4R5controlS2_2020_clearcut,-0.593674658,0
+B4R5controlS3,clearcut,2018,4,5,control,3,37,4.6,0,0,0,0,alive,0,,0,alive,0,B4R5controlS3_2018,B4R5controlS3_2018_clearcut,-0.593674658,0
+B4R5controlS3,clearcut,2019,4,5,control,3,70,12.9,290,80,0,0,alive,0,,0,alive,0,B4R5controlS3_2019,B4R5controlS3_2019_clearcut,1.124648897,290
+B4R5controlS3,clearcut,2020,4,5,control,3,75,18.5,0,0,0,0,alive,0,,0,alive,0,B4R5controlS3_2020,B4R5controlS3_2020_clearcut,-0.593674658,0
+B4R5controlS4,clearcut,2018,4,5,control,4,65,9.8,20,10,0,0,alive,0,,0,alive,0,B4R5controlS4_2018,B4R5controlS4_2018_clearcut,-0.142420785,20
+B4R5controlS4,clearcut,2019,4,5,control,4,35,6.5,650,100,0,0,alive,0,,0,alive,0,B4R5controlS4_2019,B4R5controlS4_2019_clearcut,1.978868223,650
+B4R5controlS4,clearcut,2020,4,5,control,4,46,9.5,100,0,0,0,alive,0,,0,alive,0,B4R5controlS4_2020,B4R5controlS4_2020_clearcut,0.415359677,100
+B4R5controlS5,clearcut,2018,4,5,control,5,30,4.5,5,10,0,0,alive,0,,0,alive,0,B4R5controlS5_2018,B4R5controlS5_2018_clearcut,-0.368047721,5
+B4R5controlS5,clearcut,2019,4,5,control,5,35,7.5,840,100,0,0,alive,0,,0,alive,0,B4R5controlS5_2019,B4R5controlS5_2019_clearcut,2.330784681,840
+B4R5controlS5,clearcut,2020,4,5,control,5,0,0,0,0,2020,1,other,0,,0,other,1,B4R5controlS5_2020,B4R5controlS5_2020_clearcut,-0.593674658,0
+B4R5controlS6,clearcut,2018,4,5,control,6,32,4.9,30,20,0,0,alive,0,,0,alive,0,B4R5controlS6_2018,B4R5controlS6_2018_clearcut,-0.041003791,30
+B4R5controlS6,clearcut,2019,4,5,control,6,43,7,0,0,0,0,alive,0,,0,alive,0,B4R5controlS6_2019,B4R5controlS6_2019_clearcut,-0.593674658,0
+B4R5controlS6,clearcut,2020,4,5,control,6,44,8.7,0,0,0,0,alive,0,,0,alive,0,B4R5controlS6_2020,B4R5controlS6_2020_clearcut,-0.593674658,0
+B4R5controlS7,clearcut,2018,4,5,control,7,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B4R5controlS7_2018,B4R5controlS7_2018_clearcut,-0.593674658,0
+B4R5controlS8,clearcut,2018,4,5,control,8,39,6.7,0,0,0,0,alive,0,,0,alive,0,B4R5controlS8_2018,B4R5controlS8_2018_clearcut,-0.593674658,0
+B4R5controlS8,clearcut,2019,4,5,control,8,0,0,0,0,2019,1,other,0,,0,other,1,B4R5controlS8_2019,B4R5controlS8_2019_clearcut,-0.593674658,0
+B4R5controlS9,clearcut,2018,4,5,control,9,50,2.7,5,5,0,0,alive,0,,0,alive,0,B4R5controlS9_2018,B4R5controlS9_2018_clearcut,-0.368047721,5
+B4R5controlS9,clearcut,2019,4,5,control,9,62,14.6,270,50,0,0,alive,0,,0,alive,0,B4R5controlS9_2019,B4R5controlS9_2019_clearcut,1.064337942,270
+B4R5controlS9,clearcut,2020,4,5,control,9,100,22.3,0,0,0,0,alive,0,,0,alive,0,B4R5controlS9_2020,B4R5controlS9_2020_clearcut,-0.593674658,0
+B4R6collarS1,clearcut,2018,4,6,collar,1,31,4.6,0,0,0,0,alive,0,,0,alive,0,B4R6collarS1_2018,B4R6collarS1_2018_clearcut,-0.593674658,0
+B4R6collarS1,clearcut,2019,4,6,collar,1,32,5.2,320,100,0,0,alive,0,,0,alive,0,B4R6collarS1_2019,B4R6collarS1_2019_clearcut,1.211340834,320
+B4R6collarS1,clearcut,2020,4,6,collar,1,0,0,0,0,2020,1,other,0,,0,other,1,B4R6collarS1_2020,B4R6collarS1_2020_clearcut,-0.593674658,0
+B4R6collarS10,clearcut,2018,4,6,collar,10,31.59,0,0,0,0,0,alive,0,,0,alive,0,B4R6collarS10_2018,B4R6collarS10_2018_clearcut,-0.593674658,0
+B4R6collarS10,clearcut,2019,4,6,collar,10,35,7.1,110,50,0,0,alive,0,G chýba,0,alive,0,B4R6collarS10_2019,B4R6collarS10_2019_clearcut,0.464609481,110
+B4R6collarS10,clearcut,2020,4,6,collar,10,37,9.5,0,0,0,0,alive,0,Z,0,alive,0,B4R6collarS10_2020,B4R6collarS10_2020_clearcut,-0.593674658,0
+B4R6collarS2,clearcut,2018,4,6,collar,2,22,4.1,0,0,0,0,alive,0,,0,alive,0,B4R6collarS2_2018,B4R6collarS2_2018_clearcut,-0.593674658,0
+B4R6collarS2,clearcut,2019,4,6,collar,2,0,0,60,30,2019,1,Hylastes,0,,0,Hylastes,1,B4R6collarS2_2019,B4R6collarS2_2019_clearcut,0.187919977,60
+B4R6collarS3,clearcut,2018,4,6,collar,3,51,19.7,0,0,0,0,alive,0,,0,alive,0,B4R6collarS3_2018,B4R6collarS3_2018_clearcut,-0.593674658,0
+B4R6collarS3,clearcut,2019,4,6,collar,3,46,12.6,350,50,0,0,alive,0,,0,alive,0,B4R6collarS3_2019,B4R6collarS3_2019_clearcut,1.294055728,350
+B4R6collarS3,clearcut,2020,4,6,collar,3,67,16.6,0,0,0,0,alive,0,Z,0,alive,0,B4R6collarS3_2020,B4R6collarS3_2020_clearcut,-0.593674658,0
+B4R6collarS4,clearcut,2018,4,6,collar,4,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B4R6collarS4_2018,B4R6collarS4_2018_clearcut,-0.593674658,0
+B4R6collarS5,clearcut,2018,4,6,collar,5,33,4.2,0,0,0,0,alive,0,,0,alive,0,B4R6collarS5_2018,B4R6collarS5_2018_clearcut,-0.593674658,0
+B4R6collarS5,clearcut,2019,4,6,collar,5,39,6.8,90,40,0,0,alive,0,,0,alive,0,B4R6collarS5_2019,B4R6collarS5_2019_clearcut,0.363579363,90
+B4R6collarS5,clearcut,2020,4,6,collar,5,48,10.2,40,0,0,0,alive,0,Z,0,alive,0,B4R6collarS5_2020,B4R6collarS5_2020_clearcut,0.044494689,40
+B4R6collarS6,clearcut,2018,4,6,collar,6,25,3.6,0,0,0,0,alive,0,,0,alive,0,B4R6collarS6_2018,B4R6collarS6_2018_clearcut,-0.593674658,0
+B4R6collarS6,clearcut,2019,4,6,collar,6,26,4.6,0,0,0,0,alive,0,,0,alive,0,B4R6collarS6_2019,B4R6collarS6_2019_clearcut,-0.593674658,0
+B4R6collarS6,clearcut,2020,4,6,collar,6,30,4.8,0,0,0,0,alive,0,Z,0,alive,0,B4R6collarS6_2020,B4R6collarS6_2020_clearcut,-0.593674658,0
+B4R6collarS7,clearcut,2018,4,6,collar,7,41,7.7,0,0,0,0,alive,0,,0,alive,0,B4R6collarS7_2018,B4R6collarS7_2018_clearcut,-0.593674658,0
+B4R6collarS7,clearcut,2019,4,6,collar,7,52,11.7,350,90,0,0,alive,0,,0,alive,0,B4R6collarS7_2019,B4R6collarS7_2019_clearcut,1.294055728,350
+B4R6collarS7,clearcut,2020,4,6,collar,7,50,11.4,150,0,0,0,alive,0,Z,0,alive,0,B4R6collarS7_2020,B4R6collarS7_2020_clearcut,0.642134969,150
+B4R6collarS8,clearcut,2018,4,6,collar,8,37,5.3,0,0,0,0,alive,0,,0,alive,0,B4R6collarS8_2018,B4R6collarS8_2018_clearcut,-0.593674658,0
+B4R6collarS8,clearcut,2019,4,6,collar,8,47,8.7,420,80,0,0,alive,0,,0,alive,0,B4R6collarS8_2019,B4R6collarS8_2019_clearcut,1.474230372,420
+B4R6collarS8,clearcut,2020,4,6,collar,8,58,10.4,700,0,0,0,alive,0,Z,0,alive,0,B4R6collarS8_2020,B4R6collarS8_2020_clearcut,2.075979256,700
+B4R6collarS9,clearcut,2018,4,6,collar,9,46,9.6,0,0,0,0,alive,0,,0,alive,0,B4R6collarS9_2018,B4R6collarS9_2018_clearcut,-0.593674658,0
+B4R6collarS9,clearcut,2019,4,6,collar,9,45,8,0,0,0,0,alive,0,,0,alive,0,B4R6collarS9_2019,B4R6collarS9_2019_clearcut,-0.593674658,0
+B4R6collarS9,clearcut,2020,4,6,collar,9,53,12.9,0,0,0,0,alive,0,Z,0,alive,0,B4R6collarS9_2020,B4R6collarS9_2020_clearcut,-0.593674658,0
+B5R1chemicalS1,clearcut,2018,5,1,chemical,1,34,6.4,30,20,0,0,alive,0,,0,alive,0,B5R1chemicalS1_2018,B5R1chemicalS1_2018_clearcut,-0.041003791,30
+B5R1chemicalS1,clearcut,2019,5,1,chemical,1,35,9.4,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS1_2019,B5R1chemicalS1_2019_clearcut,-0.593674658,0
+B5R1chemicalS1,clearcut,2020,5,1,chemical,1,48,11.8,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS1_2020,B5R1chemicalS1_2020_clearcut,-0.593674658,0
+B5R1chemicalS10,clearcut,2018,5,1,chemical,10,41,6.5,180,80,0,0,alive,0,,0,terminal,0,B5R1chemicalS10_2018,B5R1chemicalS10_2018_clearcut,0.760086961,180
+B5R1chemicalS10,clearcut,2019,5,1,chemical,10,0,0,100,100,2019,1,Hylobius,0,,0,Hylobius,1,B5R1chemicalS10_2019,B5R1chemicalS10_2019_clearcut,0.415359677,100
+B5R1chemicalS2,clearcut,2018,5,1,chemical,2,34,7.9,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS2_2018,B5R1chemicalS2_2018_clearcut,-0.593674658,0
+B5R1chemicalS2,clearcut,2019,5,1,chemical,2,35,8,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS2_2019,B5R1chemicalS2_2019_clearcut,-0.593674658,0
+B5R1chemicalS2,clearcut,2020,5,1,chemical,2,40,11.4,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS2_2020,B5R1chemicalS2_2020_clearcut,-0.593674658,0
+B5R1chemicalS3,clearcut,2018,5,1,chemical,3,0,0,50,20,2018,1,other,0,,0,other,1,B5R1chemicalS3_2018,B5R1chemicalS3_2018_clearcut,0.119820363,50
+B5R1chemicalS4,clearcut,2018,5,1,chemical,4,26,5.7,30,20,0,0,alive,0,,0,alive,0,B5R1chemicalS4_2018,B5R1chemicalS4_2018_clearcut,-0.041003791,30
+B5R1chemicalS4,clearcut,2019,5,1,chemical,4,27,5.6,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS4_2019,B5R1chemicalS4_2019_clearcut,-0.593674658,0
+B5R1chemicalS4,clearcut,2020,5,1,chemical,4,33,8.4,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS4_2020,B5R1chemicalS4_2020_clearcut,-0.593674658,0
+B5R1chemicalS5,clearcut,2018,5,1,chemical,5,29,5.5,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS5_2018,B5R1chemicalS5_2018_clearcut,-0.593674658,0
+B5R1chemicalS5,clearcut,2019,5,1,chemical,5,33,5.6,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS5_2019,B5R1chemicalS5_2019_clearcut,-0.593674658,0
+B5R1chemicalS5,clearcut,2020,5,1,chemical,5,54,12.7,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS5_2020,B5R1chemicalS5_2020_clearcut,-0.593674658,0
+B5R1chemicalS6,clearcut,2018,5,1,chemical,6,31,4.6,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS6_2018,B5R1chemicalS6_2018_clearcut,-0.593674658,0
+B5R1chemicalS6,clearcut,2019,5,1,chemical,6,34,5.6,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS6_2019,B5R1chemicalS6_2019_clearcut,-0.593674658,0
+B5R1chemicalS6,clearcut,2020,5,1,chemical,6,36,7.1,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS6_2020,B5R1chemicalS6_2020_clearcut,-0.593674658,0
+B5R1chemicalS7,clearcut,2018,5,1,chemical,7,42,8.4,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS7_2018,B5R1chemicalS7_2018_clearcut,-0.593674658,0
+B5R1chemicalS7,clearcut,2019,5,1,chemical,7,42,8.3,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS7_2019,B5R1chemicalS7_2019_clearcut,-0.593674658,0
+B5R1chemicalS7,clearcut,2020,5,1,chemical,7,50,13.8,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS7_2020,B5R1chemicalS7_2020_clearcut,-0.593674658,0
+B5R1chemicalS8,clearcut,2018,5,1,chemical,8,0,0,0,0,2018,1,other,0,,0,other,1,B5R1chemicalS8_2018,B5R1chemicalS8_2018_clearcut,-0.593674658,0
+B5R1chemicalS9,clearcut,2018,5,1,chemical,9,18,4.2,0,0,0,0,alive,0,,0,terminal,0,B5R1chemicalS9_2018,B5R1chemicalS9_2018_clearcut,-0.593674658,0
+B5R1chemicalS9,clearcut,2019,5,1,chemical,9,26,5.8,100,30,0,0,alive,0,,0,alive,0,B5R1chemicalS9_2019,B5R1chemicalS9_2019_clearcut,0.415359677,100
+B5R1chemicalS9,clearcut,2020,5,1,chemical,9,36,7.6,0,0,0,0,alive,0,,0,alive,0,B5R1chemicalS9_2020,B5R1chemicalS9_2020_clearcut,-0.593674658,0
+B5R2collarS1,clearcut,2018,5,2,collar,1,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B5R2collarS1_2018,B5R2collarS1_2018_clearcut,-0.593674658,0
+B5R2collarS10,clearcut,2018,5,2,collar,10,0,0,80,50,2018,1,Hylobius,0,,0,Hylobius,1,B5R2collarS10_2018,B5R2collarS10_2018_clearcut,0.308833088,80
+B5R2collarS2,clearcut,2018,5,2,collar,2,55,9.7,60,60,0,0,alive,0,,0,alive,0,B5R2collarS2_2018,B5R2collarS2_2018_clearcut,0.187919977,60
+B5R2collarS2,clearcut,2019,5,2,collar,2,59,9.3,180,100,0,0,alive,0,,0,alive,0,B5R2collarS2_2019,B5R2collarS2_2019_clearcut,0.760086961,180
+B5R2collarS2,clearcut,2020,5,2,collar,2,44,10.5,100,0,0,0,alive,0,Z,0,terminal,0,B5R2collarS2_2020,B5R2collarS2_2020_clearcut,0.415359677,100
+B5R2collarS3,clearcut,2018,5,2,collar,3,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B5R2collarS3_2018,B5R2collarS3_2018_clearcut,-0.593674658,0
+B5R2collarS4,clearcut,2018,5,2,collar,4,0,0,0,0,2018,1,other,0,,0,other,1,B5R2collarS4_2018,B5R2collarS4_2018_clearcut,-0.593674658,0
+B5R2collarS5,clearcut,2018,5,2,collar,5,32,7,0,0,0,0,alive,0,,0,alive,0,B5R2collarS5_2018,B5R2collarS5_2018_clearcut,-0.593674658,0
+B5R2collarS5,clearcut,2019,5,2,collar,5,33,5.5,730,100,0,0,alive,0,,0,alive,0,B5R2collarS5_2019,B5R2collarS5_2019_clearcut,2.132585988,730
+B5R2collarS5,clearcut,2020,5,2,collar,5,0,0,1500,0,2020,1,Hylobius,0,Z,0,Hylobius,1,B5R2collarS5_2020,B5R2collarS5_2020_clearcut,3.314298516,1500
+B5R2collarS6,clearcut,2018,5,2,collar,6,0,0,40,40,2018,1,other,0,,0,other,1,B5R2collarS6_2018,B5R2collarS6_2018_clearcut,0.044494689,40
+B5R2collarS7,clearcut,2018,5,2,collar,7,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B5R2collarS7_2018,B5R2collarS7_2018_clearcut,-0.593674658,0
+B5R2collarS8,clearcut,2018,5,2,collar,8,0,0,70,100,2018,1,Hylobius,0,,0,Hylobius,1,B5R2collarS8_2018,B5R2collarS8_2018_clearcut,0.250544036,70
+B5R2collarS9,clearcut,2018,5,2,collar,9,0,0,20,20,2018,1,other,0,,0,other,1,B5R2collarS9_2018,B5R2collarS9_2018_clearcut,-0.142420785,20
+B5R3controlS1,clearcut,2018,5,3,control,1,41,6.6,800,80,0,0,alive,0,,0,alive,0,B5R3controlS1_2018,B5R3controlS1_2018_clearcut,2.260305424,800
+B5R3controlS1,clearcut,2019,5,3,control,1,0,0,0,0,2019,1,other,0,,0,other,1,B5R3controlS1_2019,B5R3controlS1_2019_clearcut,-0.593674658,0
+B5R3controlS10,clearcut,2018,5,3,control,10,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B5R3controlS10_2018,B5R3controlS10_2018_clearcut,-0.593674658,0
+B5R3controlS11,clearcut,2018,5,3,control,11,0,0,250,100,2018,1,Hylobius,0,,0,Hylobius,1,B5R3controlS11_2018,B5R3controlS11_2018_clearcut,1.00174871,250
+B5R3controlS2,clearcut,2018,5,3,control,2,0,0,1500,100,2018,1,Hylobius,0,,0,Hylobius,1,B5R3controlS2_2018,B5R3controlS2_2018_clearcut,3.314298516,1500
+B5R3controlS3,clearcut,2018,5,3,control,3,0,0,20,10,2018,1,Hylastes,0,,0,Hylastes,1,B5R3controlS3_2018,B5R3controlS3_2018_clearcut,-0.142420785,20
+B5R3controlS4,clearcut,2018,5,3,control,4,30,4.5,0,0,0,0,alive,0,,0,alive,0,B5R3controlS4_2018,B5R3controlS4_2018_clearcut,-0.593674658,0
+B5R3controlS4,clearcut,2019,5,3,control,4,0,0,0,0,2019,1,other,0,,0,other,1,B5R3controlS4_2019,B5R3controlS4_2019_clearcut,-0.593674658,0
+B5R3controlS5,clearcut,2018,5,3,control,5,0,0,150,50,2018,1,Hylobius,0,,0,Hylobius,1,B5R3controlS5_2018,B5R3controlS5_2018_clearcut,0.642134969,150
+B5R3controlS6,clearcut,2018,5,3,control,6,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B5R3controlS6_2018,B5R3controlS6_2018_clearcut,-0.593674658,0
+B5R3controlS7,clearcut,2018,5,3,control,7,0,0,180,60,2018,1,Hylobius,0,,0,Hylobius,1,B5R3controlS7_2018,B5R3controlS7_2018_clearcut,0.760086961,180
+B5R3controlS8,clearcut,2018,5,3,control,8,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B5R3controlS8_2018,B5R3controlS8_2018_clearcut,-0.593674658,0
+B5R4wax FS1,clearcut,2018,5,4,wax F,1,41,5.4,0,0,0,0,alive,0,,1,alive,0,B5R4wax FS1_2018,B5R4wax FS1_2018_clearcut,-0.593674658,0
+B5R4wax FS1,clearcut,2019,5,4,wax F,1,34,8.9,20,10,0,0,alive,0,,1,alive,0,B5R4wax FS1_2019,B5R4wax FS1_2019_clearcut,-0.142420785,20
+B5R4wax FS1,clearcut,2020,5,4,wax F,1,59,13.6,0,0,0,0,alive,0,,4,alive,0,B5R4wax FS1_2020,B5R4wax FS1_2020_clearcut,-0.593674658,0
+B5R4wax FS11,clearcut,2018,5,4,wax F,11,0,0,0,0,2018,1,Hylastes,0,,1,Hylastes,1,B5R4wax FS11_2018,B5R4wax FS11_2018_clearcut,-0.593674658,0
+B5R4wax FS2,clearcut,2018,5,4,wax F,2,41,7.7,0,0,0,0,alive,0,,1,alive,0,B5R4wax FS2_2018,B5R4wax FS2_2018_clearcut,-0.593674658,0
+B5R4wax FS2,clearcut,2019,5,4,wax F,2,41,6.4,1000,100,0,0,alive,0,,4,alive,0,B5R4wax FS2_2019,B5R4wax FS2_2019_clearcut,2.597172077,1000
+B5R4wax FS2,clearcut,2020,5,4,wax F,2,0,0,800,0,2020,1,Hylobius,0,,4,Hylobius,1,B5R4wax FS2_2020,B5R4wax FS2_2020_clearcut,2.260305424,800
+B5R4wax FS3,clearcut,2018,5,4,wax F,3,44,9,0,0,0,0,alive,0,,0,alive,0,B5R4wax FS3_2018,B5R4wax FS3_2018_clearcut,-0.593674658,0
+B5R4wax FS3,clearcut,2019,5,4,wax F,3,41,13,0,0,0,0,alive,0,,1,alive,0,B5R4wax FS3_2019,B5R4wax FS3_2019_clearcut,-0.593674658,0
+B5R4wax FS3,clearcut,2020,5,4,wax F,3,50,14.6,0,0,0,0,alive,0,,2,alive,0,B5R4wax FS3_2020,B5R4wax FS3_2020_clearcut,-0.593674658,0
+B5R4wax FS4,clearcut,2018,5,4,wax F,4,35,6.7,0,0,0,0,alive,0,,0,alive,0,B5R4wax FS4_2018,B5R4wax FS4_2018_clearcut,-0.593674658,0
+B5R4wax FS4,clearcut,2019,5,4,wax F,4,36,6.9,20,10,0,0,alive,0,,2,alive,0,B5R4wax FS4_2019,B5R4wax FS4_2019_clearcut,-0.142420785,20
+B5R4wax FS4,clearcut,2020,5,4,wax F,4,0,0,300,0,2020,1,Hylobius,0,,0,Hylobius,1,B5R4wax FS4_2020,B5R4wax FS4_2020_clearcut,1.154024077,300
+B5R4wax FS5,clearcut,2018,5,4,wax F,5,35,4.3,30,20,0,0,alive,0,,2,alive,0,B5R4wax FS5_2018,B5R4wax FS5_2018_clearcut,-0.041003791,30
+B5R4wax FS5,clearcut,2019,5,4,wax F,5,60,11.3,120,20,0,0,alive,0,,1,alive,0,B5R4wax FS5_2019,B5R4wax FS5_2019_clearcut,0.511667075,120
+B5R4wax FS5,clearcut,2020,5,4,wax F,5,69,16.4,1000,0,0,0,alive,0,,3,alive,0,B5R4wax FS5_2020,B5R4wax FS5_2020_clearcut,2.597172077,1000
+B5R4wax FS6,clearcut,2018,5,4,wax F,6,61,8.2,0,0,0,0,alive,0,,0,alive,0,B5R4wax FS6_2018,B5R4wax FS6_2018_clearcut,-0.593674658,0
+B5R4wax FS6,clearcut,2019,5,4,wax F,6,43,8.6,0,100,0,0,alive,0,,1,alive,0,B5R4wax FS6_2019,B5R4wax FS6_2019_clearcut,-0.593674658,0
+B5R4wax FS6,clearcut,2020,5,4,wax F,6,51,8.8,0,0,0,0,alive,0,,0,alive,0,B5R4wax FS6_2020,B5R4wax FS6_2020_clearcut,-0.593674658,0
+B5R4wax FS7,clearcut,2018,5,4,wax F,7,40,6.1,0,0,0,0,alive,0,,0,alive,0,B5R4wax FS7_2018,B5R4wax FS7_2018_clearcut,-0.593674658,0
+B5R4wax FS7,clearcut,2019,5,4,wax F,7,24,8.9,600,100,0,0,alive,0,,3,alive,0,B5R4wax FS7_2019,B5R4wax FS7_2019_clearcut,1.877944595,600
+B5R4wax FS7,clearcut,2020,5,4,wax F,7,0,0,100,0,2020,1,Hylobius,0,,4,Hylobius,1,B5R4wax FS7_2020,B5R4wax FS7_2020_clearcut,0.415359677,100
+B5R4wax FS8,clearcut,2018,5,4,wax F,8,16,5.7,0,0,0,0,alive,0,,0,alive,0,B5R4wax FS8_2018,B5R4wax FS8_2018_clearcut,-0.593674658,0
+B5R4wax FS8,clearcut,2019,5,4,wax F,8,20,9.5,0,0,0,0,alive,0,,1,alive,0,B5R4wax FS8_2019,B5R4wax FS8_2019_clearcut,-0.593674658,0
+B5R4wax FS8,clearcut,2020,5,4,wax F,8,27,9.3,0,0,0,0,alive,0,,3,alive,0,B5R4wax FS8_2020,B5R4wax FS8_2020_clearcut,-0.593674658,0
+B5R4wax FS9,clearcut,2018,5,4,wax F,9,20,6.1,0,0,0,0,alive,0,,1,alive,0,B5R4wax FS9_2018,B5R4wax FS9_2018_clearcut,-0.593674658,0
+B5R4wax FS9,clearcut,2019,5,4,wax F,9,27,8.9,150,70,0,0,alive,0,,3,alive,0,B5R4wax FS9_2019,B5R4wax FS9_2019_clearcut,0.642134969,150
+B5R4wax FS9,clearcut,2020,5,4,wax F,9,0,0,70,0,2020,1,Hylobius,0,,0,Hylobius,1,B5R4wax FS9_2020,B5R4wax FS9_2020_clearcut,0.250544036,70
+B5R5glueS1,clearcut,2018,5,5,glue,1,33,5.4,0,0,0,0,alive,0,,0,alive,0,B5R5glueS1_2018,B5R5glueS1_2018_clearcut,-0.593674658,0
+B5R5glueS1,clearcut,2019,5,5,glue,1,36,7.8,20,10,0,0,alive,0,,0,alive,0,B5R5glueS1_2019,B5R5glueS1_2019_clearcut,-0.142420785,20
+B5R5glueS1,clearcut,2020,5,5,glue,1,47,12.6,0,0,0,0,alive,0,,0,alive,0,B5R5glueS1_2020,B5R5glueS1_2020_clearcut,-0.593674658,0
+B5R5glueS10,clearcut,2018,5,5,glue,10,0,0,0,0,2018,1,other,0,,0,other,1,B5R5glueS10_2018,B5R5glueS10_2018_clearcut,-0.593674658,0
+B5R5glueS2,clearcut,2018,5,5,glue,2,0,0,0,0,2018,1,other,0,,0,other,1,B5R5glueS2_2018,B5R5glueS2_2018_clearcut,-0.593674658,0
+B5R5glueS3,clearcut,2018,5,5,glue,3,26,5.5,0,0,0,0,alive,0,,0,alive,0,B5R5glueS3_2018,B5R5glueS3_2018_clearcut,-0.593674658,0
+B5R5glueS3,clearcut,2019,5,5,glue,3,32,8.1,0,0,0,0,alive,0,,0,alive,0,B5R5glueS3_2019,B5R5glueS3_2019_clearcut,-0.593674658,0
+B5R5glueS3,clearcut,2020,5,5,glue,3,40,10.6,0,0,0,0,alive,0,,0,alive,0,B5R5glueS3_2020,B5R5glueS3_2020_clearcut,-0.593674658,0
+B5R5glueS4,clearcut,2018,5,5,glue,4,47,8.4,0,0,0,0,alive,0,,0,alive,0,B5R5glueS4_2018,B5R5glueS4_2018_clearcut,-0.593674658,0
+B5R5glueS4,clearcut,2019,5,5,glue,4,52,9.5,0,0,0,0,alive,0,,0,alive,0,B5R5glueS4_2019,B5R5glueS4_2019_clearcut,-0.593674658,0
+B5R5glueS4,clearcut,2020,5,5,glue,4,55,17.7,0,0,0,0,alive,0,,0,alive,0,B5R5glueS4_2020,B5R5glueS4_2020_clearcut,-0.593674658,0
+B5R5glueS5,clearcut,2018,5,5,glue,5,21,4.7,0,0,0,0,alive,0,,0,alive,0,B5R5glueS5_2018,B5R5glueS5_2018_clearcut,-0.593674658,0
+B5R5glueS5,clearcut,2019,5,5,glue,5,0,0,0,0,2019,1,other,0,,0,other,1,B5R5glueS5_2019,B5R5glueS5_2019_clearcut,-0.593674658,0
+B5R5glueS6,clearcut,2018,5,5,glue,6,21,4.1,0,0,0,0,alive,0,,0,alive,0,B5R5glueS6_2018,B5R5glueS6_2018_clearcut,-0.593674658,0
+B5R5glueS6,clearcut,2019,5,5,glue,6,22,5.3,0,0,0,0,alive,0,,0,alive,0,B5R5glueS6_2019,B5R5glueS6_2019_clearcut,-0.593674658,0
+B5R5glueS6,clearcut,2020,5,5,glue,6,30,9.5,0,0,0,0,alive,0,,0,alive,0,B5R5glueS6_2020,B5R5glueS6_2020_clearcut,-0.593674658,0
+B5R5glueS7,clearcut,2018,5,5,glue,7,45,8.6,0,0,0,0,alive,0,,0,alive,0,B5R5glueS7_2018,B5R5glueS7_2018_clearcut,-0.593674658,0
+B5R5glueS7,clearcut,2019,5,5,glue,7,0,0,0,0,2019,1,other,0,,0,other,1,B5R5glueS7_2019,B5R5glueS7_2019_clearcut,-0.593674658,0
+B5R5glueS8,clearcut,2018,5,5,glue,8,39,6,0,0,0,0,alive,0,,0,alive,0,B5R5glueS8_2018,B5R5glueS8_2018_clearcut,-0.593674658,0
+B5R5glueS8,clearcut,2019,5,5,glue,8,55,15.3,90,30,0,0,alive,0,,0,alive,0,B5R5glueS8_2019,B5R5glueS8_2019_clearcut,0.363579363,90
+B5R5glueS8,clearcut,2020,5,5,glue,8,62,22.6,0,0,0,0,alive,0,,0,alive,0,B5R5glueS8_2020,B5R5glueS8_2020_clearcut,-0.593674658,0
+B5R5glueS9,clearcut,2018,5,5,glue,9,32,5.4,0,0,0,0,alive,0,,0,alive,0,B5R5glueS9_2018,B5R5glueS9_2018_clearcut,-0.593674658,0
+B5R5glueS9,clearcut,2019,5,5,glue,9,0,0,0,0,2019,1,other,0,,0,other,1,B5R5glueS9_2019,B5R5glueS9_2019_clearcut,-0.593674658,0
+B5R6wax CS1,clearcut,2018,5,6,wax C,1,30,6.3,0,0,0,0,alive,0,,0,alive,0,B5R6wax CS1_2018,B5R6wax CS1_2018_clearcut,-0.593674658,0
+B5R6wax CS1,clearcut,2019,5,6,wax C,1,34,5.7,80,70,0,0,alive,0,,2,alive,0,B5R6wax CS1_2019,B5R6wax CS1_2019_clearcut,0.308833088,80
+B5R6wax CS1,clearcut,2020,5,6,wax C,1,0,0,190,0,2020,1,Hylobius,0,,2,Hylobius,1,B5R6wax CS1_2020,B5R6wax CS1_2020_clearcut,0.797183189,190
+B5R6wax CS10,clearcut,2018,5,6,wax C,10,0,0,0,0,2018,1,other,0,,0,other,1,B5R6wax CS10_2018,B5R6wax CS10_2018_clearcut,-0.593674658,0
+B5R6wax CS2,clearcut,2018,5,6,wax C,2,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B5R6wax CS2_2018,B5R6wax CS2_2018_clearcut,-0.593674658,0
+B5R6wax CS3,clearcut,2018,5,6,wax C,3,0,0,0,0,2018,1,other,0,,0,other,1,B5R6wax CS3_2018,B5R6wax CS3_2018_clearcut,-0.593674658,0
+B5R6wax CS4,clearcut,2018,5,6,wax C,4,56,10,0,0,0,0,alive,0,,0,alive,0,B5R6wax CS4_2018,B5R6wax CS4_2018_clearcut,-0.593674658,0
+B5R6wax CS4,clearcut,2019,5,6,wax C,4,63,12.7,0,0,0,0,alive,0,,2,alive,0,B5R6wax CS4_2019,B5R6wax CS4_2019_clearcut,-0.593674658,0
+B5R6wax CS4,clearcut,2020,5,6,wax C,4,87,17.1,0,0,0,0,alive,0,,2,alive,0,B5R6wax CS4_2020,B5R6wax CS4_2020_clearcut,-0.593674658,0
+B5R6wax CS5,clearcut,2018,5,6,wax C,5,62,13.4,0,0,0,0,alive,0,,0,alive,0,B5R6wax CS5_2018,B5R6wax CS5_2018_clearcut,-0.593674658,0
+B5R6wax CS5,clearcut,2019,5,6,wax C,5,64,15.8,230,50,0,0,alive,0,,2,alive,0,B5R6wax CS5_2019,B5R6wax CS5_2019_clearcut,0.936601678,230
+B5R6wax CS5,clearcut,2020,5,6,wax C,5,79,18.1,650,0,0,0,alive,0,,3,alive,0,B5R6wax CS5_2020,B5R6wax CS5_2020_clearcut,1.978868223,650
+B5R6wax CS6,clearcut,2018,5,6,wax C,6,61,12,300,30,0,0,alive,0,,0,bad condition,0,B5R6wax CS6_2018,B5R6wax CS6_2018_clearcut,1.154024077,300
+B5R6wax CS6,clearcut,2019,5,6,wax C,6,60,10,7.5,0,0,0,alive,0,,3,bad condition,0,B5R6wax CS6_2019,B5R6wax CS6_2019_clearcut,-0.317339224,7.5
+B5R6wax CS6,clearcut,2020,5,6,wax C,6,58,7.9,60,0,0,0,alive,0,,3,bad condition,0,B5R6wax CS6_2020,B5R6wax CS6_2020_clearcut,0.187919977,60
+B5R6wax CS7,clearcut,2018,5,6,wax C,7,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B5R6wax CS7_2018,B5R6wax CS7_2018_clearcut,-0.593674658,0
+B5R6wax CS8,clearcut,2018,5,6,wax C,8,0,0,0,0,2018,1,other,0,,1,other,1,B5R6wax CS8_2018,B5R6wax CS8_2018_clearcut,-0.593674658,0
+B5R6wax CS9,clearcut,2018,5,6,wax C,9,0,0,0,0,2018,1,other,0,,0,human,1,B5R6wax CS9_2018,B5R6wax CS9_2018_clearcut,-0.593674658,0
+B6R1glueS1,clearcut,2018,6,1,glue,1,36,5,0,0,0,0,alive,0,,0,alive,0,B6R1glueS1_2018,B6R1glueS1_2018_clearcut,-0.593674658,0
+B6R1glueS1,clearcut,2019,6,1,glue,1,39,6,0,0,0,0,alive,0,,0,alive,0,B6R1glueS1_2019,B6R1glueS1_2019_clearcut,-0.593674658,0
+B6R1glueS1,clearcut,2020,6,1,glue,1,39,5.7,0,0,0,0,alive,0,,0,alive,0,B6R1glueS1_2020,B6R1glueS1_2020_clearcut,-0.593674658,0
+B6R1glueS10,clearcut,2018,6,1,glue,10,30,4.8,0,0,0,0,alive,0,,0,alive,0,B6R1glueS10_2018,B6R1glueS10_2018_clearcut,-0.593674658,0
+B6R1glueS10,clearcut,2019,6,1,glue,10,28,5.6,0,0,0,0,alive,0,,0,alive,0,B6R1glueS10_2019,B6R1glueS10_2019_clearcut,-0.593674658,0
+B6R1glueS10,clearcut,2020,6,1,glue,10,32,5.6,0,0,0,0,alive,0,,0,alive,0,B6R1glueS10_2020,B6R1glueS10_2020_clearcut,-0.593674658,0
+B6R1glueS2,clearcut,2018,6,1,glue,2,0,0,0,0,2018,1,other,0,,0,other,1,B6R1glueS2_2018,B6R1glueS2_2018_clearcut,-0.593674658,0
+B6R1glueS3,clearcut,2018,6,1,glue,3,25,5,0,0,0,0,alive,0,,0,alive,0,B6R1glueS3_2018,B6R1glueS3_2018_clearcut,-0.593674658,0
+B6R1glueS3,clearcut,2019,6,1,glue,3,0,0,0,0,2019,1,other,0,,0,other,1,B6R1glueS3_2019,B6R1glueS3_2019_clearcut,-0.593674658,0
+B6R1glueS4,clearcut,2018,6,1,glue,4,33,4.3,0,0,0,0,alive,0,,0,alive,0,B6R1glueS4_2018,B6R1glueS4_2018_clearcut,-0.593674658,0
+B6R1glueS4,clearcut,2019,6,1,glue,4,33,6.7,0,0,0,0,alive,0,,0,alive,0,B6R1glueS4_2019,B6R1glueS4_2019_clearcut,-0.593674658,0
+B6R1glueS4,clearcut,2020,6,1,glue,4,64,16.9,0,0,0,0,alive,0,,0,alive,0,B6R1glueS4_2020,B6R1glueS4_2020_clearcut,-0.593674658,0
+B6R1glueS5,clearcut,2018,6,1,glue,5,51,7.3,0,0,0,0,alive,0,,0,terminal,0,B6R1glueS5_2018,B6R1glueS5_2018_clearcut,-0.593674658,0
+B6R1glueS5,clearcut,2019,6,1,glue,5,43,11.5,0,0,0,0,alive,0,,0,alive,0,B6R1glueS5_2019,B6R1glueS5_2019_clearcut,-0.593674658,0
+B6R1glueS5,clearcut,2020,6,1,glue,5,70,19.3,60,0,0,0,alive,0,,0,alive,0,B6R1glueS5_2020,B6R1glueS5_2020_clearcut,0.187919977,60
+B6R1glueS6,clearcut,2018,6,1,glue,6,47,7.9,0,0,0,0,alive,0,,0,alive,0,B6R1glueS6_2018,B6R1glueS6_2018_clearcut,-0.593674658,0
+B6R1glueS6,clearcut,2019,6,1,glue,6,29,7.4,30,10,0,0,alive,0,,0,alive,0,B6R1glueS6_2019,B6R1glueS6_2019_clearcut,-0.041003791,30
+B6R1glueS6,clearcut,2020,6,1,glue,6,46,9.4,0,0,0,0,alive,0,,0,alive,0,B6R1glueS6_2020,B6R1glueS6_2020_clearcut,-0.593674658,0
+B6R1glueS7,clearcut,2018,6,1,glue,7,35,5.8,0,0,0,0,alive,0,,0,alive,0,B6R1glueS7_2018,B6R1glueS7_2018_clearcut,-0.593674658,0
+B6R1glueS7,clearcut,2019,6,1,glue,7,53,13.6,0,0,0,0,alive,0,,0,alive,0,B6R1glueS7_2019,B6R1glueS7_2019_clearcut,-0.593674658,0
+B6R1glueS7,clearcut,2020,6,1,glue,7,75,16.4,70,0,0,0,alive,0,,0,alive,0,B6R1glueS7_2020,B6R1glueS7_2020_clearcut,0.250544036,70
+B6R1glueS8,clearcut,2018,6,1,glue,8,54,7.3,0,0,0,0,alive,0,,0,alive,0,B6R1glueS8_2018,B6R1glueS8_2018_clearcut,-0.593674658,0
+B6R1glueS8,clearcut,2019,6,1,glue,8,37,5.3,0,0,0,0,alive,0,,0,alive,0,B6R1glueS8_2019,B6R1glueS8_2019_clearcut,-0.593674658,0
+B6R1glueS8,clearcut,2020,6,1,glue,8,43,6.4,0,0,0,0,alive,0,,0,alive,0,B6R1glueS8_2020,B6R1glueS8_2020_clearcut,-0.593674658,0
+B6R1glueS9,clearcut,2018,6,1,glue,9,38,4.5,0,0,0,0,alive,0,,0,alive,0,B6R1glueS9_2018,B6R1glueS9_2018_clearcut,-0.593674658,0
+B6R1glueS9,clearcut,2019,6,1,glue,9,0,0,0,0,2019,1,other,0,,0,other,1,B6R1glueS9_2019,B6R1glueS9_2019_clearcut,-0.593674658,0
+B6R2chemicalS1,clearcut,2018,6,2,chemical,1,40,7.2,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS1_2018,B6R2chemicalS1_2018_clearcut,-0.593674658,0
+B6R2chemicalS1,clearcut,2019,6,2,chemical,1,42.5,8.2,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS1_2019,B6R2chemicalS1_2019_clearcut,-0.593674658,0
+B6R2chemicalS1,clearcut,2020,6,2,chemical,1,50,12.1,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS1_2020,B6R2chemicalS1_2020_clearcut,-0.593674658,0
+B6R2chemicalS10,clearcut,2018,6,2,chemical,10,55,7.6,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS10_2018,B6R2chemicalS10_2018_clearcut,-0.593674658,0
+B6R2chemicalS10,clearcut,2019,6,2,chemical,10,59,10.7,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS10_2019,B6R2chemicalS10_2019_clearcut,-0.593674658,0
+B6R2chemicalS10,clearcut,2020,6,2,chemical,10,69,17.5,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS10_2020,B6R2chemicalS10_2020_clearcut,-0.593674658,0
+B6R2chemicalS2,clearcut,2018,6,2,chemical,2,0,0,70,30,2018,1,Hylobius,0,,0,Hylobius,1,B6R2chemicalS2_2018,B6R2chemicalS2_2018_clearcut,0.250544036,70
+B6R2chemicalS3,clearcut,2018,6,2,chemical,3,36,4.7,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS3_2018,B6R2chemicalS3_2018_clearcut,-0.593674658,0
+B6R2chemicalS3,clearcut,2019,6,2,chemical,3,40,7.2,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS3_2019,B6R2chemicalS3_2019_clearcut,-0.593674658,0
+B6R2chemicalS3,clearcut,2020,6,2,chemical,3,59,11.3,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS3_2020,B6R2chemicalS3_2020_clearcut,-0.593674658,0
+B6R2chemicalS4,clearcut,2018,6,2,chemical,4,45,6.7,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS4_2018,B6R2chemicalS4_2018_clearcut,-0.593674658,0
+B6R2chemicalS4,clearcut,2019,6,2,chemical,4,48,8.2,50,20,0,0,alive,0,,0,alive,0,B6R2chemicalS4_2019,B6R2chemicalS4_2019_clearcut,0.119820363,50
+B6R2chemicalS4,clearcut,2020,6,2,chemical,4,61,13.9,20,0,0,0,alive,0,,0,alive,0,B6R2chemicalS4_2020,B6R2chemicalS4_2020_clearcut,-0.142420785,20
+B6R2chemicalS5,clearcut,2018,6,2,chemical,5,43,7.4,40,30,0,0,alive,0,,0,alive,0,B6R2chemicalS5_2018,B6R2chemicalS5_2018_clearcut,0.044494689,40
+B6R2chemicalS5,clearcut,2019,6,2,chemical,5,44,8.5,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS5_2019,B6R2chemicalS5_2019_clearcut,-0.593674658,0
+B6R2chemicalS5,clearcut,2020,6,2,chemical,5,60,13.1,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS5_2020,B6R2chemicalS5_2020_clearcut,-0.593674658,0
+B6R2chemicalS6,clearcut,2018,6,2,chemical,6,39,5.5,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS6_2018,B6R2chemicalS6_2018_clearcut,-0.593674658,0
+B6R2chemicalS6,clearcut,2019,6,2,chemical,6,42,5.8,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS6_2019,B6R2chemicalS6_2019_clearcut,-0.593674658,0
+B6R2chemicalS6,clearcut,2020,6,2,chemical,6,51,9.3,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS6_2020,B6R2chemicalS6_2020_clearcut,-0.593674658,0
+B6R2chemicalS7,clearcut,2018,6,2,chemical,7,35,4.9,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS7_2018,B6R2chemicalS7_2018_clearcut,-0.593674658,0
+B6R2chemicalS7,clearcut,2019,6,2,chemical,7,36.5,5.2,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS7_2019,B6R2chemicalS7_2019_clearcut,-0.593674658,0
+B6R2chemicalS7,clearcut,2020,6,2,chemical,7,44,7.7,10,0,0,0,alive,0,,0,alive,0,B6R2chemicalS7_2020,B6R2chemicalS7_2020_clearcut,-0.274589984,10
+B6R2chemicalS8,clearcut,2018,6,2,chemical,8,34,5.5,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS8_2018,B6R2chemicalS8_2018_clearcut,-0.593674658,0
+B6R2chemicalS8,clearcut,2019,6,2,chemical,8,37,8.7,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS8_2019,B6R2chemicalS8_2019_clearcut,-0.593674658,0
+B6R2chemicalS8,clearcut,2020,6,2,chemical,8,54,13.8,0,0,0,0,alive,0,,0,alive,0,B6R2chemicalS8_2020,B6R2chemicalS8_2020_clearcut,-0.593674658,0
+B6R2chemicalS9,clearcut,2018,6,2,chemical,9,51,6.9,20,10,0,0,alive,0,,0,alive,0,B6R2chemicalS9_2018,B6R2chemicalS9_2018_clearcut,-0.142420785,20
+B6R2chemicalS9,clearcut,2019,6,2,chemical,9,57,7.7,10,10,0,0,alive,0,,0,alive,0,B6R2chemicalS9_2019,B6R2chemicalS9_2019_clearcut,-0.274589984,10
+B6R2chemicalS9,clearcut,2020,6,2,chemical,9,63,14.5,30,0,0,0,alive,0,,0,alive,0,B6R2chemicalS9_2020,B6R2chemicalS9_2020_clearcut,-0.041003791,30
+B6R3controlS1,clearcut,2018,6,3,control,1,27,4,0,0,0,0,alive,0,,0,alive,0,B6R3controlS1_2018,B6R3controlS1_2018_clearcut,-0.593674658,0
+B6R3controlS1,clearcut,2019,6,3,control,1,0,0,0,0,2019,1,other,0,,0,other,1,B6R3controlS1_2019,B6R3controlS1_2019_clearcut,-0.593674658,0
+B6R3controlS10,clearcut,2018,6,3,control,10,0,0,0,0,2018,1,other,0,,0,other,1,B6R3controlS10_2018,B6R3controlS10_2018_clearcut,-0.593674658,0
+B6R3controlS2,clearcut,2018,6,3,control,2,54,7.7,0,0,0,0,alive,0,,0,alive,0,B6R3controlS2_2018,B6R3controlS2_2018_clearcut,-0.593674658,0
+B6R3controlS2,clearcut,2019,6,3,control,2,55,8.7,40,10,0,0,alive,0,,0,alive,0,B6R3controlS2_2019,B6R3controlS2_2019_clearcut,0.044494689,40
+B6R3controlS2,clearcut,2020,6,3,control,2,60,13.6,0,0,0,0,alive,0,,0,alive,0,B6R3controlS2_2020,B6R3controlS2_2020_clearcut,-0.593674658,0
+B6R3controlS3,clearcut,2018,6,3,control,3,30,4.5,0,0,0,0,alive,0,,0,alive,0,B6R3controlS3_2018,B6R3controlS3_2018_clearcut,-0.593674658,0
+B6R3controlS3,clearcut,2019,6,3,control,3,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B6R3controlS3_2019,B6R3controlS3_2019_clearcut,-0.593674658,0
+B6R3controlS4,clearcut,2018,6,3,control,4,40,6.2,0,0,0,0,alive,0,,0,alive,0,B6R3controlS4_2018,B6R3controlS4_2018_clearcut,-0.593674658,0
+B6R3controlS4,clearcut,2019,6,3,control,4,42,7.5,410,90,0,0,alive,0,,0,alive,0,B6R3controlS4_2019,B6R3controlS4_2019_clearcut,1.449464149,410
+B6R3controlS4,clearcut,2020,6,3,control,4,45,11.5,0,0,0,0,alive,0,,0,alive,0,B6R3controlS4_2020,B6R3controlS4_2020_clearcut,-0.593674658,0
+B6R3controlS5,clearcut,2018,6,3,control,5,31,4.8,0,0,0,0,alive,0,,0,alive,0,B6R3controlS5_2018,B6R3controlS5_2018_clearcut,-0.593674658,0
+B6R3controlS5,clearcut,2019,6,3,control,5,33,7,0,0,0,0,alive,0,,0,alive,0,B6R3controlS5_2019,B6R3controlS5_2019_clearcut,-0.593674658,0
+B6R3controlS5,clearcut,2020,6,3,control,5,40,10.4,0,0,0,0,alive,0,,0,alive,0,B6R3controlS5_2020,B6R3controlS5_2020_clearcut,-0.593674658,0
+B6R3controlS6,clearcut,2018,6,3,control,6,31,4.1,0,0,0,0,alive,0,,0,alive,0,B6R3controlS6_2018,B6R3controlS6_2018_clearcut,-0.593674658,0
+B6R3controlS6,clearcut,2019,6,3,control,6,0,0,0,0,2019,1,other,0,,0,other,1,B6R3controlS6_2019,B6R3controlS6_2019_clearcut,-0.593674658,0
+B6R3controlS7,clearcut,2018,6,3,control,7,44,5.6,150,50,0,0,alive,0,,0,alive,0,B6R3controlS7_2018,B6R3controlS7_2018_clearcut,0.642134969,150
+B6R3controlS7,clearcut,2019,6,3,control,7,28,6.1,60,30,0,0,alive,0,,0,alive,0,B6R3controlS7_2019,B6R3controlS7_2019_clearcut,0.187919977,60
+B6R3controlS7,clearcut,2020,6,3,control,7,37,6.6,0,0,0,0,alive,0,,0,alive,0,B6R3controlS7_2020,B6R3controlS7_2020_clearcut,-0.593674658,0
+B6R3controlS8,clearcut,2018,6,3,control,8,47,6.7,50,10,0,0,alive,0,,0,alive,0,B6R3controlS8_2018,B6R3controlS8_2018_clearcut,0.119820363,50
+B6R3controlS8,clearcut,2019,6,3,control,8,49,10.7,140,50,0,0,alive,0,,0,alive,0,B6R3controlS8_2019,B6R3controlS8_2019_clearcut,0.600230868,140
+B6R3controlS8,clearcut,2020,6,3,control,8,54,13.4,300,0,0,0,alive,0,,0,alive,0,B6R3controlS8_2020,B6R3controlS8_2020_clearcut,1.154024077,300
+B6R3controlS9,clearcut,2018,6,3,control,9,40,6.5,0,0,0,0,alive,0,,0,alive,0,B6R3controlS9_2018,B6R3controlS9_2018_clearcut,-0.593674658,0
+B6R3controlS9,clearcut,2019,6,3,control,9,44,8.7,20,10,0,0,alive,0,,0,alive,0,B6R3controlS9_2019,B6R3controlS9_2019_clearcut,-0.142420785,20
+B6R3controlS9,clearcut,2020,6,3,control,9,44,11.8,100,0,0,0,alive,0,,0,alive,0,B6R3controlS9_2020,B6R3controlS9_2020_clearcut,0.415359677,100
+B6R4wax FS1,clearcut,2018,6,4,wax F,1,15,4.5,0,0,0,0,alive,0,,0,alive,0,B6R4wax FS1_2018,B6R4wax FS1_2018_clearcut,-0.593674658,0
+B6R4wax FS1,clearcut,2019,6,4,wax F,1,0,0,0,0,2019,1,other,0,,0,other,1,B6R4wax FS1_2019,B6R4wax FS1_2019_clearcut,-0.593674658,0
+B6R4wax FS10,clearcut,2018,6,4,wax F,10,54,10.1,0,0,0,0,alive,0,,0,alive,0,B6R4wax FS10_2018,B6R4wax FS10_2018_clearcut,-0.593674658,0
+B6R4wax FS10,clearcut,2019,6,4,wax F,10,54,10.8,700,50,0,0,alive,0,,2,alive,0,B6R4wax FS10_2019,B6R4wax FS10_2019_clearcut,2.075979256,700
+B6R4wax FS10,clearcut,2020,6,4,wax F,10,63,14.4,300,0,0,0,alive,0,,3,alive,0,B6R4wax FS10_2020,B6R4wax FS10_2020_clearcut,1.154024077,300
+B6R4wax FS2,clearcut,2018,6,4,wax F,2,47,9.5,0,0,0,0,alive,0,,1,alive,0,B6R4wax FS2_2018,B6R4wax FS2_2018_clearcut,-0.593674658,0
+B6R4wax FS2,clearcut,2019,6,4,wax F,2,47,10.1,0,0,0,0,alive,0,,1,alive,0,B6R4wax FS2_2019,B6R4wax FS2_2019_clearcut,-0.593674658,0
+B6R4wax FS2,clearcut,2020,6,4,wax F,2,64,14,0,0,0,0,alive,0,,3,alive,0,B6R4wax FS2_2020,B6R4wax FS2_2020_clearcut,-0.593674658,0
+B6R4wax FS3,clearcut,2018,6,4,wax F,3,41,8.6,0,0,0,0,alive,0,,0,alive,0,B6R4wax FS3_2018,B6R4wax FS3_2018_clearcut,-0.593674658,0
+B6R4wax FS3,clearcut,2019,6,4,wax F,3,39,7.8,0,0,0,0,alive,0,,1,alive,0,B6R4wax FS3_2019,B6R4wax FS3_2019_clearcut,-0.593674658,0
+B6R4wax FS3,clearcut,2020,6,4,wax F,3,49,9.9,0,0,0,0,alive,0,,2,alive,0,B6R4wax FS3_2020,B6R4wax FS3_2020_clearcut,-0.593674658,0
+B6R4wax FS4,clearcut,2018,6,4,wax F,4,42,7.5,0,0,0,0,alive,0,,0,alive,0,B6R4wax FS4_2018,B6R4wax FS4_2018_clearcut,-0.593674658,0
+B6R4wax FS4,clearcut,2019,6,4,wax F,4,0,0,0,0,2019,1,Hylastes,0,,1,Hylastes,1,B6R4wax FS4_2019,B6R4wax FS4_2019_clearcut,-0.593674658,0
+B6R4wax FS5,clearcut,2018,6,4,wax F,5,47,8.4,0,0,0,0,alive,0,,2,terminal,0,B6R4wax FS5_2018,B6R4wax FS5_2018_clearcut,-0.593674658,0
+B6R4wax FS5,clearcut,2019,6,4,wax F,5,0,0,0,0,2019,1,Hylastes,0,,2,Hylastes,1,B6R4wax FS5_2019,B6R4wax FS5_2019_clearcut,-0.593674658,0
+B6R4wax FS6,clearcut,2018,6,4,wax F,6,41,8,0,0,0,0,alive,0,,0,terminal,0,B6R4wax FS6_2018,B6R4wax FS6_2018_clearcut,-0.593674658,0
+B6R4wax FS6,clearcut,2019,6,4,wax F,6,0,0,0,0,2019,1,other,0,,0,other,1,B6R4wax FS6_2019,B6R4wax FS6_2019_clearcut,-0.593674658,0
+B6R4wax FS7,clearcut,2018,6,4,wax F,7,56,10.9,0,0,0,0,alive,0,,0,alive,0,B6R4wax FS7_2018,B6R4wax FS7_2018_clearcut,-0.593674658,0
+B6R4wax FS7,clearcut,2019,6,4,wax F,7,0,0,0,0,2019,1,other,0,,0,other,1,B6R4wax FS7_2019,B6R4wax FS7_2019_clearcut,-0.593674658,0
+B6R4wax FS8,clearcut,2018,6,4,wax F,8,37,7.5,0,0,0,0,alive,0,,1,alive,0,B6R4wax FS8_2018,B6R4wax FS8_2018_clearcut,-0.593674658,0
+B6R4wax FS8,clearcut,2019,6,4,wax F,8,49,11,0,0,0,0,alive,0,,2,alive,0,B6R4wax FS8_2019,B6R4wax FS8_2019_clearcut,-0.593674658,0
+B6R4wax FS8,clearcut,2020,6,4,wax F,8,35,6.1,150,0,0,0,alive,0,,4,terminal,0,B6R4wax FS8_2020,B6R4wax FS8_2020_clearcut,0.642134969,150
+B6R4wax FS9,clearcut,2018,6,4,wax F,9,53,10.9,20,10,0,0,alive,0,,2,alive,0,B6R4wax FS9_2018,B6R4wax FS9_2018_clearcut,-0.142420785,20
+B6R4wax FS9,clearcut,2019,6,4,wax F,9,60,18,800,20,0,0,alive,0,,3,alive,0,B6R4wax FS9_2019,B6R4wax FS9_2019_clearcut,2.260305424,800
+B6R4wax FS9,clearcut,2020,6,4,wax F,9,81,18.4,100,0,0,0,alive,0,,3,alive,0,B6R4wax FS9_2020,B6R4wax FS9_2020_clearcut,0.415359677,100
+B6R5wax CS1,clearcut,2018,6,5,wax C,1,0,0,0,0,2018,1,other,0,,0,other,1,B6R5wax CS1_2018,B6R5wax CS1_2018_clearcut,-0.593674658,0
+B6R5wax CS10,clearcut,2018,6,5,wax C,10,0,0,25,20,2018,1,Hylastes,0,,1,Hylastes,1,B6R5wax CS10_2018,B6R5wax CS10_2018_clearcut,-0.08915749,25
+B6R5wax CS2,clearcut,2018,6,5,wax C,2,38,3.8,0,0,0,0,alive,0,,0,terminal,0,B6R5wax CS2_2018,B6R5wax CS2_2018_clearcut,-0.593674658,0
+B6R5wax CS2,clearcut,2019,6,5,wax C,2,0,0,0,0,2019,1,other,0,,1,other,1,B6R5wax CS2_2019,B6R5wax CS2_2019_clearcut,-0.593674658,0
+B6R5wax CS3,clearcut,2018,6,5,wax C,3,49,9.7,0,0,0,0,alive,0,,1,alive,0,B6R5wax CS3_2018,B6R5wax CS3_2018_clearcut,-0.593674658,0
+B6R5wax CS3,clearcut,2019,6,5,wax C,3,53,10.8,100,30,0,0,alive,0,,2,alive,0,B6R5wax CS3_2019,B6R5wax CS3_2019_clearcut,0.415359677,100
+B6R5wax CS3,clearcut,2020,6,5,wax C,3,0,0,760,0,2020,1,Hylobius,0,,3,Hylobius,1,B6R5wax CS3_2020,B6R5wax CS3_2020_clearcut,2.188041035,760
+B6R5wax CS4,clearcut,2018,6,5,wax C,4,56,11.3,0,0,0,0,alive,0,,0,alive,0,B6R5wax CS4_2018,B6R5wax CS4_2018_clearcut,-0.593674658,0
+B6R5wax CS4,clearcut,2019,6,5,wax C,4,56,13.1,520,100,0,0,alive,0,,2,alive,0,B6R5wax CS4_2019,B6R5wax CS4_2019_clearcut,1.707277645,520
+B6R5wax CS4,clearcut,2020,6,5,wax C,4,57,15.5,50,0,0,0,alive,0,,2,terminal,0,B6R5wax CS4_2020,B6R5wax CS4_2020_clearcut,0.119820363,50
+B6R5wax CS5,clearcut,2018,6,5,wax C,5,54,7.5,0,0,0,0,alive,0,,0,alive,0,B6R5wax CS5_2018,B6R5wax CS5_2018_clearcut,-0.593674658,0
+B6R5wax CS5,clearcut,2019,6,5,wax C,5,58,7.8,0,100,0,0,alive,0,,3,alive,0,B6R5wax CS5_2019,B6R5wax CS5_2019_clearcut,-0.593674658,0
+B6R5wax CS5,clearcut,2020,6,5,wax C,5,0,0,340,0,2020,1,Hylobius,0,,3,Hylobius,1,B6R5wax CS5_2020,B6R5wax CS5_2020_clearcut,1.266892724,340
+B6R5wax CS6,clearcut,2018,6,5,wax C,6,0,0,0,0,2018,1,other,0,,1,other,1,B6R5wax CS6_2018,B6R5wax CS6_2018_clearcut,-0.593674658,0
+B6R5wax CS7,clearcut,2018,6,5,wax C,7,0,0,10,10,2018,1,Hylastes,0,,0,Hylastes,1,B6R5wax CS7_2018,B6R5wax CS7_2018_clearcut,-0.274589984,10
+B6R5wax CS8,clearcut,2018,6,5,wax C,8,47,6.3,0,0,0,0,alive,0,,0,terminal,0,B6R5wax CS8_2018,B6R5wax CS8_2018_clearcut,-0.593674658,0
+B6R5wax CS8,clearcut,2019,6,5,wax C,8,0,0,0,0,2019,1,other,0,,0,other,1,B6R5wax CS8_2019,B6R5wax CS8_2019_clearcut,-0.593674658,0
+B6R5wax CS9,clearcut,2018,6,5,wax C,9,0,0,0,0,2018,1,other,0,,1,other,1,B6R5wax CS9_2018,B6R5wax CS9_2018_clearcut,-0.593674658,0
+B6R6collarS1,clearcut,2018,6,6,collar,1,45,5.2,0,0,0,0,alive,0,,0,alive,0,B6R6collarS1_2018,B6R6collarS1_2018_clearcut,-0.593674658,0
+B6R6collarS1,clearcut,2019,6,6,collar,1,45,6.3,0,0,0,0,alive,0,,0,alive,0,B6R6collarS1_2019,B6R6collarS1_2019_clearcut,-0.593674658,0
+B6R6collarS1,clearcut,2020,6,6,collar,1,46,10.4,50,0,0,0,alive,0,Z,0,alive,0,B6R6collarS1_2020,B6R6collarS1_2020_clearcut,0.119820363,50
+B6R6collarS10,clearcut,2018,6,6,collar,10,51,5.7,0,0,0,0,alive,0,,0,alive,0,B6R6collarS10_2018,B6R6collarS10_2018_clearcut,-0.593674658,0
+B6R6collarS10,clearcut,2019,6,6,collar,10,0,0,0,0,2019,1,other,0,,0,human,1,B6R6collarS10_2019,B6R6collarS10_2019_clearcut,-0.593674658,0
+B6R6collarS2,clearcut,2018,6,6,collar,2,34,6.5,0,0,0,0,alive,0,,0,alive,0,B6R6collarS2_2018,B6R6collarS2_2018_clearcut,-0.593674658,0
+B6R6collarS2,clearcut,2019,6,6,collar,2,28,5.1,0,0,0,0,alive,0,,0,alive,0,B6R6collarS2_2019,B6R6collarS2_2019_clearcut,-0.593674658,0
+B6R6collarS2,clearcut,2020,6,6,collar,2,46,6.7,0,0,0,0,alive,0,O,0,alive,0,B6R6collarS2_2020,B6R6collarS2_2020_clearcut,-0.593674658,0
+B6R6collarS3,clearcut,2018,6,6,collar,3,20,2.3,0,0,0,0,alive,0,,0,alive,0,B6R6collarS3_2018,B6R6collarS3_2018_clearcut,-0.593674658,0
+B6R6collarS3,clearcut,2019,6,6,collar,3,29,4.9,0,0,0,0,alive,0,,0,alive,0,B6R6collarS3_2019,B6R6collarS3_2019_clearcut,-0.593674658,0
+B6R6collarS3,clearcut,2020,6,6,collar,3,42,6.8,0,0,0,0,alive,0,Z,0,alive,0,B6R6collarS3_2020,B6R6collarS3_2020_clearcut,-0.593674658,0
+B6R6collarS4,clearcut,2018,6,6,collar,4,18,3.1,0,0,0,0,alive,0,,0,alive,0,B6R6collarS4_2018,B6R6collarS4_2018_clearcut,-0.593674658,0
+B6R6collarS4,clearcut,2019,6,6,collar,4,42,7.9,10,10,0,0,alive,0,,0,alive,0,B6R6collarS4_2019,B6R6collarS4_2019_clearcut,-0.274589984,10
+B6R6collarS4,clearcut,2020,6,6,collar,4,63,10.5,0,0,0,0,alive,0,Z,0,alive,0,B6R6collarS4_2020,B6R6collarS4_2020_clearcut,-0.593674658,0
+B6R6collarS5,clearcut,2018,6,6,collar,5,40,4.8,0,0,0,0,alive,0,,0,alive,0,B6R6collarS5_2018,B6R6collarS5_2018_clearcut,-0.593674658,0
+B6R6collarS5,clearcut,2019,6,6,collar,5,0,0,0,0,2019,1,other,0,,0,other,1,B6R6collarS5_2019,B6R6collarS5_2019_clearcut,-0.593674658,0
+B6R6collarS6,clearcut,2018,6,6,collar,6,41,6.3,0,0,0,0,alive,0,,0,alive,0,B6R6collarS6_2018,B6R6collarS6_2018_clearcut,-0.593674658,0
+B6R6collarS6,clearcut,2019,6,6,collar,6,50,8.9,0,0,0,0,alive,0,,0,alive,0,B6R6collarS6_2019,B6R6collarS6_2019_clearcut,-0.593674658,0
+B6R6collarS6,clearcut,2020,6,6,collar,6,74,12.6,0,0,0,0,alive,0,Z,0,alive,0,B6R6collarS6_2020,B6R6collarS6_2020_clearcut,-0.593674658,0
+B6R6collarS7,clearcut,2018,6,6,collar,7,36,6.3,0,0,0,0,alive,0,,0,alive,0,B6R6collarS7_2018,B6R6collarS7_2018_clearcut,-0.593674658,0
+B6R6collarS7,clearcut,2019,6,6,collar,7,39,5.5,10,10,0,0,alive,0,,0,alive,0,B6R6collarS7_2019,B6R6collarS7_2019_clearcut,-0.274589984,10
+B6R6collarS7,clearcut,2020,6,6,collar,7,40,6.2,0,0,0,0,alive,0,Z,0,alive,0,B6R6collarS7_2020,B6R6collarS7_2020_clearcut,-0.593674658,0
+B6R6collarS8,clearcut,2018,6,6,collar,8,58,8.8,0,0,0,0,alive,0,,0,alive,0,B6R6collarS8_2018,B6R6collarS8_2018_clearcut,-0.593674658,0
+B6R6collarS8,clearcut,2019,6,6,collar,8,60,9.9,0,0,0,0,alive,0,,0,alive,0,B6R6collarS8_2019,B6R6collarS8_2019_clearcut,-0.593674658,0
+B6R6collarS8,clearcut,2020,6,6,collar,8,70,12.3,0,0,0,0,alive,0,Z,0,alive,0,B6R6collarS8_2020,B6R6collarS8_2020_clearcut,-0.593674658,0
+B6R6collarS9,clearcut,2018,6,6,collar,9,22,4,0,0,0,0,alive,0,,0,alive,0,B6R6collarS9_2018,B6R6collarS9_2018_clearcut,-0.593674658,0
+B6R6collarS9,clearcut,2019,6,6,collar,9,26,5.5,0,0,0,0,alive,0,,0,alive,0,B6R6collarS9_2019,B6R6collarS9_2019_clearcut,-0.593674658,0
+B6R6collarS9,clearcut,2020,6,6,collar,9,33,7.7,0,0,0,0,alive,0,Z,0,alive,0,B6R6collarS9_2020,B6R6collarS9_2020_clearcut,-0.593674658,0
+B7R1controlS1,clearcut,2018,7,1,control,1,21,6,0,0,0,0,alive,0,,0,alive,0,B7R1controlS1_2018,B7R1controlS1_2018_clearcut,-0.593674658,0
+B7R1controlS1,clearcut,2019,7,1,control,1,30,5.7,0,0,0,0,alive,0,,0,alive,0,B7R1controlS1_2019,B7R1controlS1_2019_clearcut,-0.593674658,0
+B7R1controlS1,clearcut,2020,7,1,control,1,51,10.5,300,0,0,0,alive,0,,0,alive,0,B7R1controlS1_2020,B7R1controlS1_2020_clearcut,1.154024077,300
+B7R1controlS10,clearcut,2018,7,1,control,10,30,4.5,0,0,0,0,alive,0,,0,alive,0,B7R1controlS10_2018,B7R1controlS10_2018_clearcut,-0.593674658,0
+B7R1controlS10,clearcut,2019,7,1,control,10,37,7.8,50,10,0,0,alive,0,,0,alive,0,B7R1controlS10_2019,B7R1controlS10_2019_clearcut,0.119820363,50
+B7R1controlS10,clearcut,2020,7,1,control,10,0,0,1100,0,2020,1,Hylobius,0,,0,Hylobius,1,B7R1controlS10_2020,B7R1controlS10_2020_clearcut,2.752913631,1100
+B7R1controlS2,clearcut,2018,7,1,control,2,27,4.2,0,0,0,0,alive,0,,0,alive,0,B7R1controlS2_2018,B7R1controlS2_2018_clearcut,-0.593674658,0
+B7R1controlS2,clearcut,2019,7,1,control,2,0,0,500,100,2019,1,Hylobius,0,,0,Hylobius,1,B7R1controlS2_2019,B7R1controlS2_2019_clearcut,1.662594706,500
+B7R1controlS3,clearcut,2018,7,1,control,3,34,5,10,10,0,0,alive,0,,0,alive,0,B7R1controlS3_2018,B7R1controlS3_2018_clearcut,-0.274589984,10
+B7R1controlS3,clearcut,2019,7,1,control,3,28,6.7,0,0,0,0,alive,0,,0,alive,0,B7R1controlS3_2019,B7R1controlS3_2019_clearcut,-0.593674658,0
+B7R1controlS3,clearcut,2020,7,1,control,3,36,9.1,250,0,0,0,alive,0,,0,terminal,0,B7R1controlS3_2020,B7R1controlS3_2020_clearcut,1.00174871,250
+B7R1controlS4,clearcut,2018,7,1,control,4,24,3.6,0,0,0,0,alive,0,,0,alive,0,B7R1controlS4_2018,B7R1controlS4_2018_clearcut,-0.593674658,0
+B7R1controlS4,clearcut,2019,7,1,control,4,30,6.8,0,0,0,0,alive,0,,0,alive,0,B7R1controlS4_2019,B7R1controlS4_2019_clearcut,-0.593674658,0
+B7R1controlS4,clearcut,2020,7,1,control,4,0,0,0,0,2020,1,other,0,,0,other,1,B7R1controlS4_2020,B7R1controlS4_2020_clearcut,-0.593674658,0
+B7R1controlS5,clearcut,2018,7,1,control,5,40,6.7,0,0,0,0,alive,0,,0,alive,0,B7R1controlS5_2018,B7R1controlS5_2018_clearcut,-0.593674658,0
+B7R1controlS5,clearcut,2019,7,1,control,5,30,4.8,900,100,0,0,alive,0,,0,alive,0,B7R1controlS5_2019,B7R1controlS5_2019_clearcut,2.433428346,900
+B7R1controlS5,clearcut,2020,7,1,control,5,0,0,0,0,2020,1,other,0,,0,other,1,B7R1controlS5_2020,B7R1controlS5_2020_clearcut,-0.593674658,0
+B7R1controlS6,clearcut,2018,7,1,control,6,32,4.4,10,10,0,0,alive,0,,0,alive,0,B7R1controlS6_2018,B7R1controlS6_2018_clearcut,-0.274589984,10
+B7R1controlS6,clearcut,2019,7,1,control,6,41,8.1,30,10,0,0,alive,0,,0,alive,0,B7R1controlS6_2019,B7R1controlS6_2019_clearcut,-0.041003791,30
+B7R1controlS6,clearcut,2020,7,1,control,6,46,11,100,0,0,0,alive,0,,0,alive,0,B7R1controlS6_2020,B7R1controlS6_2020_clearcut,0.415359677,100
+B7R1controlS7,clearcut,2018,7,1,control,7,28,4.4,0,0,0,0,alive,0,,0,alive,0,B7R1controlS7_2018,B7R1controlS7_2018_clearcut,-0.593674658,0
+B7R1controlS7,clearcut,2019,7,1,control,7,24,5.6,0,0,0,0,alive,0,,0,alive,0,B7R1controlS7_2019,B7R1controlS7_2019_clearcut,-0.593674658,0
+B7R1controlS7,clearcut,2020,7,1,control,7,0,0,0,0,2020,1,other,0,,0,other,1,B7R1controlS7_2020,B7R1controlS7_2020_clearcut,-0.593674658,0
+B7R1controlS8,clearcut,2018,7,1,control,8,27,6.8,0,0,0,0,alive,0,,0,alive,0,B7R1controlS8_2018,B7R1controlS8_2018_clearcut,-0.593674658,0
+B7R1controlS8,clearcut,2019,7,1,control,8,35,6.8,120,30,0,0,alive,0,,0,alive,0,B7R1controlS8_2019,B7R1controlS8_2019_clearcut,0.511667075,120
+B7R1controlS8,clearcut,2020,7,1,control,8,39,7.1,170,0,0,0,alive,0,,0,alive,0,B7R1controlS8_2020,B7R1controlS8_2020_clearcut,0.721945155,170
+B7R1controlS9,clearcut,2018,7,1,control,9,25,6.8,30,20,0,0,alive,0,,0,alive,0,B7R1controlS9_2018,B7R1controlS9_2018_clearcut,-0.041003791,30
+B7R1controlS9,clearcut,2019,7,1,control,9,35,6.8,0,0,0,0,alive,0,,0,alive,0,B7R1controlS9_2019,B7R1controlS9_2019_clearcut,-0.593674658,0
+B7R1controlS9,clearcut,2020,7,1,control,9,0,0,800,0,2020,1,Hylobius,0,,0,Hylobius,1,B7R1controlS9_2020,B7R1controlS9_2020_clearcut,2.260305424,800
+B7R2wax FS1,clearcut,2018,7,2,wax F,1,52,9.4,0,0,0,0,alive,0,,0,alive,0,B7R2wax FS1_2018,B7R2wax FS1_2018_clearcut,-0.593674658,0
+B7R2wax FS1,clearcut,2019,7,2,wax F,1,48,7.5,10,10,0,0,alive,0,,2,alive,0,B7R2wax FS1_2019,B7R2wax FS1_2019_clearcut,-0.274589984,10
+B7R2wax FS1,clearcut,2020,7,2,wax F,1,66,10.9,0,0,0,0,alive,0,,2,alive,0,B7R2wax FS1_2020,B7R2wax FS1_2020_clearcut,-0.593674658,0
+B7R2wax FS10,clearcut,2018,7,2,wax F,10,48,6.7,0,0,0,0,alive,0,,0,alive,0,B7R2wax FS10_2018,B7R2wax FS10_2018_clearcut,-0.593674658,0
+B7R2wax FS10,clearcut,2019,7,2,wax F,10,0,0,0,0,2019,1,other,0,,0,other,1,B7R2wax FS10_2019,B7R2wax FS10_2019_clearcut,-0.593674658,0
+B7R2wax FS2,clearcut,2018,7,2,wax F,2,52,8.9,0,0,0,0,alive,0,,1,alive,0,B7R2wax FS2_2018,B7R2wax FS2_2018_clearcut,-0.593674658,0
+B7R2wax FS2,clearcut,2019,7,2,wax F,2,61,12.4,80,40,0,0,alive,0,,1,alive,0,B7R2wax FS2_2019,B7R2wax FS2_2019_clearcut,0.308833088,80
+B7R2wax FS2,clearcut,2020,7,2,wax F,2,56,13.2,190,0,0,0,alive,0,,2,alive,0,B7R2wax FS2_2020,B7R2wax FS2_2020_clearcut,0.797183189,190
+B7R2wax FS3,clearcut,2018,7,2,wax F,3,28,3.4,0,0,0,0,alive,0,,3,alive,0,B7R2wax FS3_2018,B7R2wax FS3_2018_clearcut,-0.593674658,0
+B7R2wax FS3,clearcut,2019,7,2,wax F,3,42,8.5,220,50,0,0,alive,0,,1,alive,0,B7R2wax FS3_2019,B7R2wax FS3_2019_clearcut,0.902965124,220
+B7R2wax FS3,clearcut,2020,7,2,wax F,3,0,0,240,0,2020,1,Hylobius,0,,3,Hylobius,1,B7R2wax FS3_2020,B7R2wax FS3_2020_clearcut,0.969514612,240
+B7R2wax FS4,clearcut,2018,7,2,wax F,4,52,7.8,0,0,0,0,alive,0,,1,alive,0,B7R2wax FS4_2018,B7R2wax FS4_2018_clearcut,-0.593674658,0
+B7R2wax FS4,clearcut,2019,7,2,wax F,4,41,7.5,0,0,0,0,alive,0,,2,alive,0,B7R2wax FS4_2019,B7R2wax FS4_2019_clearcut,-0.593674658,0
+B7R2wax FS4,clearcut,2020,7,2,wax F,4,0,0,0,0,2020,1,other,0,,0,other,1,B7R2wax FS4_2020,B7R2wax FS4_2020_clearcut,-0.593674658,0
+B7R2wax FS5,clearcut,2018,7,2,wax F,5,58,10.1,0,0,0,0,alive,0,,0,alive,0,B7R2wax FS5_2018,B7R2wax FS5_2018_clearcut,-0.593674658,0
+B7R2wax FS5,clearcut,2019,7,2,wax F,5,37,7.2,0,0,0,0,alive,0,,2,alive,0,B7R2wax FS5_2019,B7R2wax FS5_2019_clearcut,-0.593674658,0
+B7R2wax FS5,clearcut,2020,7,2,wax F,5,64,12.7,0,0,0,0,alive,0,,2,alive,0,B7R2wax FS5_2020,B7R2wax FS5_2020_clearcut,-0.593674658,0
+B7R2wax FS6,clearcut,2018,7,2,wax F,6,42,6.9,0,0,0,0,alive,0,,2,alive,0,B7R2wax FS6_2018,B7R2wax FS6_2018_clearcut,-0.593674658,0
+B7R2wax FS6,clearcut,2019,7,2,wax F,6,60,10.3,0,0,0,0,alive,0,,1,alive,0,B7R2wax FS6_2019,B7R2wax FS6_2019_clearcut,-0.593674658,0
+B7R2wax FS6,clearcut,2020,7,2,wax F,6,33,7.3,120,0,0,0,alive,0,,3,terminal,0,B7R2wax FS6_2020,B7R2wax FS6_2020_clearcut,0.511667075,120
+B7R2wax FS7,clearcut,2018,7,2,wax F,7,41,7.8,0,0,0,0,alive,0,,2,alive,0,B7R2wax FS7_2018,B7R2wax FS7_2018_clearcut,-0.593674658,0
+B7R2wax FS7,clearcut,2019,7,2,wax F,7,33,4.4,0,0,0,0,alive,0,,3,alive,0,B7R2wax FS7_2019,B7R2wax FS7_2019_clearcut,-0.593674658,0
+B7R2wax FS7,clearcut,2020,7,2,wax F,7,46,6.1,0,0,0,0,alive,0,,3,alive,0,B7R2wax FS7_2020,B7R2wax FS7_2020_clearcut,-0.593674658,0
+B7R2wax FS8,clearcut,2018,7,2,wax F,8,42,7.3,0,0,0,0,alive,0,,0,alive,0,B7R2wax FS8_2018,B7R2wax FS8_2018_clearcut,-0.593674658,0
+B7R2wax FS8,clearcut,2019,7,2,wax F,8,55,10.6,0,0,0,0,alive,0,,2,alive,0,B7R2wax FS8_2019,B7R2wax FS8_2019_clearcut,-0.593674658,0
+B7R2wax FS8,clearcut,2020,7,2,wax F,8,32,12.1,0,0,0,0,alive,0,,2,terminal,0,B7R2wax FS8_2020,B7R2wax FS8_2020_clearcut,-0.593674658,0
+B7R2wax FS9,clearcut,2018,7,2,wax F,9,60,13.1,0,0,0,0,alive,0,,1,alive,0,B7R2wax FS9_2018,B7R2wax FS9_2018_clearcut,-0.593674658,0
+B7R2wax FS9,clearcut,2019,7,2,wax F,9,58,12.8,0,0,0,0,alive,0,,1,alive,0,B7R2wax FS9_2019,B7R2wax FS9_2019_clearcut,-0.593674658,0
+B7R2wax FS9,clearcut,2020,7,2,wax F,9,64,13.8,0,0,0,0,alive,0,,2,alive,0,B7R2wax FS9_2020,B7R2wax FS9_2020_clearcut,-0.593674658,0
+B7R3chemicalS1,clearcut,2018,7,3,chemical,1,41,6.2,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS1_2018,B7R3chemicalS1_2018_clearcut,-0.593674658,0
+B7R3chemicalS1,clearcut,2019,7,3,chemical,1,46,10.4,30,10,0,0,alive,0,,0,alive,0,B7R3chemicalS1_2019,B7R3chemicalS1_2019_clearcut,-0.041003791,30
+B7R3chemicalS1,clearcut,2020,7,3,chemical,1,78,14.5,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS1_2020,B7R3chemicalS1_2020_clearcut,-0.593674658,0
+B7R3chemicalS10,clearcut,2018,7,3,chemical,10,34,4.1,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS10_2018,B7R3chemicalS10_2018_clearcut,-0.593674658,0
+B7R3chemicalS10,clearcut,2019,7,3,chemical,10,43,6.9,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS10_2019,B7R3chemicalS10_2019_clearcut,-0.593674658,0
+B7R3chemicalS10,clearcut,2020,7,3,chemical,10,68,11.2,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS10_2020,B7R3chemicalS10_2020_clearcut,-0.593674658,0
+B7R3chemicalS2,clearcut,2018,7,3,chemical,2,25,3.7,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS2_2018,B7R3chemicalS2_2018_clearcut,-0.593674658,0
+B7R3chemicalS2,clearcut,2019,7,3,chemical,2,37,6.8,10,10,0,0,alive,0,,0,alive,0,B7R3chemicalS2_2019,B7R3chemicalS2_2019_clearcut,-0.274589984,10
+B7R3chemicalS2,clearcut,2020,7,3,chemical,2,49,8.4,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS2_2020,B7R3chemicalS2_2020_clearcut,-0.593674658,0
+B7R3chemicalS3,clearcut,2018,7,3,chemical,3,22,3.7,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS3_2018,B7R3chemicalS3_2018_clearcut,-0.593674658,0
+B7R3chemicalS3,clearcut,2019,7,3,chemical,3,43,7.4,20,10,0,0,alive,0,,0,alive,0,B7R3chemicalS3_2019,B7R3chemicalS3_2019_clearcut,-0.142420785,20
+B7R3chemicalS3,clearcut,2020,7,3,chemical,3,30,5.2,0,0,0,0,alive,0,,0,terminal,0,B7R3chemicalS3_2020,B7R3chemicalS3_2020_clearcut,-0.593674658,0
+B7R3chemicalS4,clearcut,2018,7,3,chemical,4,0,0,0,0,2018,1,other,0,,0,other,1,B7R3chemicalS4_2018,B7R3chemicalS4_2018_clearcut,-0.593674658,0
+B7R3chemicalS5,clearcut,2018,7,3,chemical,5,48,8.6,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS5_2018,B7R3chemicalS5_2018_clearcut,-0.593674658,0
+B7R3chemicalS5,clearcut,2019,7,3,chemical,5,52,8,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS5_2019,B7R3chemicalS5_2019_clearcut,-0.593674658,0
+B7R3chemicalS5,clearcut,2020,7,3,chemical,5,47,8.8,0,0,0,0,alive,0,,0,terminal,0,B7R3chemicalS5_2020,B7R3chemicalS5_2020_clearcut,-0.593674658,0
+B7R3chemicalS6,clearcut,2018,7,3,chemical,6,27,4.7,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS6_2018,B7R3chemicalS6_2018_clearcut,-0.593674658,0
+B7R3chemicalS6,clearcut,2019,7,3,chemical,6,33,6.1,30,10,0,0,alive,0,,0,alive,0,B7R3chemicalS6_2019,B7R3chemicalS6_2019_clearcut,-0.041003791,30
+B7R3chemicalS6,clearcut,2020,7,3,chemical,6,41,9.2,0,0,0,0,alive,0,,0,terminal,0,B7R3chemicalS6_2020,B7R3chemicalS6_2020_clearcut,-0.593674658,0
+B7R3chemicalS7,clearcut,2018,7,3,chemical,7,50,8.5,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS7_2018,B7R3chemicalS7_2018_clearcut,-0.593674658,0
+B7R3chemicalS7,clearcut,2019,7,3,chemical,7,52,9.7,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS7_2019,B7R3chemicalS7_2019_clearcut,-0.593674658,0
+B7R3chemicalS7,clearcut,2020,7,3,chemical,7,55,10.6,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS7_2020,B7R3chemicalS7_2020_clearcut,-0.593674658,0
+B7R3chemicalS8,clearcut,2018,7,3,chemical,8,43,7.8,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS8_2018,B7R3chemicalS8_2018_clearcut,-0.593674658,0
+B7R3chemicalS8,clearcut,2019,7,3,chemical,8,43,8.5,10,10,0,0,alive,0,,0,terminal,0,B7R3chemicalS8_2019,B7R3chemicalS8_2019_clearcut,-0.274589984,10
+B7R3chemicalS8,clearcut,2020,7,3,chemical,8,46,9,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS8_2020,B7R3chemicalS8_2020_clearcut,-0.593674658,0
+B7R3chemicalS9,clearcut,2018,7,3,chemical,9,34,7.1,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS9_2018,B7R3chemicalS9_2018_clearcut,-0.593674658,0
+B7R3chemicalS9,clearcut,2019,7,3,chemical,9,30,4.7,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS9_2019,B7R3chemicalS9_2019_clearcut,-0.593674658,0
+B7R3chemicalS9,clearcut,2020,7,3,chemical,9,45,10.6,0,0,0,0,alive,0,,0,alive,0,B7R3chemicalS9_2020,B7R3chemicalS9_2020_clearcut,-0.593674658,0
+B7R4glueS1,clearcut,2018,7,4,glue,1,42,7.4,20,10,0,0,alive,0,,0,alive,0,B7R4glueS1_2018,B7R4glueS1_2018_clearcut,-0.142420785,20
+B7R4glueS1,clearcut,2019,7,4,glue,1,40,6.2,500,60,0,0,alive,0,,0,alive,0,B7R4glueS1_2019,B7R4glueS1_2019_clearcut,1.662594706,500
+B7R4glueS1,clearcut,2020,7,4,glue,1,50,11.2,80,0,0,0,alive,0,,0,alive,0,B7R4glueS1_2020,B7R4glueS1_2020_clearcut,0.308833088,80
+B7R4glueS10,clearcut,2018,7,4,glue,10,37,7.4,0,0,0,0,alive,0,,0,alive,0,B7R4glueS10_2018,B7R4glueS10_2018_clearcut,-0.593674658,0
+B7R4glueS10,clearcut,2019,7,4,glue,10,40,7.1,0,0,0,0,alive,0,,0,alive,0,B7R4glueS10_2019,B7R4glueS10_2019_clearcut,-0.593674658,0
+B7R4glueS10,clearcut,2020,7,4,glue,10,58,12.7,40,0,0,0,alive,0,,0,alive,0,B7R4glueS10_2020,B7R4glueS10_2020_clearcut,0.044494689,40
+B7R4glueS2,clearcut,2018,7,4,glue,2,25,4,0,0,0,0,alive,0,,0,alive,0,B7R4glueS2_2018,B7R4glueS2_2018_clearcut,-0.593674658,0
+B7R4glueS2,clearcut,2019,7,4,glue,2,41,7.7,0,0,0,0,alive,0,,0,alive,0,B7R4glueS2_2019,B7R4glueS2_2019_clearcut,-0.593674658,0
+B7R4glueS2,clearcut,2020,7,4,glue,2,24,5.8,30,0,0,0,alive,0,,0,alive,0,B7R4glueS2_2020,B7R4glueS2_2020_clearcut,-0.041003791,30
+B7R4glueS3,clearcut,2018,7,4,glue,3,40,8.6,0,0,0,0,alive,0,,0,alive,0,B7R4glueS3_2018,B7R4glueS3_2018_clearcut,-0.593674658,0
+B7R4glueS3,clearcut,2019,7,4,glue,3,42,8.5,500,60,0,0,alive,0,,0,alive,0,B7R4glueS3_2019,B7R4glueS3_2019_clearcut,1.662594706,500
+B7R4glueS3,clearcut,2020,7,4,glue,3,31,11.2,50,0,0,0,alive,0,,0,terminal,0,B7R4glueS3_2020,B7R4glueS3_2020_clearcut,0.119820363,50
+B7R4glueS4,clearcut,2018,7,4,glue,4,34,6.2,60,30,0,0,alive,0,,0,alive,0,B7R4glueS4_2018,B7R4glueS4_2018_clearcut,0.187919977,60
+B7R4glueS4,clearcut,2019,7,4,glue,4,38,8.7,50,50,0,0,alive,0,,0,alive,0,B7R4glueS4_2019,B7R4glueS4_2019_clearcut,0.119820363,50
+B7R4glueS4,clearcut,2020,7,4,glue,4,31,10.5,150,0,0,0,alive,0,,0,terminal,0,B7R4glueS4_2020,B7R4glueS4_2020_clearcut,0.642134969,150
+B7R4glueS5,clearcut,2018,7,4,glue,5,16,3.4,0,0,0,0,alive,0,,0,alive,0,B7R4glueS5_2018,B7R4glueS5_2018_clearcut,-0.593674658,0
+B7R4glueS5,clearcut,2019,7,4,glue,5,41,7.3,0,0,0,0,alive,0,,0,alive,0,B7R4glueS5_2019,B7R4glueS5_2019_clearcut,-0.593674658,0
+B7R4glueS5,clearcut,2020,7,4,glue,5,41,9.1,0,0,0,0,alive,0,,0,alive,0,B7R4glueS5_2020,B7R4glueS5_2020_clearcut,-0.593674658,0
+B7R4glueS6,clearcut,2018,7,4,glue,6,43,7.1,0,0,0,0,alive,0,,0,alive,0,B7R4glueS6_2018,B7R4glueS6_2018_clearcut,-0.593674658,0
+B7R4glueS6,clearcut,2019,7,4,glue,6,23,8.4,0,0,0,0,alive,0,,0,alive,0,B7R4glueS6_2019,B7R4glueS6_2019_clearcut,-0.593674658,0
+B7R4glueS6,clearcut,2020,7,4,glue,6,49,11.7,30,0,0,0,alive,0,,0,alive,0,B7R4glueS6_2020,B7R4glueS6_2020_clearcut,-0.041003791,30
+B7R4glueS7,clearcut,2018,7,4,glue,7,0,0,130,60,2018,1,Hylobius,0,,0,Hylobius,1,B7R4glueS7_2018,B7R4glueS7_2018_clearcut,0.556801494,130
+B7R4glueS8,clearcut,2018,7,4,glue,8,42,6,40,20,0,0,alive,0,,0,alive,0,B7R4glueS8_2018,B7R4glueS8_2018_clearcut,0.044494689,40
+B7R4glueS8,clearcut,2019,7,4,glue,8,33,11,900,90,0,0,alive,0,,0,alive,0,B7R4glueS8_2019,B7R4glueS8_2019_clearcut,2.433428346,900
+B7R4glueS8,clearcut,2020,7,4,glue,8,56,15.9,90,0,0,0,alive,0,,0,alive,0,B7R4glueS8_2020,B7R4glueS8_2020_clearcut,0.363579363,90
+B7R4glueS9,clearcut,2018,7,4,glue,9,42,6.3,0,0,0,0,alive,0,,0,alive,0,B7R4glueS9_2018,B7R4glueS9_2018_clearcut,-0.593674658,0
+B7R4glueS9,clearcut,2019,7,4,glue,9,26,6.1,30,10,0,0,alive,0,,0,alive,0,B7R4glueS9_2019,B7R4glueS9_2019_clearcut,-0.041003791,30
+B7R4glueS9,clearcut,2020,7,4,glue,9,47,7.7,20,0,0,0,alive,0,,0,alive,0,B7R4glueS9_2020,B7R4glueS9_2020_clearcut,-0.142420785,20
+B7R5wax CS1,clearcut,2018,7,5,wax C,1,50,9.3,0,0,0,0,alive,0,,0,alive,0,B7R5wax CS1_2018,B7R5wax CS1_2018_clearcut,-0.593674658,0
+B7R5wax CS1,clearcut,2019,7,5,wax C,1,61,11.6,630,100,0,0,alive,0,,3,alive,0,B7R5wax CS1_2019,B7R5wax CS1_2019_clearcut,1.938981422,630
+B7R5wax CS1,clearcut,2020,7,5,wax C,1,54,8.2,260,0,0,0,alive,0,,3,terminal,0,B7R5wax CS1_2020,B7R5wax CS1_2020_clearcut,1.033344319,260
+B7R5wax CS10,clearcut,2018,7,5,wax C,10,61,10.2,0,0,0,0,alive,0,,1,alive,0,B7R5wax CS10_2018,B7R5wax CS10_2018_clearcut,-0.593674658,0
+B7R5wax CS10,clearcut,2019,7,5,wax C,10,51,9.5,0,0,0,0,alive,0,,3,alive,0,B7R5wax CS10_2019,B7R5wax CS10_2019_clearcut,-0.593674658,0
+B7R5wax CS10,clearcut,2020,7,5,wax C,10,50,10.5,700,0,0,0,alive,0,,3,terminal,0,B7R5wax CS10_2020,B7R5wax CS10_2020_clearcut,2.075979256,700
+B7R5wax CS2,clearcut,2018,7,5,wax C,2,64,11.4,0,0,0,0,alive,0,,0,alive,0,B7R5wax CS2_2018,B7R5wax CS2_2018_clearcut,-0.593674658,0
+B7R5wax CS2,clearcut,2019,7,5,wax C,2,58,7.7,930,100,0,0,alive,0,,4,alive,0,B7R5wax CS2_2019,B7R5wax CS2_2019_clearcut,2.483466497,930
+B7R5wax CS2,clearcut,2020,7,5,wax C,2,60,10.6,0,0,0,0,alive,0,Z,0,alive,0,B7R5wax CS2_2020,B7R5wax CS2_2020_clearcut,-0.593674658,0
+B7R5wax CS3,clearcut,2018,7,5,wax C,3,0,0,0,0,2018,1,other,0,,0,other,1,B7R5wax CS3_2018,B7R5wax CS3_2018_clearcut,-0.593674658,0
+B7R5wax CS4,clearcut,2018,7,5,wax C,4,40,9.4,0,0,0,0,alive,0,,3,alive,0,B7R5wax CS4_2018,B7R5wax CS4_2018_clearcut,-0.593674658,0
+B7R5wax CS4,clearcut,2019,7,5,wax C,4,53,8,160,50,0,0,alive,0,,1,alive,0,B7R5wax CS4_2019,B7R5wax CS4_2019_clearcut,0.682664036,160
+B7R5wax CS4,clearcut,2020,7,5,wax C,4,53,12.7,0,0,0,0,alive,0,,3,alive,0,B7R5wax CS4_2020,B7R5wax CS4_2020_clearcut,-0.593674658,0
+B7R5wax CS5,clearcut,2018,7,5,wax C,5,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B7R5wax CS5_2018,B7R5wax CS5_2018_clearcut,-0.593674658,0
+B7R5wax CS6,clearcut,2018,7,5,wax C,6,0,0,0,0,2018,1,other,0,,1,other,1,B7R5wax CS6_2018,B7R5wax CS6_2018_clearcut,-0.593674658,0
+B7R5wax CS7,clearcut,2018,7,5,wax C,7,48,7.2,0,0,0,0,alive,0,,1,alive,0,B7R5wax CS7_2018,B7R5wax CS7_2018_clearcut,-0.593674658,0
+B7R5wax CS7,clearcut,2019,7,5,wax C,7,43,9.5,20,10,0,0,alive,0,,2,alive,0,B7R5wax CS7_2019,B7R5wax CS7_2019_clearcut,-0.142420785,20
+B7R5wax CS7,clearcut,2020,7,5,wax C,7,0,0,0,0,2020,1,other,0,,0,other,1,B7R5wax CS7_2020,B7R5wax CS7_2020_clearcut,-0.593674658,0
+B7R5wax CS8,clearcut,2018,7,5,wax C,8,37,7.3,0,0,0,0,alive,0,,0,terminal,0,B7R5wax CS8_2018,B7R5wax CS8_2018_clearcut,-0.593674658,0
+B7R5wax CS8,clearcut,2019,7,5,wax C,8,0,0,0,0,2019,1,other,0,,0,other,1,B7R5wax CS8_2019,B7R5wax CS8_2019_clearcut,-0.593674658,0
+B7R5wax CS9,clearcut,2018,7,5,wax C,9,58,9.7,0,0,0,0,alive,0,,2,alive,0,B7R5wax CS9_2018,B7R5wax CS9_2018_clearcut,-0.593674658,0
+B7R5wax CS9,clearcut,2019,7,5,wax C,9,59,11.8,0,0,0,0,alive,0,,1,alive,0,B7R5wax CS9_2019,B7R5wax CS9_2019_clearcut,-0.593674658,0
+B7R5wax CS9,clearcut,2020,7,5,wax C,9,0,0,600,0,2020,1,Hylobius,0,,2,Hylobius,1,B7R5wax CS9_2020,B7R5wax CS9_2020_clearcut,1.877944595,600
+B7R6collarS1,clearcut,2018,7,6,collar,1,24,3.1,0,0,0,0,alive,0,,0,alive,0,B7R6collarS1_2018,B7R6collarS1_2018_clearcut,-0.593674658,0
+B7R6collarS1,clearcut,2019,7,6,collar,1,30,6.1,1100,100,0,0,alive,0,,0,alive,0,B7R6collarS1_2019,B7R6collarS1_2019_clearcut,2.752913631,1100
+B7R6collarS1,clearcut,2020,7,6,collar,1,31,8.1,0,0,0,0,alive,0,,2,alive,0,B7R6collarS1_2020,B7R6collarS1_2020_clearcut,-0.593674658,0
+B7R6collarS10,clearcut,2018,7,6,collar,10,31,4.2,0,0,0,0,alive,0,,0,alive,0,B7R6collarS10_2018,B7R6collarS10_2018_clearcut,-0.593674658,0
+B7R6collarS10,clearcut,2019,7,6,collar,10,27,4.2,0,0,0,0,alive,0,,0,alive,0,B7R6collarS10_2019,B7R6collarS10_2019_clearcut,-0.593674658,0
+B7R6collarS10,clearcut,2020,7,6,collar,10,47,9.5,0,0,0,0,alive,0,Z,0,alive,0,B7R6collarS10_2020,B7R6collarS10_2020_clearcut,-0.593674658,0
+B7R6collarS2,clearcut,2018,7,6,collar,2,21,3.1,0,0,0,0,alive,0,,0,alive,0,B7R6collarS2_2018,B7R6collarS2_2018_clearcut,-0.593674658,0
+B7R6collarS2,clearcut,2019,7,6,collar,2,33,5.8,0,0,0,0,alive,0,,0,alive,0,B7R6collarS2_2019,B7R6collarS2_2019_clearcut,-0.593674658,0
+B7R6collarS2,clearcut,2020,7,6,collar,2,41,7,0,0,0,0,alive,0,O,0,alive,0,B7R6collarS2_2020,B7R6collarS2_2020_clearcut,-0.593674658,0
+B7R6collarS3,clearcut,2018,7,6,collar,3,27,4.1,0,0,0,0,alive,0,,0,alive,0,B7R6collarS3_2018,B7R6collarS3_2018_clearcut,-0.593674658,0
+B7R6collarS3,clearcut,2019,7,6,collar,3,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B7R6collarS3_2019,B7R6collarS3_2019_clearcut,-0.593674658,0
+B7R6collarS4,clearcut,2018,7,6,collar,4,29,4.2,0,0,0,0,alive,0,,0,alive,0,B7R6collarS4_2018,B7R6collarS4_2018_clearcut,-0.593674658,0
+B7R6collarS4,clearcut,2019,7,6,collar,4,36,6.2,0,0,0,0,alive,0,,0,alive,0,B7R6collarS4_2019,B7R6collarS4_2019_clearcut,-0.593674658,0
+B7R6collarS4,clearcut,2020,7,6,collar,4,42,8.2,0,0,0,0,alive,0,,2,alive,0,B7R6collarS4_2020,B7R6collarS4_2020_clearcut,-0.593674658,0
+B7R6collarS5,clearcut,2018,7,6,collar,5,37,5.7,0,0,0,0,alive,0,,0,alive,0,B7R6collarS5_2018,B7R6collarS5_2018_clearcut,-0.593674658,0
+B7R6collarS5,clearcut,2019,7,6,collar,5,41,5.2,0,0,0,0,alive,0,,0,alive,0,B7R6collarS5_2019,B7R6collarS5_2019_clearcut,-0.593674658,0
+B7R6collarS5,clearcut,2020,7,6,collar,5,42,10.3,0,0,0,0,alive,0,Z,0,alive,0,B7R6collarS5_2020,B7R6collarS5_2020_clearcut,-0.593674658,0
+B7R6collarS6,clearcut,2018,7,6,collar,6,32,31,0,0,0,0,alive,0,,0,alive,0,B7R6collarS6_2018,B7R6collarS6_2018_clearcut,-0.593674658,0
+B7R6collarS6,clearcut,2019,7,6,collar,6,39,5.5,0,0,0,0,alive,0,,0,alive,0,B7R6collarS6_2019,B7R6collarS6_2019_clearcut,-0.593674658,0
+B7R6collarS6,clearcut,2020,7,6,collar,6,51,8,100,0,0,0,alive,0,Z,0,alive,0,B7R6collarS6_2020,B7R6collarS6_2020_clearcut,0.415359677,100
+B7R6collarS7,clearcut,2018,7,6,collar,7,34,5.9,0,0,0,0,alive,0,,0,alive,0,B7R6collarS7_2018,B7R6collarS7_2018_clearcut,-0.593674658,0
+B7R6collarS7,clearcut,2019,7,6,collar,7,38,6.9,0,0,0,0,alive,0,,0,alive,0,B7R6collarS7_2019,B7R6collarS7_2019_clearcut,-0.593674658,0
+B7R6collarS7,clearcut,2020,7,6,collar,7,43,9.6,500,0,0,0,alive,0,Z,0,alive,0,B7R6collarS7_2020,B7R6collarS7_2020_clearcut,1.662594706,500
+B7R6collarS8,clearcut,2018,7,6,collar,8,34,5.2,0,0,0,0,alive,0,,0,alive,0,B7R6collarS8_2018,B7R6collarS8_2018_clearcut,-0.593674658,0
+B7R6collarS8,clearcut,2019,7,6,collar,8,32,5.7,0,0,0,0,alive,0,,0,alive,0,B7R6collarS8_2019,B7R6collarS8_2019_clearcut,-0.593674658,0
+B7R6collarS8,clearcut,2020,7,6,collar,8,0,0,0,0,2020,1,other,0,,0,other,1,B7R6collarS8_2020,B7R6collarS8_2020_clearcut,-0.593674658,0
+B7R6collarS9,clearcut,2018,7,6,collar,9,33,4.3,0,0,0,0,alive,0,,0,alive,0,B7R6collarS9_2018,B7R6collarS9_2018_clearcut,-0.593674658,0
+B7R6collarS9,clearcut,2019,7,6,collar,9,0,0,0,0,2019,1,other,0,,0,other,1,B7R6collarS9_2019,B7R6collarS9_2019_clearcut,-0.593674658,0
+B8R1chemicalS1,clearcut,2018,8,1,chemical,1,62,8.4,0,0,0,0,alive,0,,0,alive,0,B8R1chemicalS1_2018,B8R1chemicalS1_2018_clearcut,-0.593674658,0
+B8R1chemicalS1,clearcut,2019,8,1,chemical,1,65,10.5,0,0,0,0,alive,0,,0,alive,0,B8R1chemicalS1_2019,B8R1chemicalS1_2019_clearcut,-0.593674658,0
+B8R1chemicalS1,clearcut,2020,8,1,chemical,1,67,12.1,20,0,0,0,alive,0,,0,alive,0,B8R1chemicalS1_2020,B8R1chemicalS1_2020_clearcut,-0.142420785,20
+B8R1chemicalS10,clearcut,2018,8,1,chemical,10,0,0,10,10,2018,1,other,0,,0,other,1,B8R1chemicalS10_2018,B8R1chemicalS10_2018_clearcut,-0.274589984,10
+B8R1chemicalS2,clearcut,2018,8,1,chemical,2,0,0,180,70,2018,1,Hylobius,0,,0,Hylobius,1,B8R1chemicalS2_2018,B8R1chemicalS2_2018_clearcut,0.760086961,180
+B8R1chemicalS3,clearcut,2018,8,1,chemical,3,65,10.3,60,30,0,0,alive,0,,0,alive,0,B8R1chemicalS3_2018,B8R1chemicalS3_2018_clearcut,0.187919977,60
+B8R1chemicalS3,clearcut,2019,8,1,chemical,3,67,13.5,0,0,0,0,alive,0,,0,alive,0,B8R1chemicalS3_2019,B8R1chemicalS3_2019_clearcut,-0.593674658,0
+B8R1chemicalS3,clearcut,2020,8,1,chemical,3,76,16.7,0,0,0,0,alive,0,,0,alive,0,B8R1chemicalS3_2020,B8R1chemicalS3_2020_clearcut,-0.593674658,0
+B8R1chemicalS4,clearcut,2018,8,1,chemical,4,32,4.6,50,20,0,0,alive,0,,0,alive,0,B8R1chemicalS4_2018,B8R1chemicalS4_2018_clearcut,0.119820363,50
+B8R1chemicalS4,clearcut,2019,8,1,chemical,4,0,0,0,0,2019,1,other,0,,0,other,1,B8R1chemicalS4_2019,B8R1chemicalS4_2019_clearcut,-0.593674658,0
+B8R1chemicalS5,clearcut,2018,8,1,chemical,5,26,3.8,0,0,0,0,alive,0,,0,alive,0,B8R1chemicalS5_2018,B8R1chemicalS5_2018_clearcut,-0.593674658,0
+B8R1chemicalS5,clearcut,2019,8,1,chemical,5,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B8R1chemicalS5_2019,B8R1chemicalS5_2019_clearcut,-0.593674658,0
+B8R1chemicalS6,clearcut,2018,8,1,chemical,6,76,10.7,40,10,0,0,alive,0,,0,alive,0,B8R1chemicalS6_2018,B8R1chemicalS6_2018_clearcut,0.044494689,40
+B8R1chemicalS6,clearcut,2019,8,1,chemical,6,74,11.5,100,10,0,0,alive,0,,0,alive,0,B8R1chemicalS6_2019,B8R1chemicalS6_2019_clearcut,0.415359677,100
+B8R1chemicalS6,clearcut,2020,8,1,chemical,6,75,12.9,20,0,0,0,alive,0,,0,alive,0,B8R1chemicalS6_2020,B8R1chemicalS6_2020_clearcut,-0.142420785,20
+B8R1chemicalS7,clearcut,2018,8,1,chemical,7,0,0,0,0,2018,1,other,0,,0,other,1,B8R1chemicalS7_2018,B8R1chemicalS7_2018_clearcut,-0.593674658,0
+B8R1chemicalS8,clearcut,2018,8,1,chemical,8,43,5.7,20,10,0,0,alive,0,,0,alive,0,B8R1chemicalS8_2018,B8R1chemicalS8_2018_clearcut,-0.142420785,20
+B8R1chemicalS8,clearcut,2019,8,1,chemical,8,43,9.2,0,0,0,0,alive,0,,0,alive,0,B8R1chemicalS8_2019,B8R1chemicalS8_2019_clearcut,-0.593674658,0
+B8R1chemicalS8,clearcut,2020,8,1,chemical,8,15,6.5,0,0,0,0,alive,0,,0,terminal,0,B8R1chemicalS8_2020,B8R1chemicalS8_2020_clearcut,-0.593674658,0
+B8R1chemicalS9,clearcut,2018,8,1,chemical,9,0,0,40,20,2018,1,other,0,,0,other,1,B8R1chemicalS9_2018,B8R1chemicalS9_2018_clearcut,0.044494689,40
+B8R2wax FS1,clearcut,2018,8,2,wax F,1,43,7.6,0,0,0,0,alive,0,,0,alive,0,B8R2wax FS1_2018,B8R2wax FS1_2018_clearcut,-0.593674658,0
+B8R2wax FS1,clearcut,2019,8,2,wax F,1,39,9.4,120,30,0,0,alive,0,,1,alive,0,B8R2wax FS1_2019,B8R2wax FS1_2019_clearcut,0.511667075,120
+B8R2wax FS1,clearcut,2020,8,2,wax F,1,42,6.9,0,0,0,0,alive,0,,3,alive,0,B8R2wax FS1_2020,B8R2wax FS1_2020_clearcut,-0.593674658,0
+B8R2wax FS10,clearcut,2018,8,2,wax F,10,48,10.9,0,0,0,0,alive,0,,2,alive,0,B8R2wax FS10_2018,B8R2wax FS10_2018_clearcut,-0.593674658,0
+B8R2wax FS10,clearcut,2019,8,2,wax F,10,48,11.5,80,20,0,0,alive,0,,2,alive,0,B8R2wax FS10_2019,B8R2wax FS10_2019_clearcut,0.308833088,80
+B8R2wax FS10,clearcut,2020,8,2,wax F,10,52,15,0,0,0,0,alive,0,,3,alive,0,B8R2wax FS10_2020,B8R2wax FS10_2020_clearcut,-0.593674658,0
+B8R2wax FS2,clearcut,2018,8,2,wax F,2,66,11.6,0,0,0,0,alive,0,,0,terminal,0,B8R2wax FS2_2018,B8R2wax FS2_2018_clearcut,-0.593674658,0
+B8R2wax FS2,clearcut,2019,8,2,wax F,2,0,0,0,0,2019,1,other,0,,0,human,1,B8R2wax FS2_2019,B8R2wax FS2_2019_clearcut,-0.593674658,0
+B8R2wax FS3,clearcut,2018,8,2,wax F,3,36,5.4,0,0,0,0,alive,0,,3,alive,0,B8R2wax FS3_2018,B8R2wax FS3_2018_clearcut,-0.593674658,0
+B8R2wax FS3,clearcut,2019,8,2,wax F,3,39,5.2,800,100,0,0,alive,0,,4,alive,0,B8R2wax FS3_2019,B8R2wax FS3_2019_clearcut,2.260305424,800
+B8R2wax FS3,clearcut,2020,8,2,wax F,3,0,0,760,0,2020,1,Hylobius,0,,4,Hylobius,1,B8R2wax FS3_2020,B8R2wax FS3_2020_clearcut,2.188041035,760
+B8R2wax FS4,clearcut,2018,8,2,wax F,4,18,3.5,0,0,0,0,alive,0,,0,alive,0,B8R2wax FS4_2018,B8R2wax FS4_2018_clearcut,-0.593674658,0
+B8R2wax FS4,clearcut,2019,8,2,wax F,4,22,5,0,0,0,0,alive,0,,2,alive,0,B8R2wax FS4_2019,B8R2wax FS4_2019_clearcut,-0.593674658,0
+B8R2wax FS4,clearcut,2020,8,2,wax F,4,36,6.9,0,0,0,0,alive,0,,3,alive,0,B8R2wax FS4_2020,B8R2wax FS4_2020_clearcut,-0.593674658,0
+B8R2wax FS5,clearcut,2018,8,2,wax F,5,46,8.3,0,0,0,0,alive,0,,0,alive,0,B8R2wax FS5_2018,B8R2wax FS5_2018_clearcut,-0.593674658,0
+B8R2wax FS5,clearcut,2019,8,2,wax F,5,49,8.9,640,100,0,0,alive,0,,2,alive,0,B8R2wax FS5_2019,B8R2wax FS5_2019_clearcut,1.95900273,640
+B8R2wax FS5,clearcut,2020,8,2,wax F,5,0,0,540,0,2020,1,Hylobius,0,,2,Hylobius,1,B8R2wax FS5_2020,B8R2wax FS5_2020_clearcut,1.751109247,540
+B8R2wax FS6,clearcut,2018,8,2,wax F,6,62,11.1,0,0,0,0,alive,0,,0,alive,0,B8R2wax FS6_2018,B8R2wax FS6_2018_clearcut,-0.593674658,0
+B8R2wax FS6,clearcut,2019,8,2,wax F,6,67,12.5,760,100,0,0,alive,0,,3,alive,0,B8R2wax FS6_2019,B8R2wax FS6_2019_clearcut,2.188041035,760
+B8R2wax FS6,clearcut,2020,8,2,wax F,6,0,0,850,0,2020,1,Hylobius,0,,3,Hylobius,1,B8R2wax FS6_2020,B8R2wax FS6_2020_clearcut,2.348140675,850
+B8R2wax FS7,clearcut,2018,8,2,wax F,7,33,6,0,0,0,0,alive,0,,3,alive,0,B8R2wax FS7_2018,B8R2wax FS7_2018_clearcut,-0.593674658,0
+B8R2wax FS7,clearcut,2019,8,2,wax F,7,36,8.5,760,100,0,0,alive,0,,3,alive,0,B8R2wax FS7_2019,B8R2wax FS7_2019_clearcut,2.188041035,760
+B8R2wax FS7,clearcut,2020,8,2,wax F,7,0,0,0,0,2020,1,other,0,,0,other,1,B8R2wax FS7_2020,B8R2wax FS7_2020_clearcut,-0.593674658,0
+B8R2wax FS8,clearcut,2018,8,2,wax F,8,47,8.2,0,0,0,0,alive,0,,1,alive,0,B8R2wax FS8_2018,B8R2wax FS8_2018_clearcut,-0.593674658,0
+B8R2wax FS8,clearcut,2019,8,2,wax F,8,0,0,400,100,2019,1,Hylobius,0,,1,Hylobius,1,B8R2wax FS8_2019,B8R2wax FS8_2019_clearcut,1.424394012,400
+B8R2wax FS9,clearcut,2018,8,2,wax F,9,56,8.7,0,0,0,0,alive,0,,2,alive,0,B8R2wax FS9_2018,B8R2wax FS9_2018_clearcut,-0.593674658,0
+B8R2wax FS9,clearcut,2019,8,2,wax F,9,85,11.7,1050,100,0,0,alive,0,,2,alive,0,B8R2wax FS9_2019,B8R2wax FS9_2019_clearcut,2.675970282,1050
+B8R2wax FS9,clearcut,2020,8,2,wax F,9,77,20,100,0,0,0,alive,0,,4,alive,0,B8R2wax FS9_2020,B8R2wax FS9_2020_clearcut,0.415359677,100
+B8R3collarS1,clearcut,2018,8,3,collar,1,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B8R3collarS1_2018,B8R3collarS1_2018_clearcut,-0.593674658,0
+B8R3collarS10,clearcut,2018,8,3,collar,10,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B8R3collarS10_2018,B8R3collarS10_2018_clearcut,-0.593674658,0
+B8R3collarS2,clearcut,2018,8,3,collar,2,34,4.8,0,0,0,0,alive,0,,0,alive,0,B8R3collarS2_2018,B8R3collarS2_2018_clearcut,-0.593674658,0
+B8R3collarS2,clearcut,2019,8,3,collar,2,35,8.4,150,50,0,0,alive,0,,0,alive,0,B8R3collarS2_2019,B8R3collarS2_2019_clearcut,0.642134969,150
+B8R3collarS2,clearcut,2020,8,3,collar,2,40,10,50,0,0,0,alive,0,Z,0,alive,0,B8R3collarS2_2020,B8R3collarS2_2020_clearcut,0.119820363,50
+B8R3collarS3,clearcut,2018,8,3,collar,3,46,6.3,0,0,0,0,alive,0,,0,alive,0,B8R3collarS3_2018,B8R3collarS3_2018_clearcut,-0.593674658,0
+B8R3collarS3,clearcut,2019,8,3,collar,3,51,5.9,0,0,0,0,alive,0,,0,alive,0,B8R3collarS3_2019,B8R3collarS3_2019_clearcut,-0.593674658,0
+B8R3collarS3,clearcut,2020,8,3,collar,3,57,10.1,0,0,0,0,alive,0,Z,0,alive,0,B8R3collarS3_2020,B8R3collarS3_2020_clearcut,-0.593674658,0
+B8R3collarS4,clearcut,2018,8,3,collar,4,0,0,0,0,2018,1,other,0,,0,other,1,B8R3collarS4_2018,B8R3collarS4_2018_clearcut,-0.593674658,0
+B8R3collarS5,clearcut,2018,8,3,collar,5,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B8R3collarS5_2018,B8R3collarS5_2018_clearcut,-0.593674658,0
+B8R3collarS6,clearcut,2018,8,3,collar,6,25,4.6,0,0,0,0,alive,0,,0,alive,0,B8R3collarS6_2018,B8R3collarS6_2018_clearcut,-0.593674658,0
+B8R3collarS6,clearcut,2019,8,3,collar,6,0,0,150,80,2019,1,Hylobius,0,,0,Hylobius,1,B8R3collarS6_2019,B8R3collarS6_2019_clearcut,0.642134969,150
+B8R3collarS7,clearcut,2018,8,3,collar,7,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B8R3collarS7_2018,B8R3collarS7_2018_clearcut,-0.593674658,0
+B8R3collarS8,clearcut,2018,8,3,collar,8,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B8R3collarS8_2018,B8R3collarS8_2018_clearcut,-0.593674658,0
+B8R3collarS9,clearcut,2018,8,3,collar,9,20,4.1,0,0,0,0,alive,0,,0,alive,0,B8R3collarS9_2018,B8R3collarS9_2018_clearcut,-0.593674658,0
+B8R3collarS9,clearcut,2019,8,3,collar,9,30,5.5,650,100,0,0,alive,0,,0,alive,0,B8R3collarS9_2019,B8R3collarS9_2019_clearcut,1.978868223,650
+B8R3collarS9,clearcut,2020,8,3,collar,9,0,0,1200,0,2020,1,Hylobius,0,,0,Hylobius,1,B8R3collarS9_2020,B8R3collarS9_2020_clearcut,2.901722811,1200
+B8R4controlS1,clearcut,2018,8,4,control,1,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B8R4controlS1_2018,B8R4controlS1_2018_clearcut,-0.593674658,0
+B8R4controlS10,clearcut,2018,8,4,control,10,0,0,120,40,2018,1,Hylobius,0,,0,Hylobius,1,B8R4controlS10_2018,B8R4controlS10_2018_clearcut,0.511667075,120
+B8R4controlS2,clearcut,2018,8,4,control,2,43,9.8,50,20,0,0,alive,0,,0,alive,0,B8R4controlS2_2018,B8R4controlS2_2018_clearcut,0.119820363,50
+B8R4controlS2,clearcut,2019,8,4,control,2,49,11.5,350,30,0,0,alive,0,,0,alive,0,B8R4controlS2_2019,B8R4controlS2_2019_clearcut,1.294055728,350
+B8R4controlS2,clearcut,2020,8,4,control,2,51,12.9,1500,0,0,0,alive,0,,0,alive,0,B8R4controlS2_2020,B8R4controlS2_2020_clearcut,3.314298516,1500
+B8R4controlS3,clearcut,2018,8,4,control,3,0,0,160,100,2018,1,Hylobius,0,,0,Hylobius,1,B8R4controlS3_2018,B8R4controlS3_2018_clearcut,0.682664036,160
+B8R4controlS4,clearcut,2018,8,4,control,4,20,4.6,10,10,0,0,alive,0,,0,alive,0,B8R4controlS4_2018,B8R4controlS4_2018_clearcut,-0.274589984,10
+B8R4controlS4,clearcut,2019,8,4,control,4,0,0,500,100,2019,1,Hylobius,0,,0,Hylobius,1,B8R4controlS4_2019,B8R4controlS4_2019_clearcut,1.662594706,500
+B8R4controlS5,clearcut,2018,8,4,control,5,46,5.9,230,80,0,0,alive,0,,0,alive,0,B8R4controlS5_2018,B8R4controlS5_2018_clearcut,0.936601678,230
+B8R4controlS5,clearcut,2019,8,4,control,5,44,6.5,1300,100,0,0,alive,0,,0,alive,0,B8R4controlS5_2019,B8R4controlS5_2019_clearcut,3.044450375,1300
+B8R4controlS5,clearcut,2020,8,4,control,5,0,0,1200,0,2020,1,Hylobius,0,,0,Hylobius,1,B8R4controlS5_2020,B8R4controlS5_2020_clearcut,2.901722811,1200
+B8R4controlS6,clearcut,2018,8,4,control,6,41,6,0,0,0,0,alive,0,,0,alive,0,B8R4controlS6_2018,B8R4controlS6_2018_clearcut,-0.593674658,0
+B8R4controlS6,clearcut,2019,8,4,control,6,0,0,0,0,2019,1,other,0,,0,other,1,B8R4controlS6_2019,B8R4controlS6_2019_clearcut,-0.593674658,0
+B8R4controlS7,clearcut,2018,8,4,control,7,0,0,780,100,2018,1,Hylobius,0,,0,Hylobius,1,B8R4controlS7_2018,B8R4controlS7_2018_clearcut,2.224404875,780
+B8R4controlS8,clearcut,2018,8,4,control,8,38,5.7,280,60,0,0,alive,0,,0,alive,0,B8R4controlS8_2018,B8R4controlS8_2018_clearcut,1.094762729,280
+B8R4controlS8,clearcut,2019,8,4,control,8,38,8,1500,100,0,0,alive,0,,0,alive,0,B8R4controlS8_2019,B8R4controlS8_2019_clearcut,3.314298516,1500
+B8R4controlS8,clearcut,2020,8,4,control,8,0,0,1500,0,2020,1,Hylobius,0,,0,Hylobius,1,B8R4controlS8_2020,B8R4controlS8_2020_clearcut,3.314298516,1500
+B8R4controlS9,clearcut,2018,8,4,control,9,39,7,20,10,0,0,alive,0,,0,alive,0,B8R4controlS9_2018,B8R4controlS9_2018_clearcut,-0.142420785,20
+B8R4controlS9,clearcut,2019,8,4,control,9,42,6.3,1200,100,0,0,alive,0,,0,alive,0,B8R4controlS9_2019,B8R4controlS9_2019_clearcut,2.901722811,1200
+B8R4controlS9,clearcut,2020,8,4,control,9,0,0,1400,0,2020,1,Hylobius,0,,0,Hylobius,1,B8R4controlS9_2020,B8R4controlS9_2020_clearcut,3.181786114,1400
+B8R5glueS1,clearcut,2018,8,5,glue,1,0,0,0,0,2018,1,other,0,,0,other,1,B8R5glueS1_2018,B8R5glueS1_2018_clearcut,-0.593674658,0
+B8R5glueS10,clearcut,2018,8,5,glue,10,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B8R5glueS10_2018,B8R5glueS10_2018_clearcut,-0.593674658,0
+B8R5glueS2,clearcut,2018,8,5,glue,2,0,0,80,70,2018,1,Hylobius,0,,0,Hylobius,1,B8R5glueS2_2018,B8R5glueS2_2018_clearcut,0.308833088,80
+B8R5glueS3,clearcut,2018,8,5,glue,3,34,4.7,0,0,0,0,alive,0,,0,alive,0,B8R5glueS3_2018,B8R5glueS3_2018_clearcut,-0.593674658,0
+B8R5glueS3,clearcut,2019,8,5,glue,3,33,6.8,140,90,0,0,alive,0,,0,alive,0,B8R5glueS3_2019,B8R5glueS3_2019_clearcut,0.600230868,140
+B8R5glueS3,clearcut,2020,8,5,glue,3,41,10.9,0,0,0,0,alive,0,,0,alive,0,B8R5glueS3_2020,B8R5glueS3_2020_clearcut,-0.593674658,0
+B8R5glueS4,clearcut,2018,8,5,glue,4,15,2.8,0,0,0,0,alive,0,,0,alive,0,B8R5glueS4_2018,B8R5glueS4_2018_clearcut,-0.593674658,0
+B8R5glueS4,clearcut,2019,8,5,glue,4,15,3,0,0,0,0,alive,0,,0,alive,0,B8R5glueS4_2019,B8R5glueS4_2019_clearcut,-0.593674658,0
+B8R5glueS4,clearcut,2020,8,5,glue,4,19,3.4,0,0,0,0,alive,0,,0,alive,0,B8R5glueS4_2020,B8R5glueS4_2020_clearcut,-0.593674658,0
+B8R5glueS5,clearcut,2018,8,5,glue,5,36,5.3,0,0,0,0,alive,0,,0,alive,0,B8R5glueS5_2018,B8R5glueS5_2018_clearcut,-0.593674658,0
+B8R5glueS5,clearcut,2019,8,5,glue,5,39,9.3,40,20,0,0,alive,0,,0,alive,0,B8R5glueS5_2019,B8R5glueS5_2019_clearcut,0.044494689,40
+B8R5glueS5,clearcut,2020,8,5,glue,5,42,11.3,190,0,0,0,alive,0,,0,alive,0,B8R5glueS5_2020,B8R5glueS5_2020_clearcut,0.797183189,190
+B8R5glueS6,clearcut,2018,8,5,glue,6,0,0,0,0,2018,1,other,0,,0,other,1,B8R5glueS6_2018,B8R5glueS6_2018_clearcut,-0.593674658,0
+B8R5glueS7,clearcut,2018,8,5,glue,7,0,0,0,0,2018,1,other,0,,0,other,1,B8R5glueS7_2018,B8R5glueS7_2018_clearcut,-0.593674658,0
+B8R5glueS8,clearcut,2018,8,5,glue,8,30,5.8,0,0,0,0,alive,0,,0,alive,0,B8R5glueS8_2018,B8R5glueS8_2018_clearcut,-0.593674658,0
+B8R5glueS8,clearcut,2019,8,5,glue,8,18,6.8,50,20,0,0,alive,0,,0,human,0,B8R5glueS8_2019,B8R5glueS8_2019_clearcut,0.119820363,50
+B8R5glueS8,clearcut,2020,8,5,glue,8,0,0,0,0,2020,1,other,0,,0,other,1,B8R5glueS8_2020,B8R5glueS8_2020_clearcut,-0.593674658,0
+B8R5glueS9,clearcut,2018,8,5,glue,9,36,6,110,70,0,0,alive,0,,0,alive,0,B8R5glueS9_2018,B8R5glueS9_2018_clearcut,0.464609481,110
+B8R5glueS9,clearcut,2019,8,5,glue,9,39,9.9,210,40,0,0,alive,0,,0,alive,0,B8R5glueS9_2019,B8R5glueS9_2019_clearcut,0.868555012,210
+B8R5glueS9,clearcut,2020,8,5,glue,9,42,12.3,0,0,0,0,alive,0,,0,alive,0,B8R5glueS9_2020,B8R5glueS9_2020_clearcut,-0.593674658,0
+B8R6wax CS1,clearcut,2018,8,6,wax C,1,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B8R6wax CS1_2018,B8R6wax CS1_2018_clearcut,-0.593674658,0
+B8R6wax CS10,clearcut,2018,8,6,wax C,10,43,6.7,0,0,0,0,alive,0,,0,alive,0,B8R6wax CS10_2018,B8R6wax CS10_2018_clearcut,-0.593674658,0
+B8R6wax CS10,clearcut,2019,8,6,wax C,10,44,11.6,50,20,0,0,alive,0,,2,alive,0,B8R6wax CS10_2019,B8R6wax CS10_2019_clearcut,0.119820363,50
+B8R6wax CS10,clearcut,2020,8,6,wax C,10,50,13.5,0,0,0,0,alive,0,,0,alive,0,B8R6wax CS10_2020,B8R6wax CS10_2020_clearcut,-0.593674658,0
+B8R6wax CS2,clearcut,2018,8,6,wax C,2,34,7.2,0,0,0,0,alive,0,,0,alive,0,B8R6wax CS2_2018,B8R6wax CS2_2018_clearcut,-0.593674658,0
+B8R6wax CS2,clearcut,2019,8,6,wax C,2,43,12.2,210,90,0,0,alive,0,,3,alive,0,B8R6wax CS2_2019,B8R6wax CS2_2019_clearcut,0.868555012,210
+B8R6wax CS2,clearcut,2020,8,6,wax C,2,0,0,2500,0,2020,1,Hylobius,0,,2,Hylobius,1,B8R6wax CS2_2020,B8R6wax CS2_2020_clearcut,4.451497016,2500
+B8R6wax CS3,clearcut,2018,8,6,wax C,3,0,0,0,0,2018,1,other,0,,0,other,1,B8R6wax CS3_2018,B8R6wax CS3_2018_clearcut,-0.593674658,0
+B8R6wax CS4,clearcut,2018,8,6,wax C,4,0,0,0,0,2018,1,other,0,,0,other,1,B8R6wax CS4_2018,B8R6wax CS4_2018_clearcut,-0.593674658,0
+B8R6wax CS5,clearcut,2018,8,6,wax C,5,0,0,0,0,2018,1,other,0,,0,other,1,B8R6wax CS5_2018,B8R6wax CS5_2018_clearcut,-0.593674658,0
+B8R6wax CS6,clearcut,2018,8,6,wax C,6,57,9.8,0,0,0,0,alive,0,,0,alive,0,B8R6wax CS6_2018,B8R6wax CS6_2018_clearcut,-0.593674658,0
+B8R6wax CS6,clearcut,2019,8,6,wax C,6,46,12.3,50,20,0,0,alive,0,,2,alive,0,B8R6wax CS6_2019,B8R6wax CS6_2019_clearcut,0.119820363,50
+B8R6wax CS6,clearcut,2020,8,6,wax C,6,52,19.6,0,0,0,0,alive,0,,3,alive,0,B8R6wax CS6_2020,B8R6wax CS6_2020_clearcut,-0.593674658,0
+B8R6wax CS7,clearcut,2018,8,6,wax C,7,37,8,0,0,0,0,alive,0,,0,alive,0,B8R6wax CS7_2018,B8R6wax CS7_2018_clearcut,-0.593674658,0
+B8R6wax CS7,clearcut,2019,8,6,wax C,7,40,9.9,100,30,0,0,alive,0,,2,alive,0,B8R6wax CS7_2019,B8R6wax CS7_2019_clearcut,0.415359677,100
+B8R6wax CS7,clearcut,2020,8,6,wax C,7,47,8.6,0,0,0,0,alive,0,,4,alive,0,B8R6wax CS7_2020,B8R6wax CS7_2020_clearcut,-0.593674658,0
+B8R6wax CS8,clearcut,2018,8,6,wax C,8,0,0,0,0,2018,1,other,0,,1,other,1,B8R6wax CS8_2018,B8R6wax CS8_2018_clearcut,-0.593674658,0
+B8R6wax CS9,clearcut,2018,8,6,wax C,9,0,0,0,0,2018,1,other,0,,0,other,1,B8R6wax CS9_2018,B8R6wax CS9_2018_clearcut,-0.593674658,0
+B9R1collarS1,clearcut,2018,9,1,collar,1,17,4.4,0,0,0,0,alive,0,,0,alive,0,B9R1collarS1_2018,B9R1collarS1_2018_clearcut,-0.593674658,0
+B9R1collarS1,clearcut,2019,9,1,collar,1,22,4.6,0,0,0,0,alive,0,,0,alive,0,B9R1collarS1_2019,B9R1collarS1_2019_clearcut,-0.593674658,0
+B9R1collarS1,clearcut,2020,9,1,collar,1,0,0,150,0,2020,1,Hylobius,0,Z,0,Hylobius,1,B9R1collarS1_2020,B9R1collarS1_2020_clearcut,0.642134969,150
+B9R1collarS10,clearcut,2018,9,1,collar,10,0,0,230,60,2018,1,Hylobius,0,,0,Hylobius,1,B9R1collarS10_2018,B9R1collarS10_2018_clearcut,0.936601678,230
+B9R1collarS2,clearcut,2018,9,1,collar,2,0,0,20,10,2018,1,other,0,,0,other,1,B9R1collarS2_2018,B9R1collarS2_2018_clearcut,-0.142420785,20
+B9R1collarS3,clearcut,2018,9,1,collar,3,37,4.5,20,10,0,0,alive,0,,0,alive,0,B9R1collarS3_2018,B9R1collarS3_2018_clearcut,-0.142420785,20
+B9R1collarS3,clearcut,2019,9,1,collar,3,0,0,200,30,2019,1,Hylobius,0,,0,Hylobius,1,B9R1collarS3_2019,B9R1collarS3_2019_clearcut,0.833315383,200
+B9R1collarS4,clearcut,2018,9,1,collar,4,0,0,110,70,2018,1,Hylobius,0,,0,Hylobius,1,B9R1collarS4_2018,B9R1collarS4_2018_clearcut,0.464609481,110
+B9R1collarS5,clearcut,2018,9,1,collar,5,33,6,650,80,0,0,alive,0,,0,alive,0,B9R1collarS5_2018,B9R1collarS5_2018_clearcut,1.978868223,650
+B9R1collarS5,clearcut,2019,9,1,collar,5,37,7.3,1500,100,0,0,alive,0,,0,alive,0,B9R1collarS5_2019,B9R1collarS5_2019_clearcut,3.314298516,1500
+B9R1collarS5,clearcut,2020,9,1,collar,5,0,0,800,0,2020,1,Hylobius,0,,0,Hylobius,1,B9R1collarS5_2020,B9R1collarS5_2020_clearcut,2.260305424,800
+B9R1collarS6,clearcut,2018,9,1,collar,6,0,0,440,70,2018,1,Hylobius,0,,0,Hylobius,1,B9R1collarS6_2018,B9R1collarS6_2018_clearcut,1.522893619,440
+B9R1collarS7,clearcut,2018,9,1,collar,7,0,0,90,50,2018,1,Hylobius,0,,0,Hylobius,1,B9R1collarS7_2018,B9R1collarS7_2018_clearcut,0.363579363,90
+B9R1collarS8,clearcut,2018,9,1,collar,8,27,5.2,50,20,0,0,alive,0,,0,alive,0,B9R1collarS8_2018,B9R1collarS8_2018_clearcut,0.119820363,50
+B9R1collarS8,clearcut,2019,9,1,collar,8,29,5.6,900,100,0,0,alive,0,,0,alive,0,B9R1collarS8_2019,B9R1collarS8_2019_clearcut,2.433428346,900
+B9R1collarS8,clearcut,2020,9,1,collar,8,21,6.3,450,0,0,0,alive,0,Z,0,bad condition,0,B9R1collarS8_2020,B9R1collarS8_2020_clearcut,1.546810404,450
+B9R1collarS9,clearcut,2018,9,1,collar,9,0,0,80,50,2018,1,Hylobius,0,,0,Hylobius,1,B9R1collarS9_2018,B9R1collarS9_2018_clearcut,0.308833088,80
+B9R2controlS1,clearcut,2018,9,2,control,1,28,5.2,0,0,0,0,alive,0,,0,alive,0,B9R2controlS1_2018,B9R2controlS1_2018_clearcut,-0.593674658,0
+B9R2controlS1,clearcut,2019,9,2,control,1,28,5.8,350,100,0,0,alive,0,,0,alive,0,B9R2controlS1_2019,B9R2controlS1_2019_clearcut,1.294055728,350
+B9R2controlS1,clearcut,2020,9,2,control,1,0,0,0,0,2020,1,other,0,,0,other,1,B9R2controlS1_2020,B9R2controlS1_2020_clearcut,-0.593674658,0
+B9R2controlS10,clearcut,2018,9,2,control,10,0,0,210,90,2018,1,Hylobius,0,,0,Hylobius,1,B9R2controlS10_2018,B9R2controlS10_2018_clearcut,0.868555012,210
+B9R2controlS2,clearcut,2018,9,2,control,2,42,6.1,0,0,0,0,alive,0,,0,alive,0,B9R2controlS2_2018,B9R2controlS2_2018_clearcut,-0.593674658,0
+B9R2controlS2,clearcut,2019,9,2,control,2,41,6.2,20,10,0,0,alive,0,,0,alive,0,B9R2controlS2_2019,B9R2controlS2_2019_clearcut,-0.142420785,20
+B9R2controlS2,clearcut,2020,9,2,control,2,47,8.8,0,0,0,0,alive,0,,0,alive,0,B9R2controlS2_2020,B9R2controlS2_2020_clearcut,-0.593674658,0
+B9R2controlS3,clearcut,2018,9,2,control,3,0,0,150,90,2018,1,Hylobius,0,,0,Hylobius,1,B9R2controlS3_2018,B9R2controlS3_2018_clearcut,0.642134969,150
+B9R2controlS4,clearcut,2018,9,2,control,4,0,0,60,30,2018,1,other,0,,0,other,1,B9R2controlS4_2018,B9R2controlS4_2018_clearcut,0.187919977,60
+B9R2controlS5,clearcut,2018,9,2,control,5,0,0,450,100,2018,1,Hylobius,0,,0,Hylobius,1,B9R2controlS5_2018,B9R2controlS5_2018_clearcut,1.546810404,450
+B9R2controlS6,clearcut,2018,9,2,control,6,0,0,960,100,2018,1,Hylobius,0,,0,Hylobius,1,B9R2controlS6_2018,B9R2controlS6_2018_clearcut,2.532703881,960
+B9R2controlS7,clearcut,2018,9,2,control,7,54,7,10,10,0,0,alive,0,,0,alive,0,B9R2controlS7_2018,B9R2controlS7_2018_clearcut,-0.274589984,10
+B9R2controlS7,clearcut,2019,9,2,control,7,56,6.9,1300,100,0,0,alive,0,,0,alive,0,B9R2controlS7_2019,B9R2controlS7_2019_clearcut,3.044450375,1300
+B9R2controlS7,clearcut,2020,9,2,control,7,0,0,2500,0,2020,1,Hylobius,0,,0,Hylobius,1,B9R2controlS7_2020,B9R2controlS7_2020_clearcut,4.451497016,2500
+B9R2controlS8,clearcut,2018,9,2,control,8,0,0,130,100,2018,1,Hylobius,0,,0,Hylobius,1,B9R2controlS8_2018,B9R2controlS8_2018_clearcut,0.556801494,130
+B9R2controlS9,clearcut,2018,9,2,control,9,0,0,70,50,2018,1,Hylobius,0,,0,Hylobius,1,B9R2controlS9_2018,B9R2controlS9_2018_clearcut,0.250544036,70
+B9R3wax FS1,clearcut,2018,9,3,wax F,1,44,8.8,0,0,0,0,alive,0,,0,alive,0,B9R3wax FS1_2018,B9R3wax FS1_2018_clearcut,-0.593674658,0
+B9R3wax FS1,clearcut,2019,9,3,wax F,1,48,11.8,220,50,0,0,alive,0,,2,alive,0,B9R3wax FS1_2019,B9R3wax FS1_2019_clearcut,0.902965124,220
+B9R3wax FS1,clearcut,2020,9,3,wax F,1,59,13.2,30,0,0,0,alive,0,,3,alive,0,B9R3wax FS1_2020,B9R3wax FS1_2020_clearcut,-0.041003791,30
+B9R3wax FS10,clearcut,2018,9,3,wax F,10,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B9R3wax FS10_2018,B9R3wax FS10_2018_clearcut,-0.593674658,0
+B9R3wax FS2,clearcut,2018,9,3,wax F,2,30,4.4,0,0,0,0,alive,0,,0,alive,0,B9R3wax FS2_2018,B9R3wax FS2_2018_clearcut,-0.593674658,0
+B9R3wax FS2,clearcut,2019,9,3,wax F,2,41,5.4,350,100,0,0,alive,0,,3,alive,0,B9R3wax FS2_2019,B9R3wax FS2_2019_clearcut,1.294055728,350
+B9R3wax FS2,clearcut,2020,9,3,wax F,2,0,0,300,0,2020,1,Hylobius,0,,0,Hylobius,1,B9R3wax FS2_2020,B9R3wax FS2_2020_clearcut,1.154024077,300
+B9R3wax FS3,clearcut,2018,9,3,wax F,3,44,6.1,0,0,0,0,alive,0,,0,alive,0,B9R3wax FS3_2018,B9R3wax FS3_2018_clearcut,-0.593674658,0
+B9R3wax FS3,clearcut,2019,9,3,wax F,3,41,7.9,0,0,0,0,alive,0,,2,terminal,0,B9R3wax FS3_2019,B9R3wax FS3_2019_clearcut,-0.593674658,0
+B9R3wax FS3,clearcut,2020,9,3,wax F,3,0,0,90,0,2020,1,Hylobius,0,,2,Hylobius,1,B9R3wax FS3_2020,B9R3wax FS3_2020_clearcut,0.363579363,90
+B9R3wax FS4,clearcut,2018,9,3,wax F,4,38,7.9,0,0,0,0,alive,0,,0,alive,0,B9R3wax FS4_2018,B9R3wax FS4_2018_clearcut,-0.593674658,0
+B9R3wax FS4,clearcut,2019,9,3,wax F,4,41,11.2,130,40,0,0,alive,0,,2,alive,0,B9R3wax FS4_2019,B9R3wax FS4_2019_clearcut,0.556801494,130
+B9R3wax FS4,clearcut,2020,9,3,wax F,4,49,14.1,290,0,0,0,alive,0,,2,terminal,0,B9R3wax FS4_2020,B9R3wax FS4_2020_clearcut,1.124648897,290
+B9R3wax FS5,clearcut,2018,9,3,wax F,5,0,0,0,0,2018,1,other,0,,0,other,1,B9R3wax FS5_2018,B9R3wax FS5_2018_clearcut,-0.593674658,0
+B9R3wax FS6,clearcut,2018,9,3,wax F,6,0,0,0,0,2018,1,Hylastes,0,,1,Hylastes,1,B9R3wax FS6_2018,B9R3wax FS6_2018_clearcut,-0.593674658,0
+B9R3wax FS7,clearcut,2018,9,3,wax F,7,0,0,0,0,2018,1,other,0,,0,other,1,B9R3wax FS7_2018,B9R3wax FS7_2018_clearcut,-0.593674658,0
+B9R3wax FS8,clearcut,2018,9,3,wax F,8,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B9R3wax FS8_2018,B9R3wax FS8_2018_clearcut,-0.593674658,0
+B9R3wax FS9,clearcut,2018,9,3,wax F,9,35,7,0,0,0,0,alive,0,,0,alive,0,B9R3wax FS9_2018,B9R3wax FS9_2018_clearcut,-0.593674658,0
+B9R3wax FS9,clearcut,2019,9,3,wax F,9,44,8.4,250,100,0,0,alive,0,,4,alive,0,B9R3wax FS9_2019,B9R3wax FS9_2019_clearcut,1.00174871,250
+B9R3wax FS9,clearcut,2020,9,3,wax F,9,55,12.8,320,0,0,0,alive,0,,3,alive,0,B9R3wax FS9_2020,B9R3wax FS9_2020_clearcut,1.211340834,320
+B9R4chemicalS1,clearcut,2018,9,4,chemical,1,36,7.1,30,10,0,0,alive,0,,0,alive,0,B9R4chemicalS1_2018,B9R4chemicalS1_2018_clearcut,-0.041003791,30
+B9R4chemicalS1,clearcut,2019,9,4,chemical,1,41,9.8,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS1_2019,B9R4chemicalS1_2019_clearcut,-0.593674658,0
+B9R4chemicalS1,clearcut,2020,9,4,chemical,1,53,12.4,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS1_2020,B9R4chemicalS1_2020_clearcut,-0.593674658,0
+B9R4chemicalS10,clearcut,2018,9,4,chemical,10,43,6.7,140,40,0,0,alive,0,,0,alive,0,B9R4chemicalS10_2018,B9R4chemicalS10_2018_clearcut,0.600230868,140
+B9R4chemicalS10,clearcut,2019,9,4,chemical,10,38,7.5,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS10_2019,B9R4chemicalS10_2019_clearcut,-0.593674658,0
+B9R4chemicalS10,clearcut,2020,9,4,chemical,10,65,13.5,20,0,0,0,alive,0,,0,alive,0,B9R4chemicalS10_2020,B9R4chemicalS10_2020_clearcut,-0.142420785,20
+B9R4chemicalS2,clearcut,2018,9,4,chemical,2,43,7.7,30,30,0,0,alive,0,,0,alive,0,B9R4chemicalS2_2018,B9R4chemicalS2_2018_clearcut,-0.041003791,30
+B9R4chemicalS2,clearcut,2019,9,4,chemical,2,56,11.8,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS2_2019,B9R4chemicalS2_2019_clearcut,-0.593674658,0
+B9R4chemicalS2,clearcut,2020,9,4,chemical,2,63,17.1,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS2_2020,B9R4chemicalS2_2020_clearcut,-0.593674658,0
+B9R4chemicalS3,clearcut,2018,9,4,chemical,3,0,0,0,0,2018,1,other,0,,0,human,1,B9R4chemicalS3_2018,B9R4chemicalS3_2018_clearcut,-0.593674658,0
+B9R4chemicalS4,clearcut,2018,9,4,chemical,4,50,5.2,20,20,0,0,alive,0,,0,alive,0,B9R4chemicalS4_2018,B9R4chemicalS4_2018_clearcut,-0.142420785,20
+B9R4chemicalS4,clearcut,2019,9,4,chemical,4,0,0,0,0,2019,1,Hylastes,0,,0,Hylastes,1,B9R4chemicalS4_2019,B9R4chemicalS4_2019_clearcut,-0.593674658,0
+B9R4chemicalS5,clearcut,2018,9,4,chemical,5,32,4.5,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS5_2018,B9R4chemicalS5_2018_clearcut,-0.593674658,0
+B9R4chemicalS5,clearcut,2019,9,4,chemical,5,43,7,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS5_2019,B9R4chemicalS5_2019_clearcut,-0.593674658,0
+B9R4chemicalS5,clearcut,2020,9,4,chemical,5,69,11,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS5_2020,B9R4chemicalS5_2020_clearcut,-0.593674658,0
+B9R4chemicalS6,clearcut,2018,9,4,chemical,6,0,0,60,20,2018,1,other,0,,0,other,1,B9R4chemicalS6_2018,B9R4chemicalS6_2018_clearcut,0.187919977,60
+B9R4chemicalS7,clearcut,2018,9,4,chemical,7,0,0,110,90,2018,1,Hylobius,0,,0,Hylobius,1,B9R4chemicalS7_2018,B9R4chemicalS7_2018_clearcut,0.464609481,110
+B9R4chemicalS8,clearcut,2018,9,4,chemical,8,37,4.9,30,10,0,0,alive,0,,0,alive,0,B9R4chemicalS8_2018,B9R4chemicalS8_2018_clearcut,-0.041003791,30
+B9R4chemicalS8,clearcut,2019,9,4,chemical,8,48,7.4,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS8_2019,B9R4chemicalS8_2019_clearcut,-0.593674658,0
+B9R4chemicalS8,clearcut,2020,9,4,chemical,8,57,10.5,0,0,0,0,alive,0,,0,alive,0,B9R4chemicalS8_2020,B9R4chemicalS8_2020_clearcut,-0.593674658,0
+B9R4chemicalS9,clearcut,2018,9,4,chemical,9,48,7.8,20,10,0,0,alive,0,,0,alive,0,B9R4chemicalS9_2018,B9R4chemicalS9_2018_clearcut,-0.142420785,20
+B9R4chemicalS9,clearcut,2019,9,4,chemical,9,49,10,60,10,0,0,alive,0,,0,alive,0,B9R4chemicalS9_2019,B9R4chemicalS9_2019_clearcut,0.187919977,60
+B9R4chemicalS9,clearcut,2020,9,4,chemical,9,70,14.8,30,0,0,0,alive,0,,0,alive,0,B9R4chemicalS9_2020,B9R4chemicalS9_2020_clearcut,-0.041003791,30
+B9R5glueS1,clearcut,2018,9,5,glue,1,40,10.2,40,30,0,0,alive,0,,0,alive,0,B9R5glueS1_2018,B9R5glueS1_2018_clearcut,0.044494689,40
+B9R5glueS1,clearcut,2019,9,5,glue,1,49,19.1,50,20,0,0,alive,0,,0,alive,0,B9R5glueS1_2019,B9R5glueS1_2019_clearcut,0.119820363,50
+B9R5glueS1,clearcut,2020,9,5,glue,1,69,24.8,0,0,0,0,alive,0,,0,alive,0,B9R5glueS1_2020,B9R5glueS1_2020_clearcut,-0.593674658,0
+B9R5glueS10,clearcut,2018,9,5,glue,10,64,9.5,0,0,0,0,alive,0,,0,alive,0,B9R5glueS10_2018,B9R5glueS10_2018_clearcut,-0.593674658,0
+B9R5glueS10,clearcut,2019,9,5,glue,10,61,11.5,340,50,0,0,alive,0,,0,alive,0,B9R5glueS10_2019,B9R5glueS10_2019_clearcut,1.266892724,340
+B9R5glueS10,clearcut,2020,9,5,glue,10,0,0,760,0,2020,1,Hylobius,0,,0,Hylobius,1,B9R5glueS10_2020,B9R5glueS10_2020_clearcut,2.188041035,760
+B9R5glueS2,clearcut,2018,9,5,glue,2,0,0,430,100,2018,1,Hylobius,0,,0,Hylobius,1,B9R5glueS2_2018,B9R5glueS2_2018_clearcut,1.498703473,430
+B9R5glueS3,clearcut,2018,9,5,glue,3,0,0,220,100,2018,1,Hylobius,0,,0,Hylobius,1,B9R5glueS3_2018,B9R5glueS3_2018_clearcut,0.902965124,220
+B9R5glueS4,clearcut,2018,9,5,glue,4,46,6.9,0,0,0,0,alive,0,,0,alive,0,B9R5glueS4_2018,B9R5glueS4_2018_clearcut,-0.593674658,0
+B9R5glueS4,clearcut,2019,9,5,glue,4,52,11.5,110,30,0,0,alive,0,,0,alive,0,B9R5glueS4_2019,B9R5glueS4_2019_clearcut,0.464609481,110
+B9R5glueS4,clearcut,2020,9,5,glue,4,65,16.5,0,0,0,0,alive,0,,0,alive,0,B9R5glueS4_2020,B9R5glueS4_2020_clearcut,-0.593674658,0
+B9R5glueS5,clearcut,2018,9,5,glue,5,60,9.9,0,0,0,0,alive,0,,0,alive,0,B9R5glueS5_2018,B9R5glueS5_2018_clearcut,-0.593674658,0
+B9R5glueS5,clearcut,2019,9,5,glue,5,65,12.6,80,30,0,0,alive,0,,0,alive,0,B9R5glueS5_2019,B9R5glueS5_2019_clearcut,0.308833088,80
+B9R5glueS5,clearcut,2020,9,5,glue,5,83,18.5,0,0,0,0,alive,0,,0,alive,0,B9R5glueS5_2020,B9R5glueS5_2020_clearcut,-0.593674658,0
+B9R5glueS6,clearcut,2018,9,5,glue,6,48,10.7,0,0,0,0,alive,0,,0,alive,0,B9R5glueS6_2018,B9R5glueS6_2018_clearcut,-0.593674658,0
+B9R5glueS6,clearcut,2019,9,5,glue,6,53,14.1,180,40,0,0,alive,0,,0,alive,0,B9R5glueS6_2019,B9R5glueS6_2019_clearcut,0.760086961,180
+B9R5glueS6,clearcut,2020,9,5,glue,6,62,19.8,0,0,0,0,alive,0,,0,alive,0,B9R5glueS6_2020,B9R5glueS6_2020_clearcut,-0.593674658,0
+B9R5glueS7,clearcut,2018,9,5,glue,7,0,0,230,100,2018,1,Hylobius,0,,0,Hylobius,1,B9R5glueS7_2018,B9R5glueS7_2018_clearcut,0.936601678,230
+B9R5glueS8,clearcut,2018,9,5,glue,8,0,0,0,0,2018,1,other,0,,0,other,1,B9R5glueS8_2018,B9R5glueS8_2018_clearcut,-0.593674658,0
+B9R5glueS9,clearcut,2018,9,5,glue,9,0,0,80,50,2018,1,Hylobius,0,,0,Hylobius,1,B9R5glueS9_2018,B9R5glueS9_2018_clearcut,0.308833088,80
+B9R6wax CS1,clearcut,2018,9,6,wax C,1,37,7,0,0,0,0,alive,0,,0,alive,0,B9R6wax CS1_2018,B9R6wax CS1_2018_clearcut,-0.593674658,0
+B9R6wax CS1,clearcut,2019,9,6,wax C,1,39,9,400,100,0,0,alive,0,,2,alive,0,B9R6wax CS1_2019,B9R6wax CS1_2019_clearcut,1.424394012,400
+B9R6wax CS1,clearcut,2020,9,6,wax C,1,0,0,0,0,2020,1,Hylastes,0,,0,Hylastes,1,B9R6wax CS1_2020,B9R6wax CS1_2020_clearcut,-0.593674658,0
+B9R6wax CS10,clearcut,2018,9,6,wax C,10,0,0,0,0,2018,1,Hylastes,0,,0,Hylastes,1,B9R6wax CS10_2018,B9R6wax CS10_2018_clearcut,-0.593674658,0
+B9R6wax CS2,clearcut,2018,9,6,wax C,2,38,10,0,0,0,0,alive,0,,0,alive,0,B9R6wax CS2_2018,B9R6wax CS2_2018_clearcut,-0.593674658,0
+B9R6wax CS2,clearcut,2019,9,6,wax C,2,41,9.2,50,20,0,0,alive,0,,1,alive,0,B9R6wax CS2_2019,B9R6wax CS2_2019_clearcut,0.119820363,50
+B9R6wax CS2,clearcut,2020,9,6,wax C,2,0,0,0,0,2020,1,Hylastes,0,,3,Hylastes,1,B9R6wax CS2_2020,B9R6wax CS2_2020_clearcut,-0.593674658,0
+B9R6wax CS3,clearcut,2018,9,6,wax C,3,23,5.6,0,0,0,0,alive,0,,1,alive,0,B9R6wax CS3_2018,B9R6wax CS3_2018_clearcut,-0.593674658,0
+B9R6wax CS3,clearcut,2019,9,6,wax C,3,30,4.5,250,100,0,0,alive,0,,4,alive,0,B9R6wax CS3_2019,B9R6wax CS3_2019_clearcut,1.00174871,250
+B9R6wax CS3,clearcut,2020,9,6,wax C,3,0,0,0,0,2020,1,Hylastes,0,,3,Hylastes,1,B9R6wax CS3_2020,B9R6wax CS3_2020_clearcut,-0.593674658,0
+B9R6wax CS4,clearcut,2018,9,6,wax C,4,0,0,0,0,2018,1,Hylastes,0,,1,Hylastes,1,B9R6wax CS4_2018,B9R6wax CS4_2018_clearcut,-0.593674658,0
+B9R6wax CS5,clearcut,2018,9,6,wax C,5,38,7.5,0,0,0,0,alive,0,,1,alive,0,B9R6wax CS5_2018,B9R6wax CS5_2018_clearcut,-0.593674658,0
+B9R6wax CS5,clearcut,2019,9,6,wax C,5,46,8.8,20,10,0,0,alive,0,,2,alive,0,B9R6wax CS5_2019,B9R6wax CS5_2019_clearcut,-0.142420785,20
+B9R6wax CS5,clearcut,2020,9,6,wax C,5,48,11.7,100,0,0,0,alive,0,,3,alive,0,B9R6wax CS5_2020,B9R6wax CS5_2020_clearcut,0.415359677,100
+B9R6wax CS6,clearcut,2018,9,6,wax C,6,33,6.3,0,0,0,0,alive,0,,1,bad condition,0,B9R6wax CS6_2018,B9R6wax CS6_2018_clearcut,-0.593674658,0
+B9R6wax CS6,clearcut,2019,9,6,wax C,6,0,0,20,10,2019,1,Hylastes,0,,3,Hylastes,1,B9R6wax CS6_2019,B9R6wax CS6_2019_clearcut,-0.142420785,20
+B9R6wax CS7,clearcut,2018,9,6,wax C,7,39,8.3,0,0,0,0,alive,0,,0,alive,0,B9R6wax CS7_2018,B9R6wax CS7_2018_clearcut,-0.593674658,0
+B9R6wax CS7,clearcut,2019,9,6,wax C,7,41,2.4,90,30,0,0,alive,0,,2,alive,0,B9R6wax CS7_2019,B9R6wax CS7_2019_clearcut,0.363579363,90
+B9R6wax CS7,clearcut,2020,9,6,wax C,7,53,11.7,0,0,0,0,alive,0,,3,alive,0,B9R6wax CS7_2020,B9R6wax CS7_2020_clearcut,-0.593674658,0
+B9R6wax CS8,clearcut,2018,9,6,wax C,8,0,0,0,0,2018,1,Hylastes,0,,1,Hylastes,1,B9R6wax CS8_2018,B9R6wax CS8_2018_clearcut,-0.593674658,0
+B9R6wax CS9,clearcut,2018,9,6,wax C,9,51,11,0,0,0,0,alive,0,,0,alive,0,B9R6wax CS9_2018,B9R6wax CS9_2018_clearcut,-0.593674658,0
+B9R6wax CS9,clearcut,2019,9,6,wax C,9,60,13.5,2500,100,0,0,alive,0,,2,alive,0,B9R6wax CS9_2019,B9R6wax CS9_2019_clearcut,4.451497016,2500
+B9R6wax CS9,clearcut,2020,9,6,wax C,9,0,0,1500,0,2020,1,Hylobius,0,,4,Hylobius,1,B9R6wax CS9_2020,B9R6wax CS9_2020_clearcut,3.314298516,1500

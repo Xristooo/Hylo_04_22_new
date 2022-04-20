@@ -1,0 +1,531 @@
+"","uniqueIDsite","unIDyearSite","uniqueIDYear","uniqueID","site","year","block","row","treat","seedl_nr","height","diam_mm","dateYear","mort_date","notes","mortality","mort_binar","waxQual","damage","percentDebark","waxHeight_cm","rootCol","origNotes","mort2","rank","sumDamage","sumMort","ZeroDam"
+"1","B10R1chemicalS10 clearcut","B10R1chemicalS10_2018_clearcut","B10R1chemicalS10_2018","B10R1chemicalS10","clearcut",2018,10,1,"chemical",10,31,5.1,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,10,0,1
+"2","B10R1chemicalS2 clearcut","B10R1chemicalS2_2018_clearcut","B10R1chemicalS2_2018","B10R1chemicalS2","clearcut",2018,10,1,"chemical",2,0,NA,2018,2018,"Hylobius","dead",1,0,20,10,0,"","other",1,1,20,1,1
+"3","B10R1chemicalS4 clearcut","B10R1chemicalS4_2018_clearcut","B10R1chemicalS4_2018","B10R1chemicalS4","clearcut",2018,10,1,"chemical",4,0,NA,2018,2018,"Hylobius","dead",1,0,30,20,0,"","other",1,1,30,1,1
+"4","B10R1chemicalS5 clearcut","B10R1chemicalS5_2018_clearcut","B10R1chemicalS5_2018","B10R1chemicalS5","clearcut",2018,10,1,"chemical",5,65,9.2,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,10,1,1
+"5","B10R1chemicalS8 clearcut","B10R1chemicalS8_2018_clearcut","B10R1chemicalS8_2018","B10R1chemicalS8","clearcut",2018,10,1,"chemical",8,0,NA,2018,2018,"Hylobius","dead",1,0,20,0,0,"","other",1,1,20,1,1
+"6","B10R2collarS10 clearcut","B10R2collarS10_2019_clearcut","B10R2collarS10_2019","B10R2collarS10","clearcut",2019,10,2,"collar",10,34,5.7,2019,0,"alive","alive",0,0,120,0,0,"","alive",0,1,120,0,1
+"7","B10R2collarS5 clearcut","B10R2collarS5_2019_clearcut","B10R2collarS5_2019","B10R2collarS5","clearcut",2019,10,2,"collar",5,47,9,2019,0,"alive","alive",0,0,150,50,0,"","alive",0,1,150,0,1
+"8","B10R2collarS6 clearcut","B10R2collarS6_2019_clearcut","B10R2collarS6_2019","B10R2collarS6","clearcut",2019,10,2,"collar",6,40,5.5,2019,0,"alive","alive",0,0,180,70,0,"","alive",0,1,180,0,1
+"9","B10R2collarS7 clearcut","B10R2collarS7_2018_clearcut","B10R2collarS7_2018","B10R2collarS7","clearcut",2018,10,2,"collar",7,42,8.5,2018,0,"alive","alive",0,0,40,20,0,"","bad condition",0,1,40,1,1
+"10","B10R2collarS8 clearcut","B10R2collarS8_2019_clearcut","B10R2collarS8_2019","B10R2collarS8","clearcut",2019,10,2,"collar",8,40,9.3,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,20,0,1
+"11","B10R3wax FS2 clearcut","B10R3wax FS2_2019_clearcut","B10R3wax FS2_2019","B10R3wax FS2","clearcut",2019,10,3,"wax F",2,49,12,2019,0,"alive","alive",0,2,120,40,0,"","alive",0,3,370,0,1
+"12","B10R3wax FS2 clearcut","B10R3wax FS2_2020_clearcut","B10R3wax FS2_2020","B10R3wax FS2","clearcut",2020,10,3,"wax F",2,62,15.4,2020,0,"alive","alive",0,3,250,0,0,"","alive",0,4,370,0,1
+"13","B10R3wax FS3 clearcut","B10R3wax FS3_2019_clearcut","B10R3wax FS3_2019","B10R3wax FS3","clearcut",2019,10,3,"wax F",3,49,11.2,2019,0,"alive","alive",0,3,350,80,0,"","alive",0,4,550,0,1
+"14","B10R3wax FS3 clearcut","B10R3wax FS3_2020_clearcut","B10R3wax FS3_2020","B10R3wax FS3","clearcut",2020,10,3,"wax F",3,57,13.3,2020,0,"alive","alive",0,4,200,0,0,"","alive",0,5,550,0,1
+"15","B10R3wax FS4 clearcut","B10R3wax FS4_2019_clearcut","B10R3wax FS4_2019","B10R3wax FS4","clearcut",2019,10,3,"wax F",4,58,12,2019,0,"alive","alive",0,4,60,20,0,"","alive",0,5,60,0,1
+"16","B10R3wax FS6 clearcut","B10R3wax FS6_2019_clearcut","B10R3wax FS6_2019","B10R3wax FS6","clearcut",2019,10,3,"wax F",6,54,10.8,2019,0,"alive","alive",0,2,110,30,0,"","alive",0,3,110,0,1
+"17","B10R3wax FS7 clearcut","B10R3wax FS7_2019_clearcut","B10R3wax FS7_2019","B10R3wax FS7","clearcut",2019,10,3,"wax F",7,47,8.2,2019,0,"alive","alive",0,2,30,10,0,"","alive",0,3,30,0,1
+"18","B10R3wax FS8 clearcut","B10R3wax FS8_2019_clearcut","B10R3wax FS8_2019","B10R3wax FS8","clearcut",2019,10,3,"wax F",8,70,14.1,2019,0,"alive","alive",0,4,10,10,0,"","alive",0,4,10,0,1
+"19","B10R4wax CS1 clearcut","B10R4wax CS1_2019_clearcut","B10R4wax CS1_2019","B10R4wax CS1","clearcut",2019,10,4,"wax C",1,54,8.2,2019,0,"alive","alive",0,2,500,40,0,"","alive",0,3,1100,1,1
+"20","B10R4wax CS1 clearcut","B10R4wax CS1_2020_clearcut","B10R4wax CS1_2020","B10R4wax CS1","clearcut",2020,10,4,"wax C",1,0,NA,2020,2020,"Hylobius","dead",1,4,600,0,0,"","Hylobius",1,5,1100,1,1
+"21","B10R4wax CS2 clearcut","B10R4wax CS2_2019_clearcut","B10R4wax CS2_2019","B10R4wax CS2","clearcut",2019,10,4,"wax C",2,73,14,2019,0,"alive","alive",0,1,300,20,0,"","alive",0,2,300,0,1
+"22","B10R4wax CS3 clearcut","B10R4wax CS3_2019_clearcut","B10R4wax CS3_2019","B10R4wax CS3","clearcut",2019,10,4,"wax C",3,53,9.8,2019,0,"alive","alive",0,3,250,30,0,"","alive",0,4,400,0,1
+"23","B10R4wax CS3 clearcut","B10R4wax CS3_2020_clearcut","B10R4wax CS3_2020","B10R4wax CS3","clearcut",2020,10,4,"wax C",3,68,16.2,2020,0,"alive","alive",0,4,150,0,0,"","alive",0,5,400,0,1
+"24","B10R4wax CS5 clearcut","B10R4wax CS5_2018_clearcut","B10R4wax CS5_2018","B10R4wax CS5","clearcut",2018,10,4,"wax C",5,25,4.2,2018,0,"alive","alive",0,2,30,10,0,"","alive",0,3,30,1,1
+"25","B10R4wax CS8 clearcut","B10R4wax CS8_2018_clearcut","B10R4wax CS8_2018","B10R4wax CS8","clearcut",2018,10,4,"wax C",8,35,6.4,2018,0,"alive","alive",0,1,30,10,0,"","alive",0,2,160,0,1
+"26","B10R4wax CS8 clearcut","B10R4wax CS8_2019_clearcut","B10R4wax CS8_2019","B10R4wax CS8","clearcut",2019,10,4,"wax C",8,31,9.2,2019,0,"alive","alive",0,2,40,10,0,"","alive",0,3,160,0,1
+"27","B10R4wax CS8 clearcut","B10R4wax CS8_2020_clearcut","B10R4wax CS8_2020","B10R4wax CS8","clearcut",2020,10,4,"wax C",8,50,9.3,2020,0,"alive","alive",0,4,90,0,0,"","alive",0,5,160,0,1
+"28","B10R6controlS10 clearcut","B10R6controlS10_2019_clearcut","B10R6controlS10_2019","B10R6controlS10","clearcut",2019,10,6,"control",10,50,6.6,2019,0,"alive","alive",0,0,10,10,0,"","alive",0,1,170,0,1
+"29","B10R6controlS10 clearcut","B10R6controlS10_2020_clearcut","B10R6controlS10_2020","B10R6controlS10","clearcut",2020,10,6,"control",10,57,9.7,2020,0,"alive","alive",0,0,160,0,0,"","terminal",0,1,170,0,1
+"30","B10R6controlS2 clearcut","B10R6controlS2_2018_clearcut","B10R6controlS2_2018","B10R6controlS2","clearcut",2018,10,6,"control",2,0,NA,2018,2018,"Hylobius","dead",1,0,500,100,0,"","Hylobius",1,1,500,1,1
+"31","B10R6controlS3 clearcut","B10R6controlS3_2018_clearcut","B10R6controlS3_2018","B10R6controlS3","clearcut",2018,10,6,"control",3,0,NA,2018,2018,"Hylobius","dead",1,0,950,100,0,"","Hylobius",1,1,950,1,1
+"32","B10R6controlS4 clearcut","B10R6controlS4_2018_clearcut","B10R6controlS4_2018","B10R6controlS4","clearcut",2018,10,6,"control",4,0,NA,2018,2018,"Hylobius","dead",1,0,250,100,0,"","Hylobius",1,1,250,1,1
+"33","B10R6controlS5 clearcut","B10R6controlS5_2018_clearcut","B10R6controlS5_2018","B10R6controlS5","clearcut",2018,10,6,"control",5,40,5.6,2018,0,"alive","alive",0,0,300,50,0,"","alive",0,1,830,0,1
+"34","B10R6controlS5 clearcut","B10R6controlS5_2019_clearcut","B10R6controlS5_2019","B10R6controlS5","clearcut",2019,10,6,"control",5,45,8.7,2019,0,"alive","alive",0,0,130,40,0,"","alive",0,1,830,0,1
+"35","B10R6controlS5 clearcut","B10R6controlS5_2020_clearcut","B10R6controlS5_2020","B10R6controlS5","clearcut",2020,10,6,"control",5,45,8.5,2020,0,"alive","alive",0,0,400,0,0,"","alive",0,1,830,0,1
+"36","B10R6controlS6 clearcut","B10R6controlS6_2019_clearcut","B10R6controlS6_2019","B10R6controlS6","clearcut",2019,10,6,"control",6,33,5.2,2019,0,"alive","alive",0,0,40,10,0,"","alive",0,1,40,0,1
+"37","B10R6controlS7 clearcut","B10R6controlS7_2019_clearcut","B10R6controlS7_2019","B10R6controlS7","clearcut",2019,10,6,"control",7,60,9.8,2019,0,"alive","alive",0,0,80,40,0,"","alive",0,1,180,0,1
+"38","B10R6controlS7 clearcut","B10R6controlS7_2020_clearcut","B10R6controlS7_2020","B10R6controlS7","clearcut",2020,10,6,"control",7,64,16.2,2020,0,"alive","alive",0,0,100,0,0,"","alive",0,1,180,0,1
+"39","B10R6controlS8 clearcut","B10R6controlS8_2018_clearcut","B10R6controlS8_2018","B10R6controlS8","clearcut",2018,10,6,"control",8,0,NA,2018,2018,"Hylobius","dead",1,0,200,40,0,"","Hylobius",1,1,200,1,1
+"40","B10R6controlS9 clearcut","B10R6controlS9_2019_clearcut","B10R6controlS9_2019","B10R6controlS9","clearcut",2019,10,6,"control",9,33,6.1,2019,0,"alive","alive",0,0,440,90,0,"","alive",0,1,1640,1,1
+"41","B10R6controlS9 clearcut","B10R6controlS9_2020_clearcut","B10R6controlS9_2020","B10R6controlS9","clearcut",2020,10,6,"control",9,0,NA,2020,2020,"Hylobius","dead",1,0,1200,0,0,"","Hylobius",1,1,1640,1,1
+"42","B1R1controlS1 clearcut","B1R1controlS1_2018_clearcut","B1R1controlS1_2018","B1R1controlS1","clearcut",2018,1,1,"control",1,65,10.9,2018,0,"alive","alive",0,0,110,30,0,"","alive",0,1,3900,0,1
+"43","B1R1controlS1 clearcut","B1R1controlS1_2019_clearcut","B1R1controlS1_2019","B1R1controlS1","clearcut",2019,1,1,"control",1,56,13.9,2019,0,"alive","alive",0,0,1200,100,0,"","alive",0,1,3900,0,1
+"44","B1R1controlS1 clearcut","B1R1controlS1_2020_clearcut","B1R1controlS1_2020","B1R1controlS1","clearcut",2020,1,1,"control",1,65,17.3,2020,0,"alive","alive",0,0,2590,0,0,"","terminal",0,1,3900,0,1
+"45","B1R1controlS10 clearcut","B1R1controlS10_2019_clearcut","B1R1controlS10_2019","B1R1controlS10","clearcut",2019,1,1,"control",10,38,7.9,2019,0,"alive","alive",0,0,480,100,0,"","alive",0,1,630,0,1
+"46","B1R1controlS10 clearcut","B1R1controlS10_2020_clearcut","B1R1controlS10_2020","B1R1controlS10","clearcut",2020,1,1,"control",10,47,13.8,2020,0,"alive","alive",0,0,150,0,0,"","terminal",0,1,630,0,1
+"47","B1R1controlS2 clearcut","B1R1controlS2_2018_clearcut","B1R1controlS2_2018","B1R1controlS2","clearcut",2018,1,1,"control",2,27,4.5,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,270,1,1
+"48","B1R1controlS2 clearcut","B1R1controlS2_2019_clearcut","B1R1controlS2_2019","B1R1controlS2","clearcut",2019,1,1,"control",2,0,NA,2019,2019,"Hylobius","dead",1,0,250,100,0,"","Hylobius",1,1,270,1,1
+"49","B1R1controlS3 clearcut","B1R1controlS3_2018_clearcut","B1R1controlS3_2018","B1R1controlS3","clearcut",2018,1,1,"control",3,0,NA,2018,2018,"Hylobius","dead",1,0,720,100,0,"","Hylobius",1,1,720,1,1
+"50","B1R1controlS4 clearcut","B1R1controlS4_2018_clearcut","B1R1controlS4_2018","B1R1controlS4","clearcut",2018,1,1,"control",4,0,NA,2018,2018,"Hylobius","dead",1,0,10,10,0,"","human",1,1,10,1,1
+"51","B1R1controlS6 clearcut","B1R1controlS6_2018_clearcut","B1R1controlS6_2018","B1R1controlS6","clearcut",2018,1,1,"control",6,0,NA,2018,2018,"Hylobius","dead",1,0,240,100,0,"","Hylobius",1,1,240,1,1
+"52","B1R1controlS8 clearcut","B1R1controlS8_2018_clearcut","B1R1controlS8_2018","B1R1controlS8","clearcut",2018,1,1,"control",8,0,NA,2018,2018,"Hylobius","dead",1,0,180,100,0,"","Hylobius",1,1,180,1,1
+"53","B1R1controlS9 clearcut","B1R1controlS9_2018_clearcut","B1R1controlS9_2018","B1R1controlS9","clearcut",2018,1,1,"control",9,0,NA,2018,2018,"Hylobius","dead",1,0,430,100,0,"","Hylobius",1,1,430,1,1
+"54","B1R2chemicalS1 clearcut","B1R2chemicalS1_2019_clearcut","B1R2chemicalS1_2019","B1R2chemicalS1","clearcut",2019,1,2,"chemical",1,27,5.3,2019,0,"alive","alive",0,0,130,40,0,"","alive",0,1,280,0,1
+"55","B1R2chemicalS1 clearcut","B1R2chemicalS1_2020_clearcut","B1R2chemicalS1_2020","B1R2chemicalS1","clearcut",2020,1,2,"chemical",1,42,9.8,2020,0,"alive","alive",0,0,150,0,0,"","alive",0,1,280,0,1
+"56","B1R2chemicalS5 clearcut","B1R2chemicalS5_2019_clearcut","B1R2chemicalS5_2019","B1R2chemicalS5","clearcut",2019,1,2,"chemical",5,20,4.5,2019,0,"alive","alive",0,0,100,30,0,"","alive",0,1,100,0,1
+"57","B1R2chemicalS6 clearcut","B1R2chemicalS6_2018_clearcut","B1R2chemicalS6_2018","B1R2chemicalS6","clearcut",2018,1,2,"chemical",6,27.5,4.6,2018,0,"alive","alive",0,0,10,0,0,"","terminal",0,1,10,0,1
+"58","B1R2chemicalS9 clearcut","B1R2chemicalS9_2018_clearcut","B1R2chemicalS9_2018","B1R2chemicalS9","clearcut",2018,1,2,"chemical",9,36,5.5,2018,0,"alive","alive",0,0,110,20,0,"","alive",0,1,110,1,1
+"59","B1R3collarS1 clearcut","B1R3collarS1_2019_clearcut","B1R3collarS1_2019","B1R3collarS1","clearcut",2019,1,3,"collar",1,43,9.8,2019,0,"alive","alive",0,0,900,100,0,"","alive",0,1,900,1,1
+"60","B1R3collarS10 clearcut","B1R3collarS10_2019_clearcut","B1R3collarS10_2019","B1R3collarS10","clearcut",2019,1,3,"collar",10,25,4.8,2019,0,"alive","alive",0,0,30,10,0,"","alive",0,1,30,1,1
+"61","B1R3collarS2 clearcut","B1R3collarS2_2019_clearcut","B1R3collarS2_2019","B1R3collarS2","clearcut",2019,1,3,"collar",2,31,7.7,2019,0,"alive","alive",0,0,2000,100,0,"","alive",0,1,2000,1,1
+"62","B1R3collarS3 clearcut","B1R3collarS3_2019_clearcut","B1R3collarS3_2019","B1R3collarS3","clearcut",2019,1,3,"collar",3,51,13.4,2019,0,"alive","alive",0,0,850,100,0,"","alive",0,1,1050,0,1
+"63","B1R3collarS3 clearcut","B1R3collarS3_2020_clearcut","B1R3collarS3_2020","B1R3collarS3","clearcut",2020,1,3,"collar",3,63,14.7,2020,0,"alive","alive",0,0,200,0,0,"Z","alive",0,1,1050,0,1
+"64","B1R3collarS4 clearcut","B1R3collarS4_2019_clearcut","B1R3collarS4_2019","B1R3collarS4","clearcut",2019,1,3,"collar",4,31,7.8,2019,0,"alive","alive",0,0,350,80,0,"","alive",0,1,600,0,1
+"65","B1R3collarS4 clearcut","B1R3collarS4_2020_clearcut","B1R3collarS4_2020","B1R3collarS4","clearcut",2020,1,3,"collar",4,44,9.8,2020,0,"alive","alive",0,0,250,0,0,"Z","alive",0,1,600,0,1
+"66","B1R3collarS5 clearcut","B1R3collarS5_2019_clearcut","B1R3collarS5_2019","B1R3collarS5","clearcut",2019,1,3,"collar",5,31,7.2,2019,0,"alive","alive",0,0,80,40,0,"","alive",0,1,180,0,1
+"67","B1R3collarS5 clearcut","B1R3collarS5_2020_clearcut","B1R3collarS5_2020","B1R3collarS5","clearcut",2020,1,3,"collar",5,32,8.3,2020,0,"alive","alive",0,0,100,0,0,"O","alive",0,1,180,0,1
+"68","B1R3collarS6 clearcut","B1R3collarS6_2019_clearcut","B1R3collarS6_2019","B1R3collarS6","clearcut",2019,1,3,"collar",6,24,4.9,2019,0,"alive","alive",0,0,50,20,0,"","alive",0,1,50,1,1
+"69","B1R3collarS7 clearcut","B1R3collarS7_2019_clearcut","B1R3collarS7_2019","B1R3collarS7","clearcut",2019,1,3,"collar",7,0,NA,2019,2019,"Hylobius","dead",1,0,1500,100,0,"G chýba","Hylobius",1,1,1500,1,1
+"70","B1R3collarS8 clearcut","B1R3collarS8_2019_clearcut","B1R3collarS8_2019","B1R3collarS8","clearcut",2019,1,3,"collar",8,41,9,2019,0,"alive","alive",0,0,100,30,0,"","alive",0,1,150,0,1
+"71","B1R3collarS8 clearcut","B1R3collarS8_2020_clearcut","B1R3collarS8_2020","B1R3collarS8","clearcut",2020,1,3,"collar",8,45,10.4,2020,0,"alive","alive",0,0,50,0,0,"Z","alive",0,1,150,0,1
+"72","B1R3collarS9 clearcut","B1R3collarS9_2019_clearcut","B1R3collarS9_2019","B1R3collarS9","clearcut",2019,1,3,"collar",9,47,8.2,2019,0,"alive","alive",0,0,10,10,0,"","alive",0,1,160,0,1
+"73","B1R3collarS9 clearcut","B1R3collarS9_2020_clearcut","B1R3collarS9_2020","B1R3collarS9","clearcut",2020,1,3,"collar",9,62,12.5,2020,0,"alive","alive",0,0,150,0,0,"Z","alive",0,1,160,0,1
+"74","B1R4wax CS10 clearcut","B1R4wax CS10_2018_clearcut","B1R4wax CS10_2018","B1R4wax CS10","clearcut",2018,1,4,"wax C",10,0,NA,2018,2018,"Hylobius","dead",1,1,40,30,0,"","other",1,2,40,1,1
+"75","B1R4wax CS2 clearcut","B1R4wax CS2_2019_clearcut","B1R4wax CS2_2019","B1R4wax CS2","clearcut",2019,1,4,"wax C",2,40,7.8,2019,0,"alive","alive",0,3,190,80,0,"","alive",0,4,1390,1,1
+"76","B1R4wax CS2 clearcut","B1R4wax CS2_2020_clearcut","B1R4wax CS2_2020","B1R4wax CS2","clearcut",2020,1,4,"wax C",2,0,NA,2020,2020,"Hylobius","dead",1,4,1200,0,0,"","Hylobius",1,5,1390,1,1
+"77","B1R4wax CS3 clearcut","B1R4wax CS3_2019_clearcut","B1R4wax CS3_2019","B1R4wax CS3","clearcut",2019,1,4,"wax C",3,46,10,2019,0,"alive","alive",0,3,1000,100,0,"","alive",0,4,3000,0,1
+"78","B1R4wax CS3 clearcut","B1R4wax CS3_2020_clearcut","B1R4wax CS3_2020","B1R4wax CS3","clearcut",2020,1,4,"wax C",3,46,15.5,2020,0,"alive","alive",0,4,2000,0,0,"","alive",0,5,3000,0,1
+"79","B1R4wax CS6 clearcut","B1R4wax CS6_2019_clearcut","B1R4wax CS6_2019","B1R4wax CS6","clearcut",2019,1,4,"wax C",6,63,17.9,2019,0,"alive","alive",0,2,800,70,0,"","alive",0,3,2300,0,1
+"80","B1R4wax CS6 clearcut","B1R4wax CS6_2020_clearcut","B1R4wax CS6_2020","B1R4wax CS6","clearcut",2020,1,4,"wax C",6,63,14.7,2020,0,"alive","alive",0,4,1500,0,0,"","alive",0,5,2300,0,1
+"81","B1R4wax CS7 clearcut","B1R4wax CS7_2019_clearcut","B1R4wax CS7_2019","B1R4wax CS7","clearcut",2019,1,4,"wax C",7,54,9.2,2019,0,"alive","alive",0,4,930,100,0,"","alive",0,4,2530,0,1
+"82","B1R4wax CS7 clearcut","B1R4wax CS7_2020_clearcut","B1R4wax CS7_2020","B1R4wax CS7","clearcut",2020,1,4,"wax C",7,54,12.9,2020,0,"alive","alive",0,3,1600,0,0,"","bad condition",0,4,2530,0,1
+"83","B1R4wax CS8 clearcut","B1R4wax CS8_2019_clearcut","B1R4wax CS8_2019","B1R4wax CS8","clearcut",2019,1,4,"wax C",8,56,13.4,2019,0,"alive","alive",0,2,950,100,0,"","alive",0,3,950,1,1
+"84","B1R4wax CS9 clearcut","B1R4wax CS9_2019_clearcut","B1R4wax CS9_2019","B1R4wax CS9","clearcut",2019,1,4,"wax C",9,43,8.9,2019,0,"alive","alive",0,2,760,100,0,"","alive",0,3,760,1,1
+"85","B1R5wax FS11 clearcut","B1R5wax FS11_2019_clearcut","B1R5wax FS11_2019","B1R5wax FS11","clearcut",2019,1,5,"wax F",11,38,12.9,2019,0,"alive","alive",0,2,1800,90,0,"","alive",0,3,1800,1,1
+"86","B1R5wax FS2 clearcut","B1R5wax FS2_2020_clearcut","B1R5wax FS2_2020","B1R5wax FS2","clearcut",2020,1,5,"wax F",2,40,8,2020,0,"alive","alive",0,2,200,0,0,"","alive",0,3,200,0,1
+"87","B1R5wax FS3 clearcut","B1R5wax FS3_2019_clearcut","B1R5wax FS3_2019","B1R5wax FS3","clearcut",2019,1,5,"wax F",3,27,5,2019,0,"alive","alive",0,4,1500,100,0,"","alive",0,5,4000,1,1
+"88","B1R5wax FS3 clearcut","B1R5wax FS3_2020_clearcut","B1R5wax FS3_2020","B1R5wax FS3","clearcut",2020,1,5,"wax F",3,0,NA,2020,2020,"Hylobius","dead",1,0,2500,0,0,"","Hylobius",1,1,4000,1,1
+"89","B1R5wax FS9 clearcut","B1R5wax FS9_2019_clearcut","B1R5wax FS9_2019","B1R5wax FS9","clearcut",2019,1,5,"wax F",9,41,7.7,2019,0,"alive","alive",0,4,310,70,0,"","alive",0,5,2010,0,1
+"90","B1R5wax FS9 clearcut","B1R5wax FS9_2020_clearcut","B1R5wax FS9_2020","B1R5wax FS9","clearcut",2020,1,5,"wax F",9,45,10,2020,0,"alive","alive",0,4,1700,0,0,"","alive",0,5,2010,0,1
+"91","B1R6glueS1 clearcut","B1R6glueS1_2020_clearcut","B1R6glueS1_2020","B1R6glueS1","clearcut",2020,1,6,"glue",1,70,15.2,2020,0,"alive","alive",0,0,40,0,0,"","alive",0,1,40,0,1
+"92","B1R6glueS10 clearcut","B1R6glueS10_2019_clearcut","B1R6glueS10_2019","B1R6glueS10","clearcut",2019,1,6,"glue",10,62,17.8,2019,0,"alive","alive",0,0,150,30,0,"","alive",0,1,150,0,1
+"93","B1R6glueS2 clearcut","B1R6glueS2_2019_clearcut","B1R6glueS2_2019","B1R6glueS2","clearcut",2019,1,6,"glue",2,37,7.4,2019,0,"alive","alive",0,0,70,50,0,"","alive",0,1,70,1,1
+"94","B1R6glueS4 clearcut","B1R6glueS4_2019_clearcut","B1R6glueS4_2019","B1R6glueS4","clearcut",2019,1,6,"glue",4,50,10.5,2019,0,"alive","alive",0,0,50,10,0,"","alive",0,1,100,0,1
+"95","B1R6glueS4 clearcut","B1R6glueS4_2020_clearcut","B1R6glueS4_2020","B1R6glueS4","clearcut",2020,1,6,"glue",4,61,14.8,2020,0,"alive","alive",0,0,50,0,0,"","alive",0,1,100,0,1
+"96","B1R6glueS5 clearcut","B1R6glueS5_2019_clearcut","B1R6glueS5_2019","B1R6glueS5","clearcut",2019,1,6,"glue",5,38,10.8,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,140,0,1
+"97","B1R6glueS5 clearcut","B1R6glueS5_2020_clearcut","B1R6glueS5_2020","B1R6glueS5","clearcut",2020,1,6,"glue",5,38,10,2020,0,"alive","alive",0,0,120,0,0,"","alive",0,1,140,0,1
+"98","B1R6glueS6 clearcut","B1R6glueS6_2019_clearcut","B1R6glueS6_2019","B1R6glueS6","clearcut",2019,1,6,"glue",6,37,8.3,2019,0,"alive","alive",0,0,80,30,0,"","alive",0,1,80,0,1
+"99","B1R6glueS9 clearcut","B1R6glueS9_2018_clearcut","B1R6glueS9_2018","B1R6glueS9","clearcut",2018,1,6,"glue",9,0,NA,2018,2018,"Hylobius","dead",1,0,215,100,0,"","Hylobius",1,1,215,1,1
+"100","B2R1wax FS1 clearcut","B2R1wax FS1_2019_clearcut","B2R1wax FS1_2019","B2R1wax FS1","clearcut",2019,2,1,"wax F",1,22,7,2019,0,"alive","alive",0,1,350,90,0,"","alive",0,2,1050,1,1
+"101","B2R1wax FS1 clearcut","B2R1wax FS1_2020_clearcut","B2R1wax FS1_2020","B2R1wax FS1","clearcut",2020,2,1,"wax F",1,0,NA,2020,2020,"Hylobius","dead",1,0,700,0,0,"","Hylobius",1,1,1050,1,1
+"102","B2R1wax FS10 clearcut","B2R1wax FS10_2019_clearcut","B2R1wax FS10_2019","B2R1wax FS10","clearcut",2019,2,1,"wax F",10,42,16.4,2019,0,"alive","alive",0,2,150,30,0,"","alive",0,3,300,0,1
+"103","B2R1wax FS10 clearcut","B2R1wax FS10_2020_clearcut","B2R1wax FS10_2020","B2R1wax FS10","clearcut",2020,2,1,"wax F",10,56,13.5,2020,0,"alive","alive",0,3,150,0,0,"","alive",0,4,300,0,1
+"104","B2R1wax FS2 clearcut","B2R1wax FS2_2019_clearcut","B2R1wax FS2_2019","B2R1wax FS2","clearcut",2019,2,1,"wax F",2,34,11.7,2019,0,"alive","alive",0,2,500,80,0,"","alive",0,3,2500,1,1
+"105","B2R1wax FS2 clearcut","B2R1wax FS2_2020_clearcut","B2R1wax FS2_2020","B2R1wax FS2","clearcut",2020,2,1,"wax F",2,0,NA,2020,2020,"Hylobius","dead",1,0,2000,0,0,"","Hylobius",1,1,2500,1,1
+"106","B2R1wax FS3 clearcut","B2R1wax FS3_2019_clearcut","B2R1wax FS3_2019","B2R1wax FS3","clearcut",2019,2,1,"wax F",3,60,11.9,2019,0,"alive","alive",0,1,1000,100,0,"","alive",0,2,2000,1,1
+"107","B2R1wax FS3 clearcut","B2R1wax FS3_2020_clearcut","B2R1wax FS3_2020","B2R1wax FS3","clearcut",2020,2,1,"wax F",3,0,NA,2020,2020,"Hylobius","dead",1,0,1000,0,0,"","Hylobius",1,1,2000,1,1
+"108","B2R1wax FS9 clearcut","B2R1wax FS9_2019_clearcut","B2R1wax FS9_2019","B2R1wax FS9","clearcut",2019,2,1,"wax F",9,42,11,2019,0,"alive","alive",0,2,800,80,0,"","alive",0,3,1500,1,1
+"109","B2R1wax FS9 clearcut","B2R1wax FS9_2020_clearcut","B2R1wax FS9_2020","B2R1wax FS9","clearcut",2020,2,1,"wax F",9,0,NA,2020,2020,"Hylobius","dead",1,0,700,0,0,"","Hylobius",1,1,1500,1,1
+"110","B2R2collarS1 clearcut","B2R2collarS1_2018_clearcut","B2R2collarS1_2018","B2R2collarS1","clearcut",2018,2,2,"collar",1,0,NA,2018,2018,"Hylobius","dead",1,0,50,50,0,"","other",1,1,50,1,1
+"111","B2R2collarS4 clearcut","B2R2collarS4_2018_clearcut","B2R2collarS4_2018","B2R2collarS4","clearcut",2018,2,2,"collar",4,37,3.8,2018,0,"alive","alive",0,0,80,50,0,"","alive",0,1,640,0,1
+"112","B2R2collarS4 clearcut","B2R2collarS4_2019_clearcut","B2R2collarS4_2019","B2R2collarS4","clearcut",2019,2,2,"collar",4,44,4.7,2019,0,"alive","alive",0,0,60,30,0,"","alive",0,1,640,0,1
+"113","B2R2collarS4 clearcut","B2R2collarS4_2020_clearcut","B2R2collarS4_2020","B2R2collarS4","clearcut",2020,2,2,"collar",4,47,8.2,2020,0,"alive","alive",0,0,500,0,0,"Z","alive",0,1,640,0,1
+"114","B2R2collarS5 clearcut","B2R2collarS5_2018_clearcut","B2R2collarS5_2018","B2R2collarS5","clearcut",2018,2,2,"collar",5,0,NA,2018,2018,"Hylastes","dead",1,0,30,20,0,"","Hylastes",1,1,30,1,1
+"115","B2R2collarS6 clearcut","B2R2collarS6_2018_clearcut","B2R2collarS6_2018","B2R2collarS6","clearcut",2018,2,2,"collar",6,0,NA,2018,2018,"Hylobius","dead",1,0,70,40,0,"","Hylobius",1,1,70,1,1
+"116","B2R2collarS8 clearcut","B2R2collarS8_2018_clearcut","B2R2collarS8_2018","B2R2collarS8","clearcut",2018,2,2,"collar",8,38,5.4,2018,0,"alive","alive",0,0,30,20,0,"","alive",0,1,150,0,1
+"117","B2R2collarS8 clearcut","B2R2collarS8_2019_clearcut","B2R2collarS8_2019","B2R2collarS8","clearcut",2019,2,2,"collar",8,46.5,8.7,2019,0,"alive","alive",0,0,120,20,0,"","alive",0,1,150,0,1
+"118","B2R2collarS9 clearcut","B2R2collarS9_2018_clearcut","B2R2collarS9_2018","B2R2collarS9","clearcut",2018,2,2,"collar",9,0,NA,2018,2018,"Hylastes","dead",1,0,20,50,0,"","Hylastes",1,1,20,1,1
+"119","B2R3glueS1 clearcut","B2R3glueS1_2019_clearcut","B2R3glueS1_2019","B2R3glueS1","clearcut",2019,2,3,"glue",1,43,7.6,2019,0,"alive","alive",0,0,50,20,0,"","alive",0,1,100,1,1
+"120","B2R3glueS1 clearcut","B2R3glueS1_2020_clearcut","B2R3glueS1_2020","B2R3glueS1","clearcut",2020,2,3,"glue",1,0,NA,2020,2020,"Hylastes","dead",1,0,50,0,0,"","Hylastes",1,1,100,1,1
+"121","B2R3glueS2 clearcut","B2R3glueS2_2019_clearcut","B2R3glueS2_2019","B2R3glueS2","clearcut",2019,2,3,"glue",2,59,11.6,2019,0,"alive","alive",0,0,90,20,0,"","alive",0,1,90,0,1
+"122","B2R3glueS3 clearcut","B2R3glueS3_2019_clearcut","B2R3glueS3_2019","B2R3glueS3","clearcut",2019,2,3,"glue",3,56,13.1,2019,0,"alive","alive",0,0,740,80,0,"","alive",0,1,740,0,1
+"123","B2R3glueS4 clearcut","B2R3glueS4_2019_clearcut","B2R3glueS4_2019","B2R3glueS4","clearcut",2019,2,3,"glue",4,37,5.9,2019,0,"alive","alive",0,0,40,10,0,"","alive",0,1,40,1,1
+"124","B2R3glueS8 clearcut","B2R3glueS8_2019_clearcut","B2R3glueS8_2019","B2R3glueS8","clearcut",2019,2,3,"glue",8,0,NA,2019,2019,"Hylobius","dead",1,0,250,50,0,"","Hylobius",1,1,250,1,1
+"125","B2R4wax CS1 clearcut","B2R4wax CS1_2018_clearcut","B2R4wax CS1_2018","B2R4wax CS1","clearcut",2018,2,4,"wax C",1,0,NA,2018,2018,"Hylobius","dead",1,1,430,0,0,"","Hylobius",1,2,430,1,1
+"126","B2R4wax CS2 clearcut","B2R4wax CS2_2019_clearcut","B2R4wax CS2_2019","B2R4wax CS2","clearcut",2019,2,4,"wax C",2,29,7.4,2019,0,"alive","alive",0,4,190,100,0,"","alive",0,5,490,1,1
+"127","B2R4wax CS2 clearcut","B2R4wax CS2_2020_clearcut","B2R4wax CS2_2020","B2R4wax CS2","clearcut",2020,2,4,"wax C",2,0,NA,2020,2020,"Hylobius","dead",1,4,300,0,0,"","Hylobius",1,5,490,1,1
+"128","B2R4wax CS3 clearcut","B2R4wax CS3_2019_clearcut","B2R4wax CS3_2019","B2R4wax CS3","clearcut",2019,2,4,"wax C",3,61,15,2019,0,"alive","alive",0,1,570,80,0,"","alive",0,2,1570,0,1
+"129","B2R4wax CS3 clearcut","B2R4wax CS3_2020_clearcut","B2R4wax CS3_2020","B2R4wax CS3","clearcut",2020,2,4,"wax C",3,67,17.2,2020,0,"alive","alive",0,2,1000,0,0,"","alive",0,3,1570,0,1
+"130","B2R4wax CS4 clearcut","B2R4wax CS4_2019_clearcut","B2R4wax CS4_2019","B2R4wax CS4","clearcut",2019,2,4,"wax C",4,56,14.3,2019,0,"alive","alive",0,4,800,100,0,"","alive",0,5,1800,0,1
+"131","B2R4wax CS4 clearcut","B2R4wax CS4_2020_clearcut","B2R4wax CS4_2020","B2R4wax CS4","clearcut",2020,2,4,"wax C",4,74,18.4,2020,0,"alive","alive",0,4,1000,0,0,"","alive",0,5,1800,0,1
+"132","B2R4wax CS7 clearcut","B2R4wax CS7_2019_clearcut","B2R4wax CS7_2019","B2R4wax CS7","clearcut",2019,2,4,"wax C",7,74,13.5,2019,0,"alive","alive",0,2,780,90,0,"","alive",0,3,980,0,1
+"133","B2R4wax CS7 clearcut","B2R4wax CS7_2020_clearcut","B2R4wax CS7_2020","B2R4wax CS7","clearcut",2020,2,4,"wax C",7,102,21.7,2020,0,"alive","alive",0,3,200,0,0,"","alive",0,4,980,0,1
+"134","B2R4wax CS8 clearcut","B2R4wax CS8_2019_clearcut","B2R4wax CS8_2019","B2R4wax CS8","clearcut",2019,2,4,"wax C",8,63,12.1,2019,0,"alive","alive",0,3,540,100,0,"","alive",0,4,540,1,1
+"135","B2R4wax CS9 clearcut","B2R4wax CS9_2019_clearcut","B2R4wax CS9_2019","B2R4wax CS9","clearcut",2019,2,4,"wax C",9,46,7.6,2019,0,"alive","alive",0,4,500,100,0,"","alive",0,5,2500,1,1
+"136","B2R4wax CS9 clearcut","B2R4wax CS9_2020_clearcut","B2R4wax CS9_2020","B2R4wax CS9","clearcut",2020,2,4,"wax C",9,0,NA,2020,2020,"Hylobius","dead",1,0,2000,0,0,"","Hylobius",1,1,2500,1,1
+"137","B2R5chemicalS2 clearcut","B2R5chemicalS2_2018_clearcut","B2R5chemicalS2_2018","B2R5chemicalS2","clearcut",2018,2,5,"chemical",2,0,NA,2018,2018,"Hylobius","dead",1,0,30,20,0,"","other",1,1,30,1,1
+"138","B2R5chemicalS3 clearcut","B2R5chemicalS3_2018_clearcut","B2R5chemicalS3_2018","B2R5chemicalS3","clearcut",2018,2,5,"chemical",3,0,NA,2018,2018,"Hylobius","dead",1,0,10,10,0,"","other",1,1,10,1,1
+"139","B2R5chemicalS4 clearcut","B2R5chemicalS4_2018_clearcut","B2R5chemicalS4_2018","B2R5chemicalS4","clearcut",2018,2,5,"chemical",4,0,NA,2018,2018,"Hylobius","dead",1,0,150,35,0,"","Hylobius",1,1,150,1,1
+"140","B2R5chemicalS5 clearcut","B2R5chemicalS5_2018_clearcut","B2R5chemicalS5_2018","B2R5chemicalS5","clearcut",2018,2,5,"chemical",5,45,6.9,2018,0,"alive","alive",0,0,35,25,0,"","alive",0,1,85,0,1
+"141","B2R5chemicalS5 clearcut","B2R5chemicalS5_2019_clearcut","B2R5chemicalS5_2019","B2R5chemicalS5","clearcut",2019,2,5,"chemical",5,50,10.1,2019,0,"alive","alive",0,0,50,10,0,"","terminal",0,1,85,0,1
+"142","B2R5chemicalS7 clearcut","B2R5chemicalS7_2018_clearcut","B2R5chemicalS7_2018","B2R5chemicalS7","clearcut",2018,2,5,"chemical",7,0,NA,2018,2018,"Hylobius","dead",1,0,90,60,0,"","Hylobius",1,1,90,1,1
+"143","B2R5chemicalS8 clearcut","B2R5chemicalS8_2018_clearcut","B2R5chemicalS8_2018","B2R5chemicalS8","clearcut",2018,2,5,"chemical",8,46,6.4,2018,0,"alive","alive",0,0,40,0,0,"","alive",0,1,40,1,1
+"144","B2R6controlS1 clearcut","B2R6controlS1_2019_clearcut","B2R6controlS1_2019","B2R6controlS1","clearcut",2019,2,6,"control",1,57,10.7,2019,0,"alive","alive",0,0,1100,100,0,"","alive",0,1,2100,0,1
+"145","B2R6controlS1 clearcut","B2R6controlS1_2020_clearcut","B2R6controlS1_2020","B2R6controlS1","clearcut",2020,2,6,"control",1,63,13.5,2020,0,"alive","alive",0,0,1000,0,0,"","alive",0,1,2100,0,1
+"146","B2R6controlS10 clearcut","B2R6controlS10_2018_clearcut","B2R6controlS10_2018","B2R6controlS10","clearcut",2018,2,6,"control",10,48,5.6,2018,0,"alive","alive",0,0,510,50,0,"","alive",0,1,2310,1,1
+"147","B2R6controlS10 clearcut","B2R6controlS10_2019_clearcut","B2R6controlS10_2019","B2R6controlS10","clearcut",2019,2,6,"control",10,53,6.3,2019,0,"alive","alive",0,0,1800,100,0,"","alive",0,1,2310,1,1
+"148","B2R6controlS2 clearcut","B2R6controlS2_2019_clearcut","B2R6controlS2_2019","B2R6controlS2","clearcut",2019,2,6,"control",2,34,5.9,2019,0,"alive","alive",0,0,50,20,0,"","alive",0,1,2050,1,1
+"149","B2R6controlS2 clearcut","B2R6controlS2_2020_clearcut","B2R6controlS2_2020","B2R6controlS2","clearcut",2020,2,6,"control",2,0,NA,2020,2020,"Hylobius","dead",1,0,2000,0,0,"","Hylobius",1,1,2050,1,1
+"150","B2R6controlS3 clearcut","B2R6controlS3_2018_clearcut","B2R6controlS3_2018","B2R6controlS3","clearcut",2018,2,6,"control",3,32,5.1,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,1950,1,1
+"151","B2R6controlS3 clearcut","B2R6controlS3_2019_clearcut","B2R6controlS3_2019","B2R6controlS3","clearcut",2019,2,6,"control",3,39,5,2019,0,"alive","alive",0,0,430,80,0,"","alive",0,1,1950,1,1
+"152","B2R6controlS3 clearcut","B2R6controlS3_2020_clearcut","B2R6controlS3_2020","B2R6controlS3","clearcut",2020,2,6,"control",3,0,NA,2020,2020,"Hylobius","dead",1,0,1500,0,0,"","Hylobius",1,1,1950,1,1
+"153","B2R6controlS4 clearcut","B2R6controlS4_2018_clearcut","B2R6controlS4_2018","B2R6controlS4","clearcut",2018,2,6,"control",4,0,NA,2018,2018,"Hylobius","dead",1,0,140,90,0,"","Hylobius",1,1,140,1,1
+"154","B2R6controlS5 clearcut","B2R6controlS5_2018_clearcut","B2R6controlS5_2018","B2R6controlS5","clearcut",2018,2,6,"control",5,0,NA,2018,2018,"Hylobius","dead",1,0,190,80,0,"","Hylobius",1,1,190,1,1
+"155","B2R6controlS6 clearcut","B2R6controlS6_2018_clearcut","B2R6controlS6_2018","B2R6controlS6","clearcut",2018,2,6,"control",6,33,5.8,2018,0,"alive","alive",0,0,1200,90,0,"","alive",0,1,1650,1,1
+"156","B2R6controlS6 clearcut","B2R6controlS6_2019_clearcut","B2R6controlS6_2019","B2R6controlS6","clearcut",2019,2,6,"control",6,0,NA,2019,2019,"Hylobius","dead",1,0,450,90,0,"","Hylobius",1,1,1650,1,1
+"157","B2R6controlS7 clearcut","B2R6controlS7_2018_clearcut","B2R6controlS7_2018","B2R6controlS7","clearcut",2018,2,6,"control",7,45,5.8,2018,0,"alive","alive",0,0,200,30,0,"","alive",0,1,1350,0,1
+"158","B2R6controlS7 clearcut","B2R6controlS7_2019_clearcut","B2R6controlS7_2019","B2R6controlS7","clearcut",2019,2,6,"control",7,31,10.1,2019,0,"alive","alive",0,0,650,100,0,"","terminal",0,1,1350,0,1
+"159","B2R6controlS7 clearcut","B2R6controlS7_2020_clearcut","B2R6controlS7_2020","B2R6controlS7","clearcut",2020,2,6,"control",7,42,10.4,2020,0,"alive","alive",0,0,500,0,0,"","alive",0,1,1350,0,1
+"160","B2R6controlS8 clearcut","B2R6controlS8_2018_clearcut","B2R6controlS8_2018","B2R6controlS8","clearcut",2018,2,6,"control",8,0,NA,2018,2018,"Hylobius","dead",1,0,200,100,0,"","Hylobius",1,1,200,1,1
+"161","B2R6controlS9 clearcut","B2R6controlS9_2018_clearcut","B2R6controlS9_2018","B2R6controlS9","clearcut",2018,2,6,"control",9,55,8.3,2018,0,"alive","alive",0,0,70,10,0,"","alive",0,1,150,0,1
+"162","B2R6controlS9 clearcut","B2R6controlS9_2019_clearcut","B2R6controlS9_2019","B2R6controlS9","clearcut",2019,2,6,"control",9,61,14.5,2019,0,"alive","alive",0,0,80,80,0,"","alive",0,1,150,0,1
+"163","B3R1glueS10 clearcut","B3R1glueS10_2018_clearcut","B3R1glueS10_2018","B3R1glueS10","clearcut",2018,3,1,"glue",10,31,7,2018,0,"alive","alive",0,0,130,30,0,"","alive",0,1,410,0,1
+"164","B3R1glueS10 clearcut","B3R1glueS10_2019_clearcut","B3R1glueS10_2019","B3R1glueS10","clearcut",2019,3,1,"glue",10,45,11.4,2019,0,"alive","alive",0,0,150,40,0,"","alive",0,1,410,0,1
+"165","B3R1glueS10 clearcut","B3R1glueS10_2020_clearcut","B3R1glueS10_2020","B3R1glueS10","clearcut",2020,3,1,"glue",10,54,19.7,2020,0,"alive","alive",0,0,130,0,0,"","alive",0,1,410,0,1
+"166","B3R1glueS3 clearcut","B3R1glueS3_2019_clearcut","B3R1glueS3_2019","B3R1glueS3","clearcut",2019,3,1,"glue",3,37,7.6,2019,0,"alive","alive",0,0,100,30,0,"","alive",0,1,400,1,1
+"167","B3R1glueS3 clearcut","B3R1glueS3_2020_clearcut","B3R1glueS3_2020","B3R1glueS3","clearcut",2020,3,1,"glue",3,0,NA,2020,2020,"Hylobius","dead",1,0,300,0,0,"","Hylobius",1,1,400,1,1
+"168","B3R1glueS4 clearcut","B3R1glueS4_2018_clearcut","B3R1glueS4_2018","B3R1glueS4","clearcut",2018,3,1,"glue",4,0,NA,2018,2018,"Hylobius","dead",1,0,110,50,0,"","Hylobius",1,1,110,1,1
+"169","B3R1glueS5 clearcut","B3R1glueS5_2018_clearcut","B3R1glueS5_2018","B3R1glueS5","clearcut",2018,3,1,"glue",5,36,5.3,2018,0,"alive","alive",0,0,160,50,0,"","alive",0,1,160,1,1
+"170","B3R1glueS7 clearcut","B3R1glueS7_2018_clearcut","B3R1glueS7_2018","B3R1glueS7","clearcut",2018,3,1,"glue",7,26,4.7,2018,0,"alive","alive",0,0,30,20,0,"","alive",0,1,180,0,1
+"171","B3R1glueS7 clearcut","B3R1glueS7_2020_clearcut","B3R1glueS7_2020","B3R1glueS7","clearcut",2020,3,1,"glue",7,62,15.9,2020,0,"alive","alive",0,0,150,0,0,"","alive",0,1,180,0,1
+"172","B3R1glueS8 clearcut","B3R1glueS8_2019_clearcut","B3R1glueS8_2019","B3R1glueS8","clearcut",2019,3,1,"glue",8,37,8.7,2019,0,"alive","alive",0,0,100,20,0,"","alive",0,1,200,0,1
+"173","B3R1glueS8 clearcut","B3R1glueS8_2020_clearcut","B3R1glueS8_2020","B3R1glueS8","clearcut",2020,3,1,"glue",8,41,12,2020,0,"alive","alive",0,0,100,0,0,"","alive",0,1,200,0,1
+"174","B3R1glueS9 clearcut","B3R1glueS9_2018_clearcut","B3R1glueS9_2018","B3R1glueS9","clearcut",2018,3,1,"glue",9,35,6.8,2018,0,"alive","alive",0,0,50,20,0,"","alive",0,1,170,0,1
+"175","B3R1glueS9 clearcut","B3R1glueS9_2019_clearcut","B3R1glueS9_2019","B3R1glueS9","clearcut",2019,3,1,"glue",9,33,10.2,2019,0,"alive","alive",0,0,50,10,0,"","alive",0,1,170,0,1
+"176","B3R1glueS9 clearcut","B3R1glueS9_2020_clearcut","B3R1glueS9_2020","B3R1glueS9","clearcut",2020,3,1,"glue",9,37,11.1,2020,0,"alive","alive",0,0,70,0,0,"","alive",0,1,170,0,1
+"177","B3R2wax CS1 clearcut","B3R2wax CS1_2019_clearcut","B3R2wax CS1_2019","B3R2wax CS1","clearcut",2019,3,2,"wax C",1,50,10.6,2019,0,"alive","alive",0,3,220,70,0,"","alive",0,4,220,0,1
+"178","B3R2wax CS10 clearcut","B3R2wax CS10_2019_clearcut","B3R2wax CS10_2019","B3R2wax CS10","clearcut",2019,3,2,"wax C",10,36,10.1,2019,0,"alive","alive",0,2,140,50,0,"","alive",0,3,1640,0,1
+"179","B3R2wax CS10 clearcut","B3R2wax CS10_2020_clearcut","B3R2wax CS10_2020","B3R2wax CS10","clearcut",2020,3,2,"wax C",10,46,10.2,2020,0,"alive","alive",0,4,1500,0,0,"","alive",0,5,1640,0,1
+"180","B3R2wax CS2 clearcut","B3R2wax CS2_2019_clearcut","B3R2wax CS2_2019","B3R2wax CS2","clearcut",2019,3,2,"wax C",2,35,8.8,2019,0,"alive","alive",0,2,260,70,0,"","alive",0,3,260,0,1
+"181","B3R2wax CS4 clearcut","B3R2wax CS4_2019_clearcut","B3R2wax CS4_2019","B3R2wax CS4","clearcut",2019,3,2,"wax C",4,47,8.8,2019,0,"alive","alive",0,3,1800,100,0,"","alive",0,4,2800,1,1
+"182","B3R2wax CS4 clearcut","B3R2wax CS4_2020_clearcut","B3R2wax CS4_2020","B3R2wax CS4","clearcut",2020,3,2,"wax C",4,0,NA,2020,2020,"Hylobius","dead",1,4,1000,0,0,"","Hylobius",1,5,2800,1,1
+"183","B3R2wax CS5 clearcut","B3R2wax CS5_2019_clearcut","B3R2wax CS5_2019","B3R2wax CS5","clearcut",2019,3,2,"wax C",5,49,10.2,2019,0,"alive","alive",0,3,640,100,0,"","alive",0,4,1840,1,1
+"184","B3R2wax CS5 clearcut","B3R2wax CS5_2020_clearcut","B3R2wax CS5_2020","B3R2wax CS5","clearcut",2020,3,2,"wax C",5,0,NA,2020,2020,"Hylobius","dead",1,4,1200,0,0,"","Hylobius",1,5,1840,1,1
+"185","B3R2wax CS7 clearcut","B3R2wax CS7_2019_clearcut","B3R2wax CS7_2019","B3R2wax CS7","clearcut",2019,3,2,"wax C",7,47,10.6,2019,0,"alive","alive",0,2,1800,100,0,"","alive",0,3,3300,1,1
+"186","B3R2wax CS7 clearcut","B3R2wax CS7_2020_clearcut","B3R2wax CS7_2020","B3R2wax CS7","clearcut",2020,3,2,"wax C",7,0,NA,2020,2020,"Hylobius","dead",1,3,1500,0,0,"","Hylobius",1,4,3300,1,1
+"187","B3R3chemicalS1 clearcut","B3R3chemicalS1_2018_clearcut","B3R3chemicalS1_2018","B3R3chemicalS1","clearcut",2018,3,3,"chemical",1,0,NA,2018,2018,"Hylobius","dead",1,0,60,80,0,"","other",1,1,60,1,1
+"188","B3R3chemicalS10 clearcut","B3R3chemicalS10_2018_clearcut","B3R3chemicalS10_2018","B3R3chemicalS10","clearcut",2018,3,3,"chemical",10,42,5.6,2018,0,"alive","alive",0,0,10,5,0,"","alive",0,1,10,0,1
+"189","B3R3chemicalS3 clearcut","B3R3chemicalS3_2018_clearcut","B3R3chemicalS3_2018","B3R3chemicalS3","clearcut",2018,3,3,"chemical",3,0,NA,2018,2018,"Hylobius","dead",1,0,50,20,0,"","other",1,1,50,1,1
+"190","B3R3chemicalS5 clearcut","B3R3chemicalS5_2018_clearcut","B3R3chemicalS5_2018","B3R3chemicalS5","clearcut",2018,3,3,"chemical",5,0,NA,2018,2018,"Hylobius","dead",1,0,100,90,0,"","Hylobius",1,1,100,1,1
+"191","B3R3chemicalS6 clearcut","B3R3chemicalS6_2019_clearcut","B3R3chemicalS6_2019","B3R3chemicalS6","clearcut",2019,3,3,"chemical",6,41,10.1,2019,0,"alive","alive",0,0,10,10,0,"","alive",0,1,30,0,1
+"192","B3R3chemicalS6 clearcut","B3R3chemicalS6_2020_clearcut","B3R3chemicalS6_2020","B3R3chemicalS6","clearcut",2020,3,3,"chemical",6,56,17.9,2020,0,"alive","alive",0,0,20,0,0,"","alive",0,1,30,0,1
+"193","B3R3chemicalS7 clearcut","B3R3chemicalS7_2019_clearcut","B3R3chemicalS7_2019","B3R3chemicalS7","clearcut",2019,3,3,"chemical",7,51,11.3,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,20,0,1
+"194","B3R3chemicalS8 clearcut","B3R3chemicalS8_2019_clearcut","B3R3chemicalS8_2019","B3R3chemicalS8","clearcut",2019,3,3,"chemical",8,51,9.3,2019,0,"alive","alive",0,0,40,10,0,"","alive",0,1,40,0,1
+"195","B3R3chemicalS9 clearcut","B3R3chemicalS9_2019_clearcut","B3R3chemicalS9_2019","B3R3chemicalS9","clearcut",2019,3,3,"chemical",9,42,8.9,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,20,0,1
+"196","B3R4collarS1 clearcut","B3R4collarS1_2018_clearcut","B3R4collarS1_2018","B3R4collarS1","clearcut",2018,3,4,"collar",1,0,NA,2018,2018,"Hylobius","dead",1,0,350,0,0,"","Hylobius",1,1,350,1,1
+"197","B3R4collarS11 clearcut","B3R4collarS11_2018_clearcut","B3R4collarS11_2018","B3R4collarS11","clearcut",2018,3,4,"collar",11,0,NA,2018,2018,"Hylobius","dead",1,0,80,50,0,"","Hylobius",1,1,80,1,1
+"198","B3R4collarS2 clearcut","B3R4collarS2_2018_clearcut","B3R4collarS2_2018","B3R4collarS2","clearcut",2018,3,4,"collar",2,19,27,2018,0,"alive","alive",0,0,10,10,0,"VG","alive",0,1,10,0,1
+"199","B3R4collarS4 clearcut","B3R4collarS4_2020_clearcut","B3R4collarS4_2020","B3R4collarS4","clearcut",2020,3,4,"collar",4,50,11.3,2020,0,"alive","alive",0,0,250,0,0,"Z","alive",0,1,250,0,1
+"200","B3R4collarS8 clearcut","B3R4collarS8_2020_clearcut","B3R4collarS8_2020","B3R4collarS8","clearcut",2020,3,4,"collar",8,60,14.5,2020,0,"alive","alive",0,0,260,0,0,"Z","alive",0,1,260,0,1
+"201","B3R4collarS9 clearcut","B3R4collarS9_2019_clearcut","B3R4collarS9_2019","B3R4collarS9","clearcut",2019,3,4,"collar",9,37,8.5,2019,0,"alive","alive",0,0,600,50,0,"","alive",0,1,600,1,1
+"202","B3R5wax FS1 clearcut","B3R5wax FS1_2019_clearcut","B3R5wax FS1_2019","B3R5wax FS1","clearcut",2019,3,5,"wax F",1,64,11.9,2019,0,"alive","alive",0,2,120,10,0,"","alive",0,3,120,0,1
+"203","B3R5wax FS2 clearcut","B3R5wax FS2_2019_clearcut","B3R5wax FS2_2019","B3R5wax FS2","clearcut",2019,3,5,"wax F",2,34,4.9,2019,0,"alive","alive",0,4,250,100,0,"","alive",0,5,250,1,1
+"204","B3R5wax FS6 clearcut","B3R5wax FS6_2019_clearcut","B3R5wax FS6_2019","B3R5wax FS6","clearcut",2019,3,5,"wax F",6,46,9.4,2019,0,"alive","alive",0,2,240,60,0,"","alive",0,3,340,0,1
+"205","B3R5wax FS6 clearcut","B3R5wax FS6_2020_clearcut","B3R5wax FS6_2020","B3R5wax FS6","clearcut",2020,3,5,"wax F",6,40,12.2,2020,0,"alive","alive",0,4,100,0,0,"","alive",0,5,340,0,1
+"206","B3R5wax FS7 clearcut","B3R5wax FS7_2019_clearcut","B3R5wax FS7_2019","B3R5wax FS7","clearcut",2019,3,5,"wax F",7,61,14,2019,0,"alive","alive",0,2,130,20,0,"","alive",0,3,130,0,1
+"207","B3R6controlS4 clearcut","B3R6controlS4_2019_clearcut","B3R6controlS4_2019","B3R6controlS4","clearcut",2019,3,6,"control",4,48,9,2019,0,"alive","alive",0,0,80,40,0,"","alive",0,1,130,0,1
+"208","B3R6controlS4 clearcut","B3R6controlS4_2020_clearcut","B3R6controlS4_2020","B3R6controlS4","clearcut",2020,3,6,"control",4,57,14.1,2020,0,"alive","alive",0,0,50,0,0,"","alive",0,1,130,0,1
+"209","B3R6controlS5 clearcut","B3R6controlS5_2018_clearcut","B3R6controlS5_2018","B3R6controlS5","clearcut",2018,3,6,"control",5,0,NA,2018,2018,"Hylobius","dead",1,0,300,100,0,"","Hylobius",1,1,300,1,1
+"210","B3R6controlS6 clearcut","B3R6controlS6_2018_clearcut","B3R6controlS6_2018","B3R6controlS6","clearcut",2018,3,6,"control",6,18,4.5,2018,0,"alive","alive",0,0,50,10,0,"","alive",0,1,50,0,1
+"211","B3R6controlS8 clearcut","B3R6controlS8_2019_clearcut","B3R6controlS8_2019","B3R6controlS8","clearcut",2019,3,6,"control",8,41,4.6,2019,0,"alive","alive",0,0,90,30,0,"","alive",0,1,230,1,1
+"212","B3R6controlS8 clearcut","B3R6controlS8_2020_clearcut","B3R6controlS8_2020","B3R6controlS8","clearcut",2020,3,6,"control",8,0,NA,2020,2020,"Hylobius","dead",1,0,140,0,0,"","Hylobius",1,1,230,1,1
+"213","B3R6controlS9 clearcut","B3R6controlS9_2018_clearcut","B3R6controlS9_2018","B3R6controlS9","clearcut",2018,3,6,"control",9,0,NA,2018,2018,"Hylobius","dead",1,0,650,100,0,"","Hylobius",1,1,650,1,1
+"214","B4R1wax CS4 clearcut","B4R1wax CS4_2019_clearcut","B4R1wax CS4_2019","B4R1wax CS4","clearcut",2019,4,1,"wax C",4,53,9.6,2019,0,"alive","alive",0,2,100,20,0,"","alive",0,3,600,0,1
+"215","B4R1wax CS4 clearcut","B4R1wax CS4_2020_clearcut","B4R1wax CS4_2020","B4R1wax CS4","clearcut",2020,4,1,"wax C",4,74,15.7,2020,0,"alive","alive",0,3,500,0,0,"","alive",0,4,600,0,1
+"216","B4R1wax CS6 clearcut","B4R1wax CS6_2020_clearcut","B4R1wax CS6_2020","B4R1wax CS6","clearcut",2020,4,1,"wax C",6,85,14.4,2020,0,"alive","alive",0,0,20,0,0,"","alive",0,2,20,0,1
+"217","B4R1wax CS8 clearcut","B4R1wax CS8_2019_clearcut","B4R1wax CS8_2019","B4R1wax CS8","clearcut",2019,4,1,"wax C",8,60,10,2019,0,"alive","alive",0,2,150,30,0,"","alive",0,3,150,0,1
+"218","B4R2wax FS1 clearcut","B4R2wax FS1_2019_clearcut","B4R2wax FS1_2019","B4R2wax FS1","clearcut",2019,4,2,"wax F",1,35,12.3,2019,0,"alive","alive",0,3,250,60,0,"","alive",0,4,250,0,1
+"219","B4R2wax FS10 clearcut","B4R2wax FS10_2019_clearcut","B4R2wax FS10_2019","B4R2wax FS10","clearcut",2019,4,2,"wax F",10,30,5.4,2019,0,"alive","alive",0,0,450,100,0,"","alive",0,1,950,1,1
+"220","B4R2wax FS10 clearcut","B4R2wax FS10_2020_clearcut","B4R2wax FS10_2020","B4R2wax FS10","clearcut",2020,4,2,"wax F",10,0,NA,2020,2020,"Hylobius","dead",1,0,500,0,0,"","Hylobius",1,1,950,1,1
+"221","B4R2wax FS3 clearcut","B4R2wax FS3_2019_clearcut","B4R2wax FS3_2019","B4R2wax FS3","clearcut",2019,4,2,"wax F",3,46,9.4,2019,0,"alive","alive",0,1,290,70,0,"","alive",0,3,540,0,1
+"222","B4R2wax FS3 clearcut","B4R2wax FS3_2020_clearcut","B4R2wax FS3_2020","B4R2wax FS3","clearcut",2020,4,2,"wax F",3,46,11.7,2020,0,"alive","alive",0,4,250,0,0,"","alive",0,5,540,0,1
+"223","B4R2wax FS4 clearcut","B4R2wax FS4_2018_clearcut","B4R2wax FS4_2018","B4R2wax FS4","clearcut",2018,4,2,"wax F",4,33,6.9,2018,0,"alive","alive",0,1,60,30,0,"","alive",0,2,910,0,1
+"224","B4R2wax FS4 clearcut","B4R2wax FS4_2019_clearcut","B4R2wax FS4_2019","B4R2wax FS4","clearcut",2019,4,2,"wax F",4,42,9.4,2019,0,"alive","alive",0,4,450,80,0,"","alive",0,5,910,0,1
+"225","B4R2wax FS4 clearcut","B4R2wax FS4_2020_clearcut","B4R2wax FS4_2020","B4R2wax FS4","clearcut",2020,4,2,"wax F",4,42,10.7,2020,0,"alive","alive",0,4,400,0,0,"","alive",0,5,910,0,1
+"226","B4R2wax FS7 clearcut","B4R2wax FS7_2019_clearcut","B4R2wax FS7_2019","B4R2wax FS7","clearcut",2019,4,2,"wax F",7,32,8.7,2019,0,"alive","alive",0,2,70,30,0,"","alive",0,3,70,0,1
+"227","B4R2wax FS8 clearcut","B4R2wax FS8_2019_clearcut","B4R2wax FS8_2019","B4R2wax FS8","clearcut",2019,4,2,"wax F",8,37,7.8,2019,0,"alive","alive",0,4,140,30,0,"","alive",0,5,340,0,1
+"228","B4R2wax FS8 clearcut","B4R2wax FS8_2020_clearcut","B4R2wax FS8_2020","B4R2wax FS8","clearcut",2020,4,2,"wax F",8,37,12.7,2020,0,"alive","alive",0,4,200,0,0,"","alive",0,5,340,0,1
+"229","B4R2wax FS9 clearcut","B4R2wax FS9_2019_clearcut","B4R2wax FS9_2019","B4R2wax FS9","clearcut",2019,4,2,"wax F",9,31,9,2019,0,"alive","alive",0,4,320,80,0,"","alive",0,5,820,1,1
+"230","B4R2wax FS9 clearcut","B4R2wax FS9_2020_clearcut","B4R2wax FS9_2020","B4R2wax FS9","clearcut",2020,4,2,"wax F",9,0,NA,2020,2020,"Hylobius","dead",1,3,500,0,0,"","Hylobius",1,4,820,1,1
+"231","B4R3glueS1 clearcut","B4R3glueS1_2019_clearcut","B4R3glueS1_2019","B4R3glueS1","clearcut",2019,4,3,"glue",1,33,8.3,2019,0,"alive","alive",0,0,350,100,0,"","alive",0,1,690,1,1
+"232","B4R3glueS1 clearcut","B4R3glueS1_2020_clearcut","B4R3glueS1_2020","B4R3glueS1","clearcut",2020,4,3,"glue",1,0,NA,2020,2020,"Hylobius","dead",1,0,340,0,0,"","Hylobius",1,1,690,1,1
+"233","B4R3glueS10 clearcut","B4R3glueS10_2020_clearcut","B4R3glueS10_2020","B4R3glueS10","clearcut",2020,4,3,"glue",10,38,9.1,2020,0,"alive","alive",0,0,30,0,0,"","alive",0,1,30,0,1
+"234","B4R3glueS2 clearcut","B4R3glueS2_2019_clearcut","B4R3glueS2_2019","B4R3glueS2","clearcut",2019,4,3,"glue",2,64,13,2019,0,"alive","alive",0,0,150,50,0,"","alive",0,1,520,0,1
+"235","B4R3glueS2 clearcut","B4R3glueS2_2020_clearcut","B4R3glueS2_2020","B4R3glueS2","clearcut",2020,4,3,"glue",2,80,20.6,2020,0,"alive","alive",0,0,370,0,0,"","alive",0,1,520,0,1
+"236","B4R3glueS3 clearcut","B4R3glueS3_2019_clearcut","B4R3glueS3_2019","B4R3glueS3","clearcut",2019,4,3,"glue",3,45,9.1,2019,0,"alive","alive",0,0,130,40,0,"","alive",0,1,270,0,1
+"237","B4R3glueS3 clearcut","B4R3glueS3_2020_clearcut","B4R3glueS3_2020","B4R3glueS3","clearcut",2020,4,3,"glue",3,50,14,2020,0,"alive","alive",0,0,140,0,0,"","alive",0,1,270,0,1
+"238","B4R3glueS4 clearcut","B4R3glueS4_2019_clearcut","B4R3glueS4_2019","B4R3glueS4","clearcut",2019,4,3,"glue",4,47,10.4,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,130,0,1
+"239","B4R3glueS4 clearcut","B4R3glueS4_2020_clearcut","B4R3glueS4_2020","B4R3glueS4","clearcut",2020,4,3,"glue",4,59,15.8,2020,0,"alive","alive",0,0,110,0,0,"","alive",0,1,130,0,1
+"240","B4R3glueS5 clearcut","B4R3glueS5_2019_clearcut","B4R3glueS5_2019","B4R3glueS5","clearcut",2019,4,3,"glue",5,39,8,2019,0,"alive","alive",0,0,10,10,0,"","alive",0,1,10,0,1
+"241","B4R3glueS6 clearcut","B4R3glueS6_2019_clearcut","B4R3glueS6_2019","B4R3glueS6","clearcut",2019,4,3,"glue",6,45,10.8,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,20,0,1
+"242","B4R3glueS7 clearcut","B4R3glueS7_2019_clearcut","B4R3glueS7_2019","B4R3glueS7","clearcut",2019,4,3,"glue",7,43,13,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,170,0,1
+"243","B4R3glueS7 clearcut","B4R3glueS7_2020_clearcut","B4R3glueS7_2020","B4R3glueS7","clearcut",2020,4,3,"glue",7,52,15.2,2020,0,"alive","alive",0,0,150,0,0,"","alive",0,1,170,0,1
+"244","B4R3glueS8 clearcut","B4R3glueS8_2020_clearcut","B4R3glueS8_2020","B4R3glueS8","clearcut",2020,4,3,"glue",8,51,10.6,2020,0,"alive","alive",0,0,50,0,0,"","alive",0,1,50,0,1
+"245","B4R4chemicalS1 clearcut","B4R4chemicalS1_2018_clearcut","B4R4chemicalS1_2018","B4R4chemicalS1","clearcut",2018,4,4,"chemical",1,38,5.3,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,20,1,1
+"246","B4R4chemicalS10 clearcut","B4R4chemicalS10_2019_clearcut","B4R4chemicalS10_2019","B4R4chemicalS10","clearcut",2019,4,4,"chemical",10,32,8.6,2019,0,"alive","alive",0,0,80,20,0,"","alive",0,1,80,0,1
+"247","B4R4chemicalS3 clearcut","B4R4chemicalS3_2018_clearcut","B4R4chemicalS3_2018","B4R4chemicalS3","clearcut",2018,4,4,"chemical",3,36,5.8,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,10,0,1
+"248","B4R4chemicalS4 clearcut","B4R4chemicalS4_2018_clearcut","B4R4chemicalS4_2018","B4R4chemicalS4","clearcut",2018,4,4,"chemical",4,42,6.9,2018,0,"alive","alive",0,0,25,20,0,"","alive",0,1,25,0,1
+"249","B4R4chemicalS5 clearcut","B4R4chemicalS5_2018_clearcut","B4R4chemicalS5_2018","B4R4chemicalS5","clearcut",2018,4,4,"chemical",5,32,5.6,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,10,0,1
+"250","B4R4chemicalS7 clearcut","B4R4chemicalS7_2018_clearcut","B4R4chemicalS7_2018","B4R4chemicalS7","clearcut",2018,4,4,"chemical",7,41,7,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,30,0,1
+"251","B4R4chemicalS7 clearcut","B4R4chemicalS7_2019_clearcut","B4R4chemicalS7_2019","B4R4chemicalS7","clearcut",2019,4,4,"chemical",7,43,7.7,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,30,0,1
+"252","B4R4chemicalS9 clearcut","B4R4chemicalS9_2018_clearcut","B4R4chemicalS9_2018","B4R4chemicalS9","clearcut",2018,4,4,"chemical",9,60,8.4,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,10,0,1
+"253","B4R5controlS1 clearcut","B4R5controlS1_2018_clearcut","B4R5controlS1_2018","B4R5controlS1","clearcut",2018,4,5,"control",1,45,6.7,2018,0,"alive","alive",0,0,360,80,0,"","alive",0,1,1900,1,1
+"254","B4R5controlS1 clearcut","B4R5controlS1_2019_clearcut","B4R5controlS1_2019","B4R5controlS1","clearcut",2019,4,5,"control",1,50,7.8,2019,0,"alive","alive",0,0,540,100,0,"","alive",0,1,1900,1,1
+"255","B4R5controlS1 clearcut","B4R5controlS1_2020_clearcut","B4R5controlS1_2020","B4R5controlS1","clearcut",2020,4,5,"control",1,0,NA,2020,2020,"Hylobius","dead",1,0,1000,0,0,"","Hylobius",1,1,1900,1,1
+"256","B4R5controlS10 clearcut","B4R5controlS10_2018_clearcut","B4R5controlS10_2018","B4R5controlS10","clearcut",2018,4,5,"control",10,42,7.9,2018,0,"alive","alive",0,0,210,60,0,"","alive",0,1,290,0,1
+"257","B4R5controlS10 clearcut","B4R5controlS10_2019_clearcut","B4R5controlS10_2019","B4R5controlS10","clearcut",2019,4,5,"control",10,45,10.2,2019,0,"alive","alive",0,0,80,20,0,"","alive",0,1,290,0,1
+"258","B4R5controlS2 clearcut","B4R5controlS2_2019_clearcut","B4R5controlS2_2019","B4R5controlS2","clearcut",2019,4,5,"control",2,49,10.5,2019,0,"alive","alive",0,0,680,100,0,"","alive",0,1,680,1,1
+"259","B4R5controlS3 clearcut","B4R5controlS3_2019_clearcut","B4R5controlS3_2019","B4R5controlS3","clearcut",2019,4,5,"control",3,70,12.9,2019,0,"alive","alive",0,0,290,80,0,"","alive",0,1,290,0,1
+"260","B4R5controlS4 clearcut","B4R5controlS4_2018_clearcut","B4R5controlS4_2018","B4R5controlS4","clearcut",2018,4,5,"control",4,65,9.8,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,770,0,1
+"261","B4R5controlS4 clearcut","B4R5controlS4_2019_clearcut","B4R5controlS4_2019","B4R5controlS4","clearcut",2019,4,5,"control",4,35,6.5,2019,0,"alive","alive",0,0,650,100,0,"","alive",0,1,770,0,1
+"262","B4R5controlS4 clearcut","B4R5controlS4_2020_clearcut","B4R5controlS4_2020","B4R5controlS4","clearcut",2020,4,5,"control",4,46,9.5,2020,0,"alive","alive",0,0,100,0,0,"","alive",0,1,770,0,1
+"263","B4R5controlS5 clearcut","B4R5controlS5_2018_clearcut","B4R5controlS5_2018","B4R5controlS5","clearcut",2018,4,5,"control",5,30,4.5,2018,0,"alive","alive",0,0,5,10,0,"","alive",0,1,845,1,1
+"264","B4R5controlS5 clearcut","B4R5controlS5_2019_clearcut","B4R5controlS5_2019","B4R5controlS5","clearcut",2019,4,5,"control",5,35,7.5,2019,0,"alive","alive",0,0,840,100,0,"","alive",0,1,845,1,1
+"265","B4R5controlS6 clearcut","B4R5controlS6_2018_clearcut","B4R5controlS6_2018","B4R5controlS6","clearcut",2018,4,5,"control",6,32,4.9,2018,0,"alive","alive",0,0,30,20,0,"","alive",0,1,30,0,1
+"266","B4R5controlS9 clearcut","B4R5controlS9_2018_clearcut","B4R5controlS9_2018","B4R5controlS9","clearcut",2018,4,5,"control",9,50,2.7,2018,0,"alive","alive",0,0,5,5,0,"","alive",0,1,275,0,1
+"267","B4R5controlS9 clearcut","B4R5controlS9_2019_clearcut","B4R5controlS9_2019","B4R5controlS9","clearcut",2019,4,5,"control",9,62,14.6,2019,0,"alive","alive",0,0,270,50,0,"","alive",0,1,275,0,1
+"268","B4R6collarS1 clearcut","B4R6collarS1_2019_clearcut","B4R6collarS1_2019","B4R6collarS1","clearcut",2019,4,6,"collar",1,32,5.2,2019,0,"alive","alive",0,0,320,100,0,"","alive",0,1,320,1,1
+"269","B4R6collarS10 clearcut","B4R6collarS10_2019_clearcut","B4R6collarS10_2019","B4R6collarS10","clearcut",2019,4,6,"collar",10,35,7.1,2019,0,"alive","alive",0,0,110,50,0,"G chýba","alive",0,1,110,0,1
+"270","B4R6collarS2 clearcut","B4R6collarS2_2019_clearcut","B4R6collarS2_2019","B4R6collarS2","clearcut",2019,4,6,"collar",2,0,NA,2019,2019,"Hylastes","dead",1,0,60,30,0,"","Hylastes",1,1,60,1,1
+"271","B4R6collarS3 clearcut","B4R6collarS3_2019_clearcut","B4R6collarS3_2019","B4R6collarS3","clearcut",2019,4,6,"collar",3,46,12.6,2019,0,"alive","alive",0,0,350,50,0,"","alive",0,1,350,0,1
+"272","B4R6collarS5 clearcut","B4R6collarS5_2019_clearcut","B4R6collarS5_2019","B4R6collarS5","clearcut",2019,4,6,"collar",5,39,6.8,2019,0,"alive","alive",0,0,90,40,0,"","alive",0,1,130,0,1
+"273","B4R6collarS5 clearcut","B4R6collarS5_2020_clearcut","B4R6collarS5_2020","B4R6collarS5","clearcut",2020,4,6,"collar",5,48,10.2,2020,0,"alive","alive",0,0,40,0,0,"Z","alive",0,1,130,0,1
+"274","B4R6collarS7 clearcut","B4R6collarS7_2019_clearcut","B4R6collarS7_2019","B4R6collarS7","clearcut",2019,4,6,"collar",7,52,11.7,2019,0,"alive","alive",0,0,350,90,0,"","alive",0,1,500,0,1
+"275","B4R6collarS7 clearcut","B4R6collarS7_2020_clearcut","B4R6collarS7_2020","B4R6collarS7","clearcut",2020,4,6,"collar",7,50,11.4,2020,0,"alive","alive",0,0,150,0,0,"Z","alive",0,1,500,0,1
+"276","B4R6collarS8 clearcut","B4R6collarS8_2019_clearcut","B4R6collarS8_2019","B4R6collarS8","clearcut",2019,4,6,"collar",8,47,8.7,2019,0,"alive","alive",0,0,420,80,0,"","alive",0,1,1120,0,1
+"277","B4R6collarS8 clearcut","B4R6collarS8_2020_clearcut","B4R6collarS8_2020","B4R6collarS8","clearcut",2020,4,6,"collar",8,58,10.4,2020,0,"alive","alive",0,0,700,0,0,"Z","alive",0,1,1120,0,1
+"278","B5R1chemicalS1 clearcut","B5R1chemicalS1_2018_clearcut","B5R1chemicalS1_2018","B5R1chemicalS1","clearcut",2018,5,1,"chemical",1,34,6.4,2018,0,"alive","alive",0,0,30,20,0,"","alive",0,1,30,0,1
+"279","B5R1chemicalS10 clearcut","B5R1chemicalS10_2018_clearcut","B5R1chemicalS10_2018","B5R1chemicalS10","clearcut",2018,5,1,"chemical",10,41,6.5,2018,0,"alive","alive",0,0,180,80,0,"","terminal",0,1,280,1,1
+"280","B5R1chemicalS10 clearcut","B5R1chemicalS10_2019_clearcut","B5R1chemicalS10_2019","B5R1chemicalS10","clearcut",2019,5,1,"chemical",10,0,NA,2019,2019,"Hylobius","dead",1,0,100,100,0,"","Hylobius",1,1,280,1,1
+"281","B5R1chemicalS3 clearcut","B5R1chemicalS3_2018_clearcut","B5R1chemicalS3_2018","B5R1chemicalS3","clearcut",2018,5,1,"chemical",3,0,NA,2018,2018,"Hylobius","dead",1,0,50,20,0,"","other",1,1,50,1,1
+"282","B5R1chemicalS4 clearcut","B5R1chemicalS4_2018_clearcut","B5R1chemicalS4_2018","B5R1chemicalS4","clearcut",2018,5,1,"chemical",4,26,5.7,2018,0,"alive","alive",0,0,30,20,0,"","alive",0,1,30,0,1
+"283","B5R1chemicalS9 clearcut","B5R1chemicalS9_2019_clearcut","B5R1chemicalS9_2019","B5R1chemicalS9","clearcut",2019,5,1,"chemical",9,26,5.8,2019,0,"alive","alive",0,0,100,30,0,"","alive",0,1,100,0,1
+"284","B5R2collarS10 clearcut","B5R2collarS10_2018_clearcut","B5R2collarS10_2018","B5R2collarS10","clearcut",2018,5,2,"collar",10,0,NA,2018,2018,"Hylobius","dead",1,0,80,50,0,"","Hylobius",1,1,80,1,1
+"285","B5R2collarS2 clearcut","B5R2collarS2_2018_clearcut","B5R2collarS2_2018","B5R2collarS2","clearcut",2018,5,2,"collar",2,55,9.7,2018,0,"alive","alive",0,0,60,60,0,"","alive",0,1,340,0,1
+"286","B5R2collarS2 clearcut","B5R2collarS2_2019_clearcut","B5R2collarS2_2019","B5R2collarS2","clearcut",2019,5,2,"collar",2,59,9.3,2019,0,"alive","alive",0,0,180,100,0,"","alive",0,1,340,0,1
+"287","B5R2collarS2 clearcut","B5R2collarS2_2020_clearcut","B5R2collarS2_2020","B5R2collarS2","clearcut",2020,5,2,"collar",2,44,10.5,2020,0,"alive","alive",0,0,100,0,0,"Z","terminal",0,1,340,0,1
+"288","B5R2collarS5 clearcut","B5R2collarS5_2019_clearcut","B5R2collarS5_2019","B5R2collarS5","clearcut",2019,5,2,"collar",5,33,5.5,2019,0,"alive","alive",0,0,730,100,0,"","alive",0,1,2230,1,1
+"289","B5R2collarS5 clearcut","B5R2collarS5_2020_clearcut","B5R2collarS5_2020","B5R2collarS5","clearcut",2020,5,2,"collar",5,0,NA,2020,2020,"Hylobius","dead",1,0,1500,0,0,"Z","Hylobius",1,1,2230,1,1
+"290","B5R2collarS6 clearcut","B5R2collarS6_2018_clearcut","B5R2collarS6_2018","B5R2collarS6","clearcut",2018,5,2,"collar",6,0,NA,2018,2018,"Hylobius","dead",1,0,40,40,0,"","other",1,1,40,1,1
+"291","B5R2collarS8 clearcut","B5R2collarS8_2018_clearcut","B5R2collarS8_2018","B5R2collarS8","clearcut",2018,5,2,"collar",8,0,NA,2018,2018,"Hylobius","dead",1,0,70,100,0,"","Hylobius",1,1,70,1,1
+"292","B5R2collarS9 clearcut","B5R2collarS9_2018_clearcut","B5R2collarS9_2018","B5R2collarS9","clearcut",2018,5,2,"collar",9,0,NA,2018,2018,"Hylobius","dead",1,0,20,20,0,"","other",1,1,20,1,1
+"293","B5R3controlS1 clearcut","B5R3controlS1_2018_clearcut","B5R3controlS1_2018","B5R3controlS1","clearcut",2018,5,3,"control",1,41,6.6,2018,0,"alive","alive",0,0,800,80,0,"","alive",0,1,800,1,1
+"294","B5R3controlS11 clearcut","B5R3controlS11_2018_clearcut","B5R3controlS11_2018","B5R3controlS11","clearcut",2018,5,3,"control",11,0,NA,2018,2018,"Hylobius","dead",1,0,250,100,0,"","Hylobius",1,1,250,1,1
+"295","B5R3controlS2 clearcut","B5R3controlS2_2018_clearcut","B5R3controlS2_2018","B5R3controlS2","clearcut",2018,5,3,"control",2,0,NA,2018,2018,"Hylobius","dead",1,0,1500,100,0,"","Hylobius",1,1,1500,1,1
+"296","B5R3controlS3 clearcut","B5R3controlS3_2018_clearcut","B5R3controlS3_2018","B5R3controlS3","clearcut",2018,5,3,"control",3,0,NA,2018,2018,"Hylastes","dead",1,0,20,10,0,"","Hylastes",1,1,20,1,1
+"297","B5R3controlS5 clearcut","B5R3controlS5_2018_clearcut","B5R3controlS5_2018","B5R3controlS5","clearcut",2018,5,3,"control",5,0,NA,2018,2018,"Hylobius","dead",1,0,150,50,0,"","Hylobius",1,1,150,1,1
+"298","B5R3controlS7 clearcut","B5R3controlS7_2018_clearcut","B5R3controlS7_2018","B5R3controlS7","clearcut",2018,5,3,"control",7,0,NA,2018,2018,"Hylobius","dead",1,0,180,60,0,"","Hylobius",1,1,180,1,1
+"299","B5R4wax FS1 clearcut","B5R4wax FS1_2019_clearcut","B5R4wax FS1_2019","B5R4wax FS1","clearcut",2019,5,4,"wax F",1,34,8.9,2019,0,"alive","alive",0,1,20,10,0,"","alive",0,2,20,0,1
+"300","B5R4wax FS2 clearcut","B5R4wax FS2_2019_clearcut","B5R4wax FS2_2019","B5R4wax FS2","clearcut",2019,5,4,"wax F",2,41,6.4,2019,0,"alive","alive",0,4,1000,100,0,"","alive",0,5,1800,1,1
+"301","B5R4wax FS2 clearcut","B5R4wax FS2_2020_clearcut","B5R4wax FS2_2020","B5R4wax FS2","clearcut",2020,5,4,"wax F",2,0,NA,2020,2020,"Hylobius","dead",1,4,800,0,0,"","Hylobius",1,5,1800,1,1
+"302","B5R4wax FS4 clearcut","B5R4wax FS4_2019_clearcut","B5R4wax FS4_2019","B5R4wax FS4","clearcut",2019,5,4,"wax F",4,36,6.9,2019,0,"alive","alive",0,2,20,10,0,"","alive",0,3,320,1,1
+"303","B5R4wax FS4 clearcut","B5R4wax FS4_2020_clearcut","B5R4wax FS4_2020","B5R4wax FS4","clearcut",2020,5,4,"wax F",4,0,NA,2020,2020,"Hylobius","dead",1,0,300,0,0,"","Hylobius",1,1,320,1,1
+"304","B5R4wax FS5 clearcut","B5R4wax FS5_2018_clearcut","B5R4wax FS5_2018","B5R4wax FS5","clearcut",2018,5,4,"wax F",5,35,4.3,2018,0,"alive","alive",0,2,30,20,0,"","alive",0,3,1150,0,1
+"305","B5R4wax FS5 clearcut","B5R4wax FS5_2019_clearcut","B5R4wax FS5_2019","B5R4wax FS5","clearcut",2019,5,4,"wax F",5,60,11.3,2019,0,"alive","alive",0,1,120,20,0,"","alive",0,3,1150,0,1
+"306","B5R4wax FS5 clearcut","B5R4wax FS5_2020_clearcut","B5R4wax FS5_2020","B5R4wax FS5","clearcut",2020,5,4,"wax F",5,69,16.4,2020,0,"alive","alive",0,3,1000,0,0,"","alive",0,4,1150,0,1
+"307","B5R4wax FS7 clearcut","B5R4wax FS7_2019_clearcut","B5R4wax FS7_2019","B5R4wax FS7","clearcut",2019,5,4,"wax F",7,24,8.9,2019,0,"alive","alive",0,3,600,100,0,"","alive",0,4,700,1,1
+"308","B5R4wax FS7 clearcut","B5R4wax FS7_2020_clearcut","B5R4wax FS7_2020","B5R4wax FS7","clearcut",2020,5,4,"wax F",7,0,NA,2020,2020,"Hylobius","dead",1,4,100,0,0,"","Hylobius",1,5,700,1,1
+"309","B5R4wax FS9 clearcut","B5R4wax FS9_2019_clearcut","B5R4wax FS9_2019","B5R4wax FS9","clearcut",2019,5,4,"wax F",9,27,8.9,2019,0,"alive","alive",0,3,150,70,0,"","alive",0,4,220,1,1
+"310","B5R4wax FS9 clearcut","B5R4wax FS9_2020_clearcut","B5R4wax FS9_2020","B5R4wax FS9","clearcut",2020,5,4,"wax F",9,0,NA,2020,2020,"Hylobius","dead",1,0,70,0,0,"","Hylobius",1,1,220,1,1
+"311","B5R5glueS1 clearcut","B5R5glueS1_2019_clearcut","B5R5glueS1_2019","B5R5glueS1","clearcut",2019,5,5,"glue",1,36,7.8,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,20,0,1
+"312","B5R5glueS8 clearcut","B5R5glueS8_2019_clearcut","B5R5glueS8_2019","B5R5glueS8","clearcut",2019,5,5,"glue",8,55,15.3,2019,0,"alive","alive",0,0,90,30,0,"","alive",0,1,90,0,1
+"313","B5R6wax CS1 clearcut","B5R6wax CS1_2019_clearcut","B5R6wax CS1_2019","B5R6wax CS1","clearcut",2019,5,6,"wax C",1,34,5.7,2019,0,"alive","alive",0,2,80,70,0,"","alive",0,3,270,1,1
+"314","B5R6wax CS1 clearcut","B5R6wax CS1_2020_clearcut","B5R6wax CS1_2020","B5R6wax CS1","clearcut",2020,5,6,"wax C",1,0,NA,2020,2020,"Hylobius","dead",1,2,190,0,0,"","Hylobius",1,3,270,1,1
+"315","B5R6wax CS5 clearcut","B5R6wax CS5_2019_clearcut","B5R6wax CS5_2019","B5R6wax CS5","clearcut",2019,5,6,"wax C",5,64,15.8,2019,0,"alive","alive",0,2,230,50,0,"","alive",0,3,880,0,1
+"316","B5R6wax CS5 clearcut","B5R6wax CS5_2020_clearcut","B5R6wax CS5_2020","B5R6wax CS5","clearcut",2020,5,6,"wax C",5,79,18.1,2020,0,"alive","alive",0,3,650,0,0,"","alive",0,4,880,0,1
+"317","B5R6wax CS6 clearcut","B5R6wax CS6_2018_clearcut","B5R6wax CS6_2018","B5R6wax CS6","clearcut",2018,5,6,"wax C",6,61,12,2018,0,"alive","alive",0,0,300,30,0,"","bad condition",0,1,367.5,0,1
+"318","B5R6wax CS6 clearcut","B5R6wax CS6_2019_clearcut","B5R6wax CS6_2019","B5R6wax CS6","clearcut",2019,5,6,"wax C",6,60,10,2019,0,"alive","alive",0,3,7.5,0,0,"","bad condition",0,4,367.5,0,1
+"319","B5R6wax CS6 clearcut","B5R6wax CS6_2020_clearcut","B5R6wax CS6_2020","B5R6wax CS6","clearcut",2020,5,6,"wax C",6,58,7.9,2020,0,"alive","alive",0,3,60,0,0,"","bad condition",0,4,367.5,0,1
+"320","B6R1glueS5 clearcut","B6R1glueS5_2020_clearcut","B6R1glueS5_2020","B6R1glueS5","clearcut",2020,6,1,"glue",5,70,19.3,2020,0,"alive","alive",0,0,60,0,0,"","alive",0,1,60,0,1
+"321","B6R1glueS6 clearcut","B6R1glueS6_2019_clearcut","B6R1glueS6_2019","B6R1glueS6","clearcut",2019,6,1,"glue",6,29,7.4,2019,0,"alive","alive",0,0,30,10,0,"","alive",0,1,30,0,1
+"322","B6R1glueS7 clearcut","B6R1glueS7_2020_clearcut","B6R1glueS7_2020","B6R1glueS7","clearcut",2020,6,1,"glue",7,75,16.4,2020,0,"alive","alive",0,0,70,0,0,"","alive",0,1,70,0,1
+"323","B6R2chemicalS2 clearcut","B6R2chemicalS2_2018_clearcut","B6R2chemicalS2_2018","B6R2chemicalS2","clearcut",2018,6,2,"chemical",2,0,NA,2018,2018,"Hylobius","dead",1,0,70,30,0,"","Hylobius",1,1,70,1,1
+"324","B6R2chemicalS4 clearcut","B6R2chemicalS4_2019_clearcut","B6R2chemicalS4_2019","B6R2chemicalS4","clearcut",2019,6,2,"chemical",4,48,8.2,2019,0,"alive","alive",0,0,50,20,0,"","alive",0,1,70,0,1
+"325","B6R2chemicalS4 clearcut","B6R2chemicalS4_2020_clearcut","B6R2chemicalS4_2020","B6R2chemicalS4","clearcut",2020,6,2,"chemical",4,61,13.9,2020,0,"alive","alive",0,0,20,0,0,"","alive",0,1,70,0,1
+"326","B6R2chemicalS5 clearcut","B6R2chemicalS5_2018_clearcut","B6R2chemicalS5_2018","B6R2chemicalS5","clearcut",2018,6,2,"chemical",5,43,7.4,2018,0,"alive","alive",0,0,40,30,0,"","alive",0,1,40,0,1
+"327","B6R2chemicalS7 clearcut","B6R2chemicalS7_2020_clearcut","B6R2chemicalS7_2020","B6R2chemicalS7","clearcut",2020,6,2,"chemical",7,44,7.7,2020,0,"alive","alive",0,0,10,0,0,"","alive",0,1,10,0,1
+"328","B6R2chemicalS9 clearcut","B6R2chemicalS9_2018_clearcut","B6R2chemicalS9_2018","B6R2chemicalS9","clearcut",2018,6,2,"chemical",9,51,6.9,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,60,0,1
+"329","B6R2chemicalS9 clearcut","B6R2chemicalS9_2019_clearcut","B6R2chemicalS9_2019","B6R2chemicalS9","clearcut",2019,6,2,"chemical",9,57,7.7,2019,0,"alive","alive",0,0,10,10,0,"","alive",0,1,60,0,1
+"330","B6R2chemicalS9 clearcut","B6R2chemicalS9_2020_clearcut","B6R2chemicalS9_2020","B6R2chemicalS9","clearcut",2020,6,2,"chemical",9,63,14.5,2020,0,"alive","alive",0,0,30,0,0,"","alive",0,1,60,0,1
+"331","B6R3controlS2 clearcut","B6R3controlS2_2019_clearcut","B6R3controlS2_2019","B6R3controlS2","clearcut",2019,6,3,"control",2,55,8.7,2019,0,"alive","alive",0,0,40,10,0,"","alive",0,1,40,0,1
+"332","B6R3controlS4 clearcut","B6R3controlS4_2019_clearcut","B6R3controlS4_2019","B6R3controlS4","clearcut",2019,6,3,"control",4,42,7.5,2019,0,"alive","alive",0,0,410,90,0,"","alive",0,1,410,0,1
+"333","B6R3controlS7 clearcut","B6R3controlS7_2018_clearcut","B6R3controlS7_2018","B6R3controlS7","clearcut",2018,6,3,"control",7,44,5.6,2018,0,"alive","alive",0,0,150,50,0,"","alive",0,1,210,0,1
+"334","B6R3controlS7 clearcut","B6R3controlS7_2019_clearcut","B6R3controlS7_2019","B6R3controlS7","clearcut",2019,6,3,"control",7,28,6.1,2019,0,"alive","alive",0,0,60,30,0,"","alive",0,1,210,0,1
+"335","B6R3controlS8 clearcut","B6R3controlS8_2018_clearcut","B6R3controlS8_2018","B6R3controlS8","clearcut",2018,6,3,"control",8,47,6.7,2018,0,"alive","alive",0,0,50,10,0,"","alive",0,1,490,0,1
+"336","B6R3controlS8 clearcut","B6R3controlS8_2019_clearcut","B6R3controlS8_2019","B6R3controlS8","clearcut",2019,6,3,"control",8,49,10.7,2019,0,"alive","alive",0,0,140,50,0,"","alive",0,1,490,0,1
+"337","B6R3controlS8 clearcut","B6R3controlS8_2020_clearcut","B6R3controlS8_2020","B6R3controlS8","clearcut",2020,6,3,"control",8,54,13.4,2020,0,"alive","alive",0,0,300,0,0,"","alive",0,1,490,0,1
+"338","B6R3controlS9 clearcut","B6R3controlS9_2019_clearcut","B6R3controlS9_2019","B6R3controlS9","clearcut",2019,6,3,"control",9,44,8.7,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,120,0,1
+"339","B6R3controlS9 clearcut","B6R3controlS9_2020_clearcut","B6R3controlS9_2020","B6R3controlS9","clearcut",2020,6,3,"control",9,44,11.8,2020,0,"alive","alive",0,0,100,0,0,"","alive",0,1,120,0,1
+"340","B6R4wax FS10 clearcut","B6R4wax FS10_2019_clearcut","B6R4wax FS10_2019","B6R4wax FS10","clearcut",2019,6,4,"wax F",10,54,10.8,2019,0,"alive","alive",0,2,700,50,0,"","alive",0,3,1000,0,1
+"341","B6R4wax FS10 clearcut","B6R4wax FS10_2020_clearcut","B6R4wax FS10_2020","B6R4wax FS10","clearcut",2020,6,4,"wax F",10,63,14.4,2020,0,"alive","alive",0,3,300,0,0,"","alive",0,4,1000,0,1
+"342","B6R4wax FS8 clearcut","B6R4wax FS8_2020_clearcut","B6R4wax FS8_2020","B6R4wax FS8","clearcut",2020,6,4,"wax F",8,35,6.1,2020,0,"alive","alive",0,4,150,0,0,"","terminal",0,5,150,0,1
+"343","B6R4wax FS9 clearcut","B6R4wax FS9_2018_clearcut","B6R4wax FS9_2018","B6R4wax FS9","clearcut",2018,6,4,"wax F",9,53,10.9,2018,0,"alive","alive",0,2,20,10,0,"","alive",0,3,920,0,1
+"344","B6R4wax FS9 clearcut","B6R4wax FS9_2019_clearcut","B6R4wax FS9_2019","B6R4wax FS9","clearcut",2019,6,4,"wax F",9,60,18,2019,0,"alive","alive",0,3,800,20,0,"","alive",0,4,920,0,1
+"345","B6R4wax FS9 clearcut","B6R4wax FS9_2020_clearcut","B6R4wax FS9_2020","B6R4wax FS9","clearcut",2020,6,4,"wax F",9,81,18.4,2020,0,"alive","alive",0,3,100,0,0,"","alive",0,4,920,0,1
+"346","B6R5wax CS10 clearcut","B6R5wax CS10_2018_clearcut","B6R5wax CS10_2018","B6R5wax CS10","clearcut",2018,6,5,"wax C",10,0,NA,2018,2018,"Hylastes","dead",1,1,25,20,0,"","Hylastes",1,2,25,1,1
+"347","B6R5wax CS3 clearcut","B6R5wax CS3_2019_clearcut","B6R5wax CS3_2019","B6R5wax CS3","clearcut",2019,6,5,"wax C",3,53,10.8,2019,0,"alive","alive",0,2,100,30,0,"","alive",0,3,860,1,1
+"348","B6R5wax CS3 clearcut","B6R5wax CS3_2020_clearcut","B6R5wax CS3_2020","B6R5wax CS3","clearcut",2020,6,5,"wax C",3,0,NA,2020,2020,"Hylobius","dead",1,3,760,0,0,"","Hylobius",1,4,860,1,1
+"349","B6R5wax CS4 clearcut","B6R5wax CS4_2019_clearcut","B6R5wax CS4_2019","B6R5wax CS4","clearcut",2019,6,5,"wax C",4,56,13.1,2019,0,"alive","alive",0,2,520,100,0,"","alive",0,3,570,0,1
+"350","B6R5wax CS4 clearcut","B6R5wax CS4_2020_clearcut","B6R5wax CS4_2020","B6R5wax CS4","clearcut",2020,6,5,"wax C",4,57,15.5,2020,0,"alive","alive",0,2,50,0,0,"","terminal",0,3,570,0,1
+"351","B6R5wax CS5 clearcut","B6R5wax CS5_2020_clearcut","B6R5wax CS5_2020","B6R5wax CS5","clearcut",2020,6,5,"wax C",5,0,NA,2020,2020,"Hylobius","dead",1,3,340,0,0,"","Hylobius",1,4,340,1,1
+"352","B6R5wax CS7 clearcut","B6R5wax CS7_2018_clearcut","B6R5wax CS7_2018","B6R5wax CS7","clearcut",2018,6,5,"wax C",7,0,NA,2018,2018,"Hylastes","dead",1,0,10,10,0,"","Hylastes",1,1,10,1,1
+"353","B6R6collarS1 clearcut","B6R6collarS1_2020_clearcut","B6R6collarS1_2020","B6R6collarS1","clearcut",2020,6,6,"collar",1,46,10.4,2020,0,"alive","alive",0,0,50,0,0,"Z","alive",0,1,50,0,1
+"354","B6R6collarS4 clearcut","B6R6collarS4_2019_clearcut","B6R6collarS4_2019","B6R6collarS4","clearcut",2019,6,6,"collar",4,42,7.9,2019,0,"alive","alive",0,0,10,10,0,"","alive",0,1,10,0,1
+"355","B6R6collarS7 clearcut","B6R6collarS7_2019_clearcut","B6R6collarS7_2019","B6R6collarS7","clearcut",2019,6,6,"collar",7,39,5.5,2019,0,"alive","alive",0,0,10,10,0,"","alive",0,1,10,0,1
+"356","B7R1controlS1 clearcut","B7R1controlS1_2020_clearcut","B7R1controlS1_2020","B7R1controlS1","clearcut",2020,7,1,"control",1,51,10.5,2020,0,"alive","alive",0,0,300,0,0,"","alive",0,1,300,0,1
+"357","B7R1controlS10 clearcut","B7R1controlS10_2019_clearcut","B7R1controlS10_2019","B7R1controlS10","clearcut",2019,7,1,"control",10,37,7.8,2019,0,"alive","alive",0,0,50,10,0,"","alive",0,1,1150,1,1
+"358","B7R1controlS10 clearcut","B7R1controlS10_2020_clearcut","B7R1controlS10_2020","B7R1controlS10","clearcut",2020,7,1,"control",10,0,NA,2020,2020,"Hylobius","dead",1,0,1100,0,0,"","Hylobius",1,1,1150,1,1
+"359","B7R1controlS2 clearcut","B7R1controlS2_2019_clearcut","B7R1controlS2_2019","B7R1controlS2","clearcut",2019,7,1,"control",2,0,NA,2019,2019,"Hylobius","dead",1,0,500,100,0,"","Hylobius",1,1,500,1,1
+"360","B7R1controlS3 clearcut","B7R1controlS3_2018_clearcut","B7R1controlS3_2018","B7R1controlS3","clearcut",2018,7,1,"control",3,34,5,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,260,0,1
+"361","B7R1controlS3 clearcut","B7R1controlS3_2020_clearcut","B7R1controlS3_2020","B7R1controlS3","clearcut",2020,7,1,"control",3,36,9.1,2020,0,"alive","alive",0,0,250,0,0,"","terminal",0,1,260,0,1
+"362","B7R1controlS5 clearcut","B7R1controlS5_2019_clearcut","B7R1controlS5_2019","B7R1controlS5","clearcut",2019,7,1,"control",5,30,4.8,2019,0,"alive","alive",0,0,900,100,0,"","alive",0,1,900,1,1
+"363","B7R1controlS6 clearcut","B7R1controlS6_2018_clearcut","B7R1controlS6_2018","B7R1controlS6","clearcut",2018,7,1,"control",6,32,4.4,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,140,0,1
+"364","B7R1controlS6 clearcut","B7R1controlS6_2019_clearcut","B7R1controlS6_2019","B7R1controlS6","clearcut",2019,7,1,"control",6,41,8.1,2019,0,"alive","alive",0,0,30,10,0,"","alive",0,1,140,0,1
+"365","B7R1controlS6 clearcut","B7R1controlS6_2020_clearcut","B7R1controlS6_2020","B7R1controlS6","clearcut",2020,7,1,"control",6,46,11,2020,0,"alive","alive",0,0,100,0,0,"","alive",0,1,140,0,1
+"366","B7R1controlS8 clearcut","B7R1controlS8_2019_clearcut","B7R1controlS8_2019","B7R1controlS8","clearcut",2019,7,1,"control",8,35,6.8,2019,0,"alive","alive",0,0,120,30,0,"","alive",0,1,290,0,1
+"367","B7R1controlS8 clearcut","B7R1controlS8_2020_clearcut","B7R1controlS8_2020","B7R1controlS8","clearcut",2020,7,1,"control",8,39,7.1,2020,0,"alive","alive",0,0,170,0,0,"","alive",0,1,290,0,1
+"368","B7R1controlS9 clearcut","B7R1controlS9_2018_clearcut","B7R1controlS9_2018","B7R1controlS9","clearcut",2018,7,1,"control",9,25,6.8,2018,0,"alive","alive",0,0,30,20,0,"","alive",0,1,830,1,1
+"369","B7R1controlS9 clearcut","B7R1controlS9_2020_clearcut","B7R1controlS9_2020","B7R1controlS9","clearcut",2020,7,1,"control",9,0,NA,2020,2020,"Hylobius","dead",1,0,800,0,0,"","Hylobius",1,1,830,1,1
+"370","B7R2wax FS1 clearcut","B7R2wax FS1_2019_clearcut","B7R2wax FS1_2019","B7R2wax FS1","clearcut",2019,7,2,"wax F",1,48,7.5,2019,0,"alive","alive",0,2,10,10,0,"","alive",0,3,10,0,1
+"371","B7R2wax FS2 clearcut","B7R2wax FS2_2019_clearcut","B7R2wax FS2_2019","B7R2wax FS2","clearcut",2019,7,2,"wax F",2,61,12.4,2019,0,"alive","alive",0,1,80,40,0,"","alive",0,2,270,0,1
+"372","B7R2wax FS2 clearcut","B7R2wax FS2_2020_clearcut","B7R2wax FS2_2020","B7R2wax FS2","clearcut",2020,7,2,"wax F",2,56,13.2,2020,0,"alive","alive",0,2,190,0,0,"","alive",0,3,270,0,1
+"373","B7R2wax FS3 clearcut","B7R2wax FS3_2019_clearcut","B7R2wax FS3_2019","B7R2wax FS3","clearcut",2019,7,2,"wax F",3,42,8.5,2019,0,"alive","alive",0,1,220,50,0,"","alive",0,4,460,1,1
+"374","B7R2wax FS3 clearcut","B7R2wax FS3_2020_clearcut","B7R2wax FS3_2020","B7R2wax FS3","clearcut",2020,7,2,"wax F",3,0,NA,2020,2020,"Hylobius","dead",1,3,240,0,0,"","Hylobius",1,4,460,1,1
+"375","B7R2wax FS6 clearcut","B7R2wax FS6_2020_clearcut","B7R2wax FS6_2020","B7R2wax FS6","clearcut",2020,7,2,"wax F",6,33,7.3,2020,0,"alive","alive",0,3,120,0,0,"","terminal",0,4,120,0,1
+"376","B7R3chemicalS1 clearcut","B7R3chemicalS1_2019_clearcut","B7R3chemicalS1_2019","B7R3chemicalS1","clearcut",2019,7,3,"chemical",1,46,10.4,2019,0,"alive","alive",0,0,30,10,0,"","alive",0,1,30,0,1
+"377","B7R3chemicalS2 clearcut","B7R3chemicalS2_2019_clearcut","B7R3chemicalS2_2019","B7R3chemicalS2","clearcut",2019,7,3,"chemical",2,37,6.8,2019,0,"alive","alive",0,0,10,10,0,"","alive",0,1,10,0,1
+"378","B7R3chemicalS3 clearcut","B7R3chemicalS3_2019_clearcut","B7R3chemicalS3_2019","B7R3chemicalS3","clearcut",2019,7,3,"chemical",3,43,7.4,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,20,0,1
+"379","B7R3chemicalS6 clearcut","B7R3chemicalS6_2019_clearcut","B7R3chemicalS6_2019","B7R3chemicalS6","clearcut",2019,7,3,"chemical",6,33,6.1,2019,0,"alive","alive",0,0,30,10,0,"","alive",0,1,30,0,1
+"380","B7R3chemicalS8 clearcut","B7R3chemicalS8_2019_clearcut","B7R3chemicalS8_2019","B7R3chemicalS8","clearcut",2019,7,3,"chemical",8,43,8.5,2019,0,"alive","alive",0,0,10,10,0,"","terminal",0,1,10,0,1
+"381","B7R4glueS1 clearcut","B7R4glueS1_2018_clearcut","B7R4glueS1_2018","B7R4glueS1","clearcut",2018,7,4,"glue",1,42,7.4,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,600,0,1
+"382","B7R4glueS1 clearcut","B7R4glueS1_2019_clearcut","B7R4glueS1_2019","B7R4glueS1","clearcut",2019,7,4,"glue",1,40,6.2,2019,0,"alive","alive",0,0,500,60,0,"","alive",0,1,600,0,1
+"383","B7R4glueS1 clearcut","B7R4glueS1_2020_clearcut","B7R4glueS1_2020","B7R4glueS1","clearcut",2020,7,4,"glue",1,50,11.2,2020,0,"alive","alive",0,0,80,0,0,"","alive",0,1,600,0,1
+"384","B7R4glueS10 clearcut","B7R4glueS10_2020_clearcut","B7R4glueS10_2020","B7R4glueS10","clearcut",2020,7,4,"glue",10,58,12.7,2020,0,"alive","alive",0,0,40,0,0,"","alive",0,1,40,0,1
+"385","B7R4glueS2 clearcut","B7R4glueS2_2020_clearcut","B7R4glueS2_2020","B7R4glueS2","clearcut",2020,7,4,"glue",2,24,5.8,2020,0,"alive","alive",0,0,30,0,0,"","alive",0,1,30,0,1
+"386","B7R4glueS3 clearcut","B7R4glueS3_2019_clearcut","B7R4glueS3_2019","B7R4glueS3","clearcut",2019,7,4,"glue",3,42,8.5,2019,0,"alive","alive",0,0,500,60,0,"","alive",0,1,550,0,1
+"387","B7R4glueS3 clearcut","B7R4glueS3_2020_clearcut","B7R4glueS3_2020","B7R4glueS3","clearcut",2020,7,4,"glue",3,31,11.2,2020,0,"alive","alive",0,0,50,0,0,"","terminal",0,1,550,0,1
+"388","B7R4glueS4 clearcut","B7R4glueS4_2018_clearcut","B7R4glueS4_2018","B7R4glueS4","clearcut",2018,7,4,"glue",4,34,6.2,2018,0,"alive","alive",0,0,60,30,0,"","alive",0,1,260,0,1
+"389","B7R4glueS4 clearcut","B7R4glueS4_2019_clearcut","B7R4glueS4_2019","B7R4glueS4","clearcut",2019,7,4,"glue",4,38,8.7,2019,0,"alive","alive",0,0,50,50,0,"","alive",0,1,260,0,1
+"390","B7R4glueS4 clearcut","B7R4glueS4_2020_clearcut","B7R4glueS4_2020","B7R4glueS4","clearcut",2020,7,4,"glue",4,31,10.5,2020,0,"alive","alive",0,0,150,0,0,"","terminal",0,1,260,0,1
+"391","B7R4glueS6 clearcut","B7R4glueS6_2020_clearcut","B7R4glueS6_2020","B7R4glueS6","clearcut",2020,7,4,"glue",6,49,11.7,2020,0,"alive","alive",0,0,30,0,0,"","alive",0,1,30,0,1
+"392","B7R4glueS7 clearcut","B7R4glueS7_2018_clearcut","B7R4glueS7_2018","B7R4glueS7","clearcut",2018,7,4,"glue",7,0,NA,2018,2018,"Hylobius","dead",1,0,130,60,0,"","Hylobius",1,1,130,1,1
+"393","B7R4glueS8 clearcut","B7R4glueS8_2018_clearcut","B7R4glueS8_2018","B7R4glueS8","clearcut",2018,7,4,"glue",8,42,6,2018,0,"alive","alive",0,0,40,20,0,"","alive",0,1,1030,0,1
+"394","B7R4glueS8 clearcut","B7R4glueS8_2019_clearcut","B7R4glueS8_2019","B7R4glueS8","clearcut",2019,7,4,"glue",8,33,11,2019,0,"alive","alive",0,0,900,90,0,"","alive",0,1,1030,0,1
+"395","B7R4glueS8 clearcut","B7R4glueS8_2020_clearcut","B7R4glueS8_2020","B7R4glueS8","clearcut",2020,7,4,"glue",8,56,15.9,2020,0,"alive","alive",0,0,90,0,0,"","alive",0,1,1030,0,1
+"396","B7R4glueS9 clearcut","B7R4glueS9_2019_clearcut","B7R4glueS9_2019","B7R4glueS9","clearcut",2019,7,4,"glue",9,26,6.1,2019,0,"alive","alive",0,0,30,10,0,"","alive",0,1,50,0,1
+"397","B7R4glueS9 clearcut","B7R4glueS9_2020_clearcut","B7R4glueS9_2020","B7R4glueS9","clearcut",2020,7,4,"glue",9,47,7.7,2020,0,"alive","alive",0,0,20,0,0,"","alive",0,1,50,0,1
+"398","B7R5wax CS1 clearcut","B7R5wax CS1_2019_clearcut","B7R5wax CS1_2019","B7R5wax CS1","clearcut",2019,7,5,"wax C",1,61,11.6,2019,0,"alive","alive",0,3,630,100,0,"","alive",0,4,890,0,1
+"399","B7R5wax CS1 clearcut","B7R5wax CS1_2020_clearcut","B7R5wax CS1_2020","B7R5wax CS1","clearcut",2020,7,5,"wax C",1,54,8.2,2020,0,"alive","alive",0,3,260,0,0,"","terminal",0,4,890,0,1
+"400","B7R5wax CS10 clearcut","B7R5wax CS10_2020_clearcut","B7R5wax CS10_2020","B7R5wax CS10","clearcut",2020,7,5,"wax C",10,50,10.5,2020,0,"alive","alive",0,3,700,0,0,"","terminal",0,4,700,0,1
+"401","B7R5wax CS2 clearcut","B7R5wax CS2_2019_clearcut","B7R5wax CS2_2019","B7R5wax CS2","clearcut",2019,7,5,"wax C",2,58,7.7,2019,0,"alive","alive",0,4,930,100,0,"","alive",0,1,930,0,1
+"402","B7R5wax CS4 clearcut","B7R5wax CS4_2019_clearcut","B7R5wax CS4_2019","B7R5wax CS4","clearcut",2019,7,5,"wax C",4,53,8,2019,0,"alive","alive",0,1,160,50,0,"","alive",0,4,160,0,1
+"403","B7R5wax CS7 clearcut","B7R5wax CS7_2019_clearcut","B7R5wax CS7_2019","B7R5wax CS7","clearcut",2019,7,5,"wax C",7,43,9.5,2019,0,"alive","alive",0,2,20,10,0,"","alive",0,3,20,1,1
+"404","B7R5wax CS9 clearcut","B7R5wax CS9_2020_clearcut","B7R5wax CS9_2020","B7R5wax CS9","clearcut",2020,7,5,"wax C",9,0,NA,2020,2020,"Hylobius","dead",1,2,600,0,0,"","Hylobius",1,3,600,1,1
+"405","B7R6collarS1 clearcut","B7R6collarS1_2019_clearcut","B7R6collarS1_2019","B7R6collarS1","clearcut",2019,7,6,"collar",1,30,6.1,2019,0,"alive","alive",0,0,1100,100,0,"","alive",0,1,1100,0,1
+"406","B7R6collarS6 clearcut","B7R6collarS6_2020_clearcut","B7R6collarS6_2020","B7R6collarS6","clearcut",2020,7,6,"collar",6,51,8,2020,0,"alive","alive",0,0,100,0,0,"Z","alive",0,1,100,0,1
+"407","B7R6collarS7 clearcut","B7R6collarS7_2020_clearcut","B7R6collarS7_2020","B7R6collarS7","clearcut",2020,7,6,"collar",7,43,9.6,2020,0,"alive","alive",0,0,500,0,0,"Z","alive",0,1,500,0,1
+"408","B8R1chemicalS1 clearcut","B8R1chemicalS1_2020_clearcut","B8R1chemicalS1_2020","B8R1chemicalS1","clearcut",2020,8,1,"chemical",1,67,12.1,2020,0,"alive","alive",0,0,20,0,0,"","alive",0,1,20,0,1
+"409","B8R1chemicalS10 clearcut","B8R1chemicalS10_2018_clearcut","B8R1chemicalS10_2018","B8R1chemicalS10","clearcut",2018,8,1,"chemical",10,0,NA,2018,2018,"Hylobius","dead",1,0,10,10,0,"","other",1,1,10,1,1
+"410","B8R1chemicalS2 clearcut","B8R1chemicalS2_2018_clearcut","B8R1chemicalS2_2018","B8R1chemicalS2","clearcut",2018,8,1,"chemical",2,0,NA,2018,2018,"Hylobius","dead",1,0,180,70,0,"","Hylobius",1,1,180,1,1
+"411","B8R1chemicalS3 clearcut","B8R1chemicalS3_2018_clearcut","B8R1chemicalS3_2018","B8R1chemicalS3","clearcut",2018,8,1,"chemical",3,65,10.3,2018,0,"alive","alive",0,0,60,30,0,"","alive",0,1,60,0,1
+"412","B8R1chemicalS4 clearcut","B8R1chemicalS4_2018_clearcut","B8R1chemicalS4_2018","B8R1chemicalS4","clearcut",2018,8,1,"chemical",4,32,4.6,2018,0,"alive","alive",0,0,50,20,0,"","alive",0,1,50,1,1
+"413","B8R1chemicalS6 clearcut","B8R1chemicalS6_2018_clearcut","B8R1chemicalS6_2018","B8R1chemicalS6","clearcut",2018,8,1,"chemical",6,76,10.7,2018,0,"alive","alive",0,0,40,10,0,"","alive",0,1,160,0,1
+"414","B8R1chemicalS6 clearcut","B8R1chemicalS6_2019_clearcut","B8R1chemicalS6_2019","B8R1chemicalS6","clearcut",2019,8,1,"chemical",6,74,11.5,2019,0,"alive","alive",0,0,100,10,0,"","alive",0,1,160,0,1
+"415","B8R1chemicalS6 clearcut","B8R1chemicalS6_2020_clearcut","B8R1chemicalS6_2020","B8R1chemicalS6","clearcut",2020,8,1,"chemical",6,75,12.9,2020,0,"alive","alive",0,0,20,0,0,"","alive",0,1,160,0,1
+"416","B8R1chemicalS8 clearcut","B8R1chemicalS8_2018_clearcut","B8R1chemicalS8_2018","B8R1chemicalS8","clearcut",2018,8,1,"chemical",8,43,5.7,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,20,0,1
+"417","B8R1chemicalS9 clearcut","B8R1chemicalS9_2018_clearcut","B8R1chemicalS9_2018","B8R1chemicalS9","clearcut",2018,8,1,"chemical",9,0,NA,2018,2018,"Hylobius","dead",1,0,40,20,0,"","other",1,1,40,1,1
+"418","B8R2wax FS1 clearcut","B8R2wax FS1_2019_clearcut","B8R2wax FS1_2019","B8R2wax FS1","clearcut",2019,8,2,"wax F",1,39,9.4,2019,0,"alive","alive",0,1,120,30,0,"","alive",0,2,120,0,1
+"419","B8R2wax FS10 clearcut","B8R2wax FS10_2019_clearcut","B8R2wax FS10_2019","B8R2wax FS10","clearcut",2019,8,2,"wax F",10,48,11.5,2019,0,"alive","alive",0,2,80,20,0,"","alive",0,3,80,0,1
+"420","B8R2wax FS3 clearcut","B8R2wax FS3_2019_clearcut","B8R2wax FS3_2019","B8R2wax FS3","clearcut",2019,8,2,"wax F",3,39,5.2,2019,0,"alive","alive",0,4,800,100,0,"","alive",0,5,1560,1,1
+"421","B8R2wax FS3 clearcut","B8R2wax FS3_2020_clearcut","B8R2wax FS3_2020","B8R2wax FS3","clearcut",2020,8,2,"wax F",3,0,NA,2020,2020,"Hylobius","dead",1,4,760,0,0,"","Hylobius",1,5,1560,1,1
+"422","B8R2wax FS5 clearcut","B8R2wax FS5_2019_clearcut","B8R2wax FS5_2019","B8R2wax FS5","clearcut",2019,8,2,"wax F",5,49,8.9,2019,0,"alive","alive",0,2,640,100,0,"","alive",0,3,1180,1,1
+"423","B8R2wax FS5 clearcut","B8R2wax FS5_2020_clearcut","B8R2wax FS5_2020","B8R2wax FS5","clearcut",2020,8,2,"wax F",5,0,NA,2020,2020,"Hylobius","dead",1,2,540,0,0,"","Hylobius",1,3,1180,1,1
+"424","B8R2wax FS6 clearcut","B8R2wax FS6_2019_clearcut","B8R2wax FS6_2019","B8R2wax FS6","clearcut",2019,8,2,"wax F",6,67,12.5,2019,0,"alive","alive",0,3,760,100,0,"","alive",0,4,1610,1,1
+"425","B8R2wax FS6 clearcut","B8R2wax FS6_2020_clearcut","B8R2wax FS6_2020","B8R2wax FS6","clearcut",2020,8,2,"wax F",6,0,NA,2020,2020,"Hylobius","dead",1,3,850,0,0,"","Hylobius",1,4,1610,1,1
+"426","B8R2wax FS7 clearcut","B8R2wax FS7_2019_clearcut","B8R2wax FS7_2019","B8R2wax FS7","clearcut",2019,8,2,"wax F",7,36,8.5,2019,0,"alive","alive",0,3,760,100,0,"","alive",0,4,760,1,1
+"427","B8R2wax FS8 clearcut","B8R2wax FS8_2019_clearcut","B8R2wax FS8_2019","B8R2wax FS8","clearcut",2019,8,2,"wax F",8,0,NA,2019,2019,"Hylobius","dead",1,1,400,100,0,"","Hylobius",1,2,400,1,1
+"428","B8R2wax FS9 clearcut","B8R2wax FS9_2019_clearcut","B8R2wax FS9_2019","B8R2wax FS9","clearcut",2019,8,2,"wax F",9,85,11.7,2019,0,"alive","alive",0,2,1050,100,0,"","alive",0,3,1150,0,1
+"429","B8R2wax FS9 clearcut","B8R2wax FS9_2020_clearcut","B8R2wax FS9_2020","B8R2wax FS9","clearcut",2020,8,2,"wax F",9,77,20,2020,0,"alive","alive",0,4,100,0,0,"","alive",0,5,1150,0,1
+"430","B8R3collarS2 clearcut","B8R3collarS2_2019_clearcut","B8R3collarS2_2019","B8R3collarS2","clearcut",2019,8,3,"collar",2,35,8.4,2019,0,"alive","alive",0,0,150,50,0,"","alive",0,1,200,0,1
+"431","B8R3collarS2 clearcut","B8R3collarS2_2020_clearcut","B8R3collarS2_2020","B8R3collarS2","clearcut",2020,8,3,"collar",2,40,10,2020,0,"alive","alive",0,0,50,0,0,"Z","alive",0,1,200,0,1
+"432","B8R3collarS6 clearcut","B8R3collarS6_2019_clearcut","B8R3collarS6_2019","B8R3collarS6","clearcut",2019,8,3,"collar",6,0,NA,2019,2019,"Hylobius","dead",1,0,150,80,0,"","Hylobius",1,1,150,1,1
+"433","B8R3collarS9 clearcut","B8R3collarS9_2019_clearcut","B8R3collarS9_2019","B8R3collarS9","clearcut",2019,8,3,"collar",9,30,5.5,2019,0,"alive","alive",0,0,650,100,0,"","alive",0,1,1850,1,1
+"434","B8R3collarS9 clearcut","B8R3collarS9_2020_clearcut","B8R3collarS9_2020","B8R3collarS9","clearcut",2020,8,3,"collar",9,0,NA,2020,2020,"Hylobius","dead",1,0,1200,0,0,"","Hylobius",1,1,1850,1,1
+"435","B8R4controlS10 clearcut","B8R4controlS10_2018_clearcut","B8R4controlS10_2018","B8R4controlS10","clearcut",2018,8,4,"control",10,0,NA,2018,2018,"Hylobius","dead",1,0,120,40,0,"","Hylobius",1,1,120,1,1
+"436","B8R4controlS2 clearcut","B8R4controlS2_2018_clearcut","B8R4controlS2_2018","B8R4controlS2","clearcut",2018,8,4,"control",2,43,9.8,2018,0,"alive","alive",0,0,50,20,0,"","alive",0,1,1900,0,1
+"437","B8R4controlS2 clearcut","B8R4controlS2_2019_clearcut","B8R4controlS2_2019","B8R4controlS2","clearcut",2019,8,4,"control",2,49,11.5,2019,0,"alive","alive",0,0,350,30,0,"","alive",0,1,1900,0,1
+"438","B8R4controlS2 clearcut","B8R4controlS2_2020_clearcut","B8R4controlS2_2020","B8R4controlS2","clearcut",2020,8,4,"control",2,51,12.9,2020,0,"alive","alive",0,0,1500,0,0,"","alive",0,1,1900,0,1
+"439","B8R4controlS3 clearcut","B8R4controlS3_2018_clearcut","B8R4controlS3_2018","B8R4controlS3","clearcut",2018,8,4,"control",3,0,NA,2018,2018,"Hylobius","dead",1,0,160,100,0,"","Hylobius",1,1,160,1,1
+"440","B8R4controlS4 clearcut","B8R4controlS4_2018_clearcut","B8R4controlS4_2018","B8R4controlS4","clearcut",2018,8,4,"control",4,20,4.6,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,510,1,1
+"441","B8R4controlS4 clearcut","B8R4controlS4_2019_clearcut","B8R4controlS4_2019","B8R4controlS4","clearcut",2019,8,4,"control",4,0,NA,2019,2019,"Hylobius","dead",1,0,500,100,0,"","Hylobius",1,1,510,1,1
+"442","B8R4controlS5 clearcut","B8R4controlS5_2018_clearcut","B8R4controlS5_2018","B8R4controlS5","clearcut",2018,8,4,"control",5,46,5.9,2018,0,"alive","alive",0,0,230,80,0,"","alive",0,1,2730,1,1
+"443","B8R4controlS5 clearcut","B8R4controlS5_2019_clearcut","B8R4controlS5_2019","B8R4controlS5","clearcut",2019,8,4,"control",5,44,6.5,2019,0,"alive","alive",0,0,1300,100,0,"","alive",0,1,2730,1,1
+"444","B8R4controlS5 clearcut","B8R4controlS5_2020_clearcut","B8R4controlS5_2020","B8R4controlS5","clearcut",2020,8,4,"control",5,0,NA,2020,2020,"Hylobius","dead",1,0,1200,0,0,"","Hylobius",1,1,2730,1,1
+"445","B8R4controlS7 clearcut","B8R4controlS7_2018_clearcut","B8R4controlS7_2018","B8R4controlS7","clearcut",2018,8,4,"control",7,0,NA,2018,2018,"Hylobius","dead",1,0,780,100,0,"","Hylobius",1,1,780,1,1
+"446","B8R4controlS8 clearcut","B8R4controlS8_2018_clearcut","B8R4controlS8_2018","B8R4controlS8","clearcut",2018,8,4,"control",8,38,5.7,2018,0,"alive","alive",0,0,280,60,0,"","alive",0,1,3280,1,1
+"447","B8R4controlS8 clearcut","B8R4controlS8_2019_clearcut","B8R4controlS8_2019","B8R4controlS8","clearcut",2019,8,4,"control",8,38,8,2019,0,"alive","alive",0,0,1500,100,0,"","alive",0,1,3280,1,1
+"448","B8R4controlS8 clearcut","B8R4controlS8_2020_clearcut","B8R4controlS8_2020","B8R4controlS8","clearcut",2020,8,4,"control",8,0,NA,2020,2020,"Hylobius","dead",1,0,1500,0,0,"","Hylobius",1,1,3280,1,1
+"449","B8R4controlS9 clearcut","B8R4controlS9_2018_clearcut","B8R4controlS9_2018","B8R4controlS9","clearcut",2018,8,4,"control",9,39,7,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,2620,1,1
+"450","B8R4controlS9 clearcut","B8R4controlS9_2019_clearcut","B8R4controlS9_2019","B8R4controlS9","clearcut",2019,8,4,"control",9,42,6.3,2019,0,"alive","alive",0,0,1200,100,0,"","alive",0,1,2620,1,1
+"451","B8R4controlS9 clearcut","B8R4controlS9_2020_clearcut","B8R4controlS9_2020","B8R4controlS9","clearcut",2020,8,4,"control",9,0,NA,2020,2020,"Hylobius","dead",1,0,1400,0,0,"","Hylobius",1,1,2620,1,1
+"452","B8R5glueS2 clearcut","B8R5glueS2_2018_clearcut","B8R5glueS2_2018","B8R5glueS2","clearcut",2018,8,5,"glue",2,0,NA,2018,2018,"Hylobius","dead",1,0,80,70,0,"","Hylobius",1,1,80,1,1
+"453","B8R5glueS3 clearcut","B8R5glueS3_2019_clearcut","B8R5glueS3_2019","B8R5glueS3","clearcut",2019,8,5,"glue",3,33,6.8,2019,0,"alive","alive",0,0,140,90,0,"","alive",0,1,140,0,1
+"454","B8R5glueS5 clearcut","B8R5glueS5_2019_clearcut","B8R5glueS5_2019","B8R5glueS5","clearcut",2019,8,5,"glue",5,39,9.3,2019,0,"alive","alive",0,0,40,20,0,"","alive",0,1,230,0,1
+"455","B8R5glueS5 clearcut","B8R5glueS5_2020_clearcut","B8R5glueS5_2020","B8R5glueS5","clearcut",2020,8,5,"glue",5,42,11.3,2020,0,"alive","alive",0,0,190,0,0,"","alive",0,1,230,0,1
+"456","B8R5glueS8 clearcut","B8R5glueS8_2019_clearcut","B8R5glueS8_2019","B8R5glueS8","clearcut",2019,8,5,"glue",8,18,6.8,2019,0,"alive","alive",0,0,50,20,0,"","human",0,1,50,1,1
+"457","B8R5glueS9 clearcut","B8R5glueS9_2018_clearcut","B8R5glueS9_2018","B8R5glueS9","clearcut",2018,8,5,"glue",9,36,6,2018,0,"alive","alive",0,0,110,70,0,"","alive",0,1,320,0,1
+"458","B8R5glueS9 clearcut","B8R5glueS9_2019_clearcut","B8R5glueS9_2019","B8R5glueS9","clearcut",2019,8,5,"glue",9,39,9.9,2019,0,"alive","alive",0,0,210,40,0,"","alive",0,1,320,0,1
+"459","B8R6wax CS10 clearcut","B8R6wax CS10_2019_clearcut","B8R6wax CS10_2019","B8R6wax CS10","clearcut",2019,8,6,"wax C",10,44,11.6,2019,0,"alive","alive",0,2,50,20,0,"","alive",0,1,50,0,1
+"460","B8R6wax CS2 clearcut","B8R6wax CS2_2019_clearcut","B8R6wax CS2_2019","B8R6wax CS2","clearcut",2019,8,6,"wax C",2,43,12.2,2019,0,"alive","alive",0,3,210,90,0,"","alive",0,4,2710,1,1
+"461","B8R6wax CS2 clearcut","B8R6wax CS2_2020_clearcut","B8R6wax CS2_2020","B8R6wax CS2","clearcut",2020,8,6,"wax C",2,0,NA,2020,2020,"Hylobius","dead",1,2,2500,0,0,"","Hylobius",1,3,2710,1,1
+"462","B8R6wax CS6 clearcut","B8R6wax CS6_2019_clearcut","B8R6wax CS6_2019","B8R6wax CS6","clearcut",2019,8,6,"wax C",6,46,12.3,2019,0,"alive","alive",0,2,50,20,0,"","alive",0,3,50,0,1
+"463","B8R6wax CS7 clearcut","B8R6wax CS7_2019_clearcut","B8R6wax CS7_2019","B8R6wax CS7","clearcut",2019,8,6,"wax C",7,40,9.9,2019,0,"alive","alive",0,2,100,30,0,"","alive",0,3,100,0,1
+"464","B9R1collarS1 clearcut","B9R1collarS1_2020_clearcut","B9R1collarS1_2020","B9R1collarS1","clearcut",2020,9,1,"collar",1,0,NA,2020,2020,"Hylobius","dead",1,0,150,0,0,"Z","Hylobius",1,1,150,1,1
+"465","B9R1collarS10 clearcut","B9R1collarS10_2018_clearcut","B9R1collarS10_2018","B9R1collarS10","clearcut",2018,9,1,"collar",10,0,NA,2018,2018,"Hylobius","dead",1,0,230,60,0,"","Hylobius",1,1,230,1,1
+"466","B9R1collarS2 clearcut","B9R1collarS2_2018_clearcut","B9R1collarS2_2018","B9R1collarS2","clearcut",2018,9,1,"collar",2,0,NA,2018,2018,"Hylobius","dead",1,0,20,10,0,"","other",1,1,20,1,1
+"467","B9R1collarS3 clearcut","B9R1collarS3_2018_clearcut","B9R1collarS3_2018","B9R1collarS3","clearcut",2018,9,1,"collar",3,37,4.5,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,220,1,1
+"468","B9R1collarS3 clearcut","B9R1collarS3_2019_clearcut","B9R1collarS3_2019","B9R1collarS3","clearcut",2019,9,1,"collar",3,0,NA,2019,2019,"Hylobius","dead",1,0,200,30,0,"","Hylobius",1,1,220,1,1
+"469","B9R1collarS4 clearcut","B9R1collarS4_2018_clearcut","B9R1collarS4_2018","B9R1collarS4","clearcut",2018,9,1,"collar",4,0,NA,2018,2018,"Hylobius","dead",1,0,110,70,0,"","Hylobius",1,1,110,1,1
+"470","B9R1collarS5 clearcut","B9R1collarS5_2018_clearcut","B9R1collarS5_2018","B9R1collarS5","clearcut",2018,9,1,"collar",5,33,6,2018,0,"alive","alive",0,0,650,80,0,"","alive",0,1,2950,1,1
+"471","B9R1collarS5 clearcut","B9R1collarS5_2019_clearcut","B9R1collarS5_2019","B9R1collarS5","clearcut",2019,9,1,"collar",5,37,7.3,2019,0,"alive","alive",0,0,1500,100,0,"","alive",0,1,2950,1,1
+"472","B9R1collarS5 clearcut","B9R1collarS5_2020_clearcut","B9R1collarS5_2020","B9R1collarS5","clearcut",2020,9,1,"collar",5,0,NA,2020,2020,"Hylobius","dead",1,0,800,0,0,"","Hylobius",1,1,2950,1,1
+"473","B9R1collarS6 clearcut","B9R1collarS6_2018_clearcut","B9R1collarS6_2018","B9R1collarS6","clearcut",2018,9,1,"collar",6,0,NA,2018,2018,"Hylobius","dead",1,0,440,70,0,"","Hylobius",1,1,440,1,1
+"474","B9R1collarS7 clearcut","B9R1collarS7_2018_clearcut","B9R1collarS7_2018","B9R1collarS7","clearcut",2018,9,1,"collar",7,0,NA,2018,2018,"Hylobius","dead",1,0,90,50,0,"","Hylobius",1,1,90,1,1
+"475","B9R1collarS8 clearcut","B9R1collarS8_2018_clearcut","B9R1collarS8_2018","B9R1collarS8","clearcut",2018,9,1,"collar",8,27,5.2,2018,0,"alive","alive",0,0,50,20,0,"","alive",0,1,1400,0,1
+"476","B9R1collarS8 clearcut","B9R1collarS8_2019_clearcut","B9R1collarS8_2019","B9R1collarS8","clearcut",2019,9,1,"collar",8,29,5.6,2019,0,"alive","alive",0,0,900,100,0,"","alive",0,1,1400,0,1
+"477","B9R1collarS8 clearcut","B9R1collarS8_2020_clearcut","B9R1collarS8_2020","B9R1collarS8","clearcut",2020,9,1,"collar",8,21,6.3,2020,0,"alive","alive",0,0,450,0,0,"Z","bad condition",0,1,1400,0,1
+"478","B9R1collarS9 clearcut","B9R1collarS9_2018_clearcut","B9R1collarS9_2018","B9R1collarS9","clearcut",2018,9,1,"collar",9,0,NA,2018,2018,"Hylobius","dead",1,0,80,50,0,"","Hylobius",1,1,80,1,1
+"479","B9R2controlS1 clearcut","B9R2controlS1_2019_clearcut","B9R2controlS1_2019","B9R2controlS1","clearcut",2019,9,2,"control",1,28,5.8,2019,0,"alive","alive",0,0,350,100,0,"","alive",0,1,350,1,1
+"480","B9R2controlS10 clearcut","B9R2controlS10_2018_clearcut","B9R2controlS10_2018","B9R2controlS10","clearcut",2018,9,2,"control",10,0,NA,2018,2018,"Hylobius","dead",1,0,210,90,0,"","Hylobius",1,1,210,1,1
+"481","B9R2controlS2 clearcut","B9R2controlS2_2019_clearcut","B9R2controlS2_2019","B9R2controlS2","clearcut",2019,9,2,"control",2,41,6.2,2019,0,"alive","alive",0,0,20,10,0,"","alive",0,1,20,0,1
+"482","B9R2controlS3 clearcut","B9R2controlS3_2018_clearcut","B9R2controlS3_2018","B9R2controlS3","clearcut",2018,9,2,"control",3,0,NA,2018,2018,"Hylobius","dead",1,0,150,90,0,"","Hylobius",1,1,150,1,1
+"483","B9R2controlS4 clearcut","B9R2controlS4_2018_clearcut","B9R2controlS4_2018","B9R2controlS4","clearcut",2018,9,2,"control",4,0,NA,2018,2018,"Hylobius","dead",1,0,60,30,0,"","other",1,1,60,1,1
+"484","B9R2controlS5 clearcut","B9R2controlS5_2018_clearcut","B9R2controlS5_2018","B9R2controlS5","clearcut",2018,9,2,"control",5,0,NA,2018,2018,"Hylobius","dead",1,0,450,100,0,"","Hylobius",1,1,450,1,1
+"485","B9R2controlS6 clearcut","B9R2controlS6_2018_clearcut","B9R2controlS6_2018","B9R2controlS6","clearcut",2018,9,2,"control",6,0,NA,2018,2018,"Hylobius","dead",1,0,960,100,0,"","Hylobius",1,1,960,1,1
+"486","B9R2controlS7 clearcut","B9R2controlS7_2018_clearcut","B9R2controlS7_2018","B9R2controlS7","clearcut",2018,9,2,"control",7,54,7,2018,0,"alive","alive",0,0,10,10,0,"","alive",0,1,3810,1,1
+"487","B9R2controlS7 clearcut","B9R2controlS7_2019_clearcut","B9R2controlS7_2019","B9R2controlS7","clearcut",2019,9,2,"control",7,56,6.9,2019,0,"alive","alive",0,0,1300,100,0,"","alive",0,1,3810,1,1
+"488","B9R2controlS7 clearcut","B9R2controlS7_2020_clearcut","B9R2controlS7_2020","B9R2controlS7","clearcut",2020,9,2,"control",7,0,NA,2020,2020,"Hylobius","dead",1,0,2500,0,0,"","Hylobius",1,1,3810,1,1
+"489","B9R2controlS8 clearcut","B9R2controlS8_2018_clearcut","B9R2controlS8_2018","B9R2controlS8","clearcut",2018,9,2,"control",8,0,NA,2018,2018,"Hylobius","dead",1,0,130,100,0,"","Hylobius",1,1,130,1,1
+"490","B9R2controlS9 clearcut","B9R2controlS9_2018_clearcut","B9R2controlS9_2018","B9R2controlS9","clearcut",2018,9,2,"control",9,0,NA,2018,2018,"Hylobius","dead",1,0,70,50,0,"","Hylobius",1,1,70,1,1
+"491","B9R3wax FS1 clearcut","B9R3wax FS1_2019_clearcut","B9R3wax FS1_2019","B9R3wax FS1","clearcut",2019,9,3,"wax F",1,48,11.8,2019,0,"alive","alive",0,2,220,50,0,"","alive",0,3,250,0,1
+"492","B9R3wax FS1 clearcut","B9R3wax FS1_2020_clearcut","B9R3wax FS1_2020","B9R3wax FS1","clearcut",2020,9,3,"wax F",1,59,13.2,2020,0,"alive","alive",0,3,30,0,0,"","alive",0,4,250,0,1
+"493","B9R3wax FS2 clearcut","B9R3wax FS2_2019_clearcut","B9R3wax FS2_2019","B9R3wax FS2","clearcut",2019,9,3,"wax F",2,41,5.4,2019,0,"alive","alive",0,3,350,100,0,"","alive",0,4,650,1,1
+"494","B9R3wax FS2 clearcut","B9R3wax FS2_2020_clearcut","B9R3wax FS2_2020","B9R3wax FS2","clearcut",2020,9,3,"wax F",2,0,NA,2020,2020,"Hylobius","dead",1,0,300,0,0,"","Hylobius",1,1,650,1,1
+"495","B9R3wax FS3 clearcut","B9R3wax FS3_2020_clearcut","B9R3wax FS3_2020","B9R3wax FS3","clearcut",2020,9,3,"wax F",3,0,NA,2020,2020,"Hylobius","dead",1,2,90,0,0,"","Hylobius",1,3,90,1,1
+"496","B9R3wax FS4 clearcut","B9R3wax FS4_2019_clearcut","B9R3wax FS4_2019","B9R3wax FS4","clearcut",2019,9,3,"wax F",4,41,11.2,2019,0,"alive","alive",0,2,130,40,0,"","alive",0,3,420,0,1
+"497","B9R3wax FS4 clearcut","B9R3wax FS4_2020_clearcut","B9R3wax FS4_2020","B9R3wax FS4","clearcut",2020,9,3,"wax F",4,49,14.1,2020,0,"alive","alive",0,2,290,0,0,"","terminal",0,3,420,0,1
+"498","B9R3wax FS9 clearcut","B9R3wax FS9_2019_clearcut","B9R3wax FS9_2019","B9R3wax FS9","clearcut",2019,9,3,"wax F",9,44,8.4,2019,0,"alive","alive",0,4,250,100,0,"","alive",0,5,570,0,1
+"499","B9R3wax FS9 clearcut","B9R3wax FS9_2020_clearcut","B9R3wax FS9_2020","B9R3wax FS9","clearcut",2020,9,3,"wax F",9,55,12.8,2020,0,"alive","alive",0,3,320,0,0,"","alive",0,5,570,0,1
+"500","B9R4chemicalS1 clearcut","B9R4chemicalS1_2018_clearcut","B9R4chemicalS1_2018","B9R4chemicalS1","clearcut",2018,9,4,"chemical",1,36,7.1,2018,0,"alive","alive",0,0,30,10,0,"","alive",0,1,30,0,1
+"501","B9R4chemicalS10 clearcut","B9R4chemicalS10_2018_clearcut","B9R4chemicalS10_2018","B9R4chemicalS10","clearcut",2018,9,4,"chemical",10,43,6.7,2018,0,"alive","alive",0,0,140,40,0,"","alive",0,1,160,0,1
+"502","B9R4chemicalS10 clearcut","B9R4chemicalS10_2020_clearcut","B9R4chemicalS10_2020","B9R4chemicalS10","clearcut",2020,9,4,"chemical",10,65,13.5,2020,0,"alive","alive",0,0,20,0,0,"","alive",0,1,160,0,1
+"503","B9R4chemicalS2 clearcut","B9R4chemicalS2_2018_clearcut","B9R4chemicalS2_2018","B9R4chemicalS2","clearcut",2018,9,4,"chemical",2,43,7.7,2018,0,"alive","alive",0,0,30,30,0,"","alive",0,1,30,0,1
+"504","B9R4chemicalS4 clearcut","B9R4chemicalS4_2018_clearcut","B9R4chemicalS4_2018","B9R4chemicalS4","clearcut",2018,9,4,"chemical",4,50,5.2,2018,0,"alive","alive",0,0,20,20,0,"","alive",0,1,20,1,1
+"505","B9R4chemicalS6 clearcut","B9R4chemicalS6_2018_clearcut","B9R4chemicalS6_2018","B9R4chemicalS6","clearcut",2018,9,4,"chemical",6,0,NA,2018,2018,"Hylobius","dead",1,0,60,20,0,"","other",1,1,60,1,1
+"506","B9R4chemicalS7 clearcut","B9R4chemicalS7_2018_clearcut","B9R4chemicalS7_2018","B9R4chemicalS7","clearcut",2018,9,4,"chemical",7,0,NA,2018,2018,"Hylobius","dead",1,0,110,90,0,"","Hylobius",1,1,110,1,1
+"507","B9R4chemicalS8 clearcut","B9R4chemicalS8_2018_clearcut","B9R4chemicalS8_2018","B9R4chemicalS8","clearcut",2018,9,4,"chemical",8,37,4.9,2018,0,"alive","alive",0,0,30,10,0,"","alive",0,1,30,0,1
+"508","B9R4chemicalS9 clearcut","B9R4chemicalS9_2018_clearcut","B9R4chemicalS9_2018","B9R4chemicalS9","clearcut",2018,9,4,"chemical",9,48,7.8,2018,0,"alive","alive",0,0,20,10,0,"","alive",0,1,110,0,1
+"509","B9R4chemicalS9 clearcut","B9R4chemicalS9_2019_clearcut","B9R4chemicalS9_2019","B9R4chemicalS9","clearcut",2019,9,4,"chemical",9,49,10,2019,0,"alive","alive",0,0,60,10,0,"","alive",0,1,110,0,1
+"510","B9R4chemicalS9 clearcut","B9R4chemicalS9_2020_clearcut","B9R4chemicalS9_2020","B9R4chemicalS9","clearcut",2020,9,4,"chemical",9,70,14.8,2020,0,"alive","alive",0,0,30,0,0,"","alive",0,1,110,0,1
+"511","B9R5glueS1 clearcut","B9R5glueS1_2018_clearcut","B9R5glueS1_2018","B9R5glueS1","clearcut",2018,9,5,"glue",1,40,10.2,2018,0,"alive","alive",0,0,40,30,0,"","alive",0,1,90,0,1
+"512","B9R5glueS1 clearcut","B9R5glueS1_2019_clearcut","B9R5glueS1_2019","B9R5glueS1","clearcut",2019,9,5,"glue",1,49,19.1,2019,0,"alive","alive",0,0,50,20,0,"","alive",0,1,90,0,1
+"513","B9R5glueS10 clearcut","B9R5glueS10_2019_clearcut","B9R5glueS10_2019","B9R5glueS10","clearcut",2019,9,5,"glue",10,61,11.5,2019,0,"alive","alive",0,0,340,50,0,"","alive",0,1,1100,1,1
+"514","B9R5glueS10 clearcut","B9R5glueS10_2020_clearcut","B9R5glueS10_2020","B9R5glueS10","clearcut",2020,9,5,"glue",10,0,NA,2020,2020,"Hylobius","dead",1,0,760,0,0,"","Hylobius",1,1,1100,1,1
+"515","B9R5glueS2 clearcut","B9R5glueS2_2018_clearcut","B9R5glueS2_2018","B9R5glueS2","clearcut",2018,9,5,"glue",2,0,NA,2018,2018,"Hylobius","dead",1,0,430,100,0,"","Hylobius",1,1,430,1,1
+"516","B9R5glueS3 clearcut","B9R5glueS3_2018_clearcut","B9R5glueS3_2018","B9R5glueS3","clearcut",2018,9,5,"glue",3,0,NA,2018,2018,"Hylobius","dead",1,0,220,100,0,"","Hylobius",1,1,220,1,1
+"517","B9R5glueS4 clearcut","B9R5glueS4_2019_clearcut","B9R5glueS4_2019","B9R5glueS4","clearcut",2019,9,5,"glue",4,52,11.5,2019,0,"alive","alive",0,0,110,30,0,"","alive",0,1,110,0,1
+"518","B9R5glueS5 clearcut","B9R5glueS5_2019_clearcut","B9R5glueS5_2019","B9R5glueS5","clearcut",2019,9,5,"glue",5,65,12.6,2019,0,"alive","alive",0,0,80,30,0,"","alive",0,1,80,0,1
+"519","B9R5glueS6 clearcut","B9R5glueS6_2019_clearcut","B9R5glueS6_2019","B9R5glueS6","clearcut",2019,9,5,"glue",6,53,14.1,2019,0,"alive","alive",0,0,180,40,0,"","alive",0,1,180,0,1
+"520","B9R5glueS7 clearcut","B9R5glueS7_2018_clearcut","B9R5glueS7_2018","B9R5glueS7","clearcut",2018,9,5,"glue",7,0,NA,2018,2018,"Hylobius","dead",1,0,230,100,0,"","Hylobius",1,1,230,1,1
+"521","B9R5glueS9 clearcut","B9R5glueS9_2018_clearcut","B9R5glueS9_2018","B9R5glueS9","clearcut",2018,9,5,"glue",9,0,NA,2018,2018,"Hylobius","dead",1,0,80,50,0,"","Hylobius",1,1,80,1,1
+"522","B9R6wax CS1 clearcut","B9R6wax CS1_2019_clearcut","B9R6wax CS1_2019","B9R6wax CS1","clearcut",2019,9,6,"wax C",1,39,9,2019,0,"alive","alive",0,2,400,100,0,"","alive",0,3,400,1,1
+"523","B9R6wax CS2 clearcut","B9R6wax CS2_2019_clearcut","B9R6wax CS2_2019","B9R6wax CS2","clearcut",2019,9,6,"wax C",2,41,9.2,2019,0,"alive","alive",0,1,50,20,0,"","alive",0,2,50,1,1
+"524","B9R6wax CS3 clearcut","B9R6wax CS3_2019_clearcut","B9R6wax CS3_2019","B9R6wax CS3","clearcut",2019,9,6,"wax C",3,30,4.5,2019,0,"alive","alive",0,4,250,100,0,"","alive",0,5,250,1,1
+"525","B9R6wax CS5 clearcut","B9R6wax CS5_2019_clearcut","B9R6wax CS5_2019","B9R6wax CS5","clearcut",2019,9,6,"wax C",5,46,8.8,2019,0,"alive","alive",0,2,20,10,0,"","alive",0,3,120,0,1
+"526","B9R6wax CS5 clearcut","B9R6wax CS5_2020_clearcut","B9R6wax CS5_2020","B9R6wax CS5","clearcut",2020,9,6,"wax C",5,48,11.7,2020,0,"alive","alive",0,3,100,0,0,"","alive",0,4,120,0,1
+"527","B9R6wax CS6 clearcut","B9R6wax CS6_2019_clearcut","B9R6wax CS6_2019","B9R6wax CS6","clearcut",2019,9,6,"wax C",6,0,NA,2019,2019,"Hylastes","dead",1,3,20,10,0,"","Hylastes",1,4,20,1,1
+"528","B9R6wax CS7 clearcut","B9R6wax CS7_2019_clearcut","B9R6wax CS7_2019","B9R6wax CS7","clearcut",2019,9,6,"wax C",7,41,2.4,2019,0,"alive","alive",0,2,90,30,0,"","alive",0,3,90,0,1
+"529","B9R6wax CS9 clearcut","B9R6wax CS9_2019_clearcut","B9R6wax CS9_2019","B9R6wax CS9","clearcut",2019,9,6,"wax C",9,60,13.5,2019,0,"alive","alive",0,2,2500,100,0,"","alive",0,3,4000,1,1
+"530","B9R6wax CS9 clearcut","B9R6wax CS9_2020_clearcut","B9R6wax CS9_2020","B9R6wax CS9","clearcut",2020,9,6,"wax C",9,0,NA,2020,2020,"Hylobius","dead",1,4,1500,0,0,"","Hylobius",1,5,4000,1,1
